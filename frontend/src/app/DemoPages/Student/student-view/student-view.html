@@ -1,0 +1,97 @@
+<div class="main-card mb-3 card">
+<div class="card-header d-flex align-items-center justify-content-between">
+<span>Students</span>
+<div class="d-flex align-items-center gap-2">
+<span *ngIf="loading" class="badge bg-info">Loading…</span>
+<button class="btn btn-success btn-sm" (click)="openAddForm()">Add</button>
+</div>
+</div>
+<div class="card-body">
+<div *ngIf="error" class="alert alert-danger mb-3">{{ error }}</div>
+
+
+<!-- Table modeled after Active Users -->
+<div class="table-responsive">
+<table class="align-middle mb-0 table table-borderless table-striped table-hover">
+<thead>
+<tr>
+<th class="text-center">#</th>
+<th>Name</th>
+<th class="text-center">Email</th>
+<th class="text-center">Birth</th>
+<th class="text-center">Registered</th>
+<th class="text-center">Actions</th>
+</tr>
+</thead>
+<tbody>
+<tr *ngFor="let s of rows; index as i">
+<td class="text-center text-muted">#{{ s.id || (i + 1) }}</td>
+<td>
+<div class="widget-content p-0">
+<div class="widget-content-wrapper">
+<div class="widget-content-left me-3">
+<div class="widget-content-left">
+<img width="40" height="40" class="rounded-circle"
+[src]="avatarUrl(s.firstName)" [alt]="s.firstName" />
+</div>
+</div>
+<div class="widget-content-left flex2" *ngIf="editId !== s.id; else editName">
+<div class="widget-heading">{{ s.firstName }} {{ s.lastName }}</div>
+<div class="widget-subheading opacity-7">Student</div>
+</div>
+<ng-template #editName>
+<div class="row g-2">
+<div class="col">
+<input class="form-control form-control-sm" [(ngModel)]="editRow!.firstName" />
+</div>
+<div class="col">
+<input class="form-control form-control-sm" [(ngModel)]="editRow!.lastName" />
+</div>
+</div>
+</ng-template>
+</div>
+</div>
+</td>
+<td class="text-center" *ngIf="editId !== s.id; else editEmail">{{ s.email }}</td>
+<ng-template #editEmail>
+<td class="text-center"><input class="form-control form-control-sm" type="email" [(ngModel)]="editRow!.email" /></td>
+</ng-template>
+
+
+<td class="text-center" *ngIf="editId !== s.id; else editDob">{{ s.dateOfBirth }}</td>
+<ng-template #editDob>
+<td class="text-center"><input class="form-control form-control-sm" type="date" [(ngModel)]="editRow!.dateOfBirth" /></td>
+</ng-template>
+
+
+<td class="text-center">{{ s.registrationDate || '—' }}</td>
+
+
+<td class="text-center">
+<ng-container *ngIf="editId !== s.id; else editActions">
+<div role="group" class="btn-group-sm btn-group">
+<button class="btn-shadow btn btn-primary" (click)="startEdit(s)">Update</button>
+<button class="btn-shadow btn btn-outline-danger" (click)="remove(s.id!)">Delete</button>
+</div>
+</ng-container>
+<ng-template #editActions>
+<div role="group" class="btn-group-sm btn-group">
+<button class="btn-shadow btn btn-success" (click)="saveEdit()">Save</button>
+<button class="btn-shadow btn btn-secondary" (click)="cancelEdit()">Cancel</button>
+</div>
+</ng-template>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+<!-- Modal: Student Form (Add) -->
+<app-student-form
+*ngIf="showForm"
+(close)="closeForm()"
+(saved)="handleSaved($event)">
+</app-student-form>
+</div>
