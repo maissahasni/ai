@@ -53,6 +53,7 @@ import {FooterComponent} from './Layout/Components/footer/footer.component';
 // ThemeOptions
 import {ThemeOptions} from './theme-options';
 import { StudentModule } from './student-module';
+import { CourseModule } from './course-module';
 
 @NgModule({
   declarations: [
@@ -102,6 +103,7 @@ import { StudentModule } from './student-module';
     FormPagesModule,
     TablesModule,
     StudentModule,
+    CourseModule,
     WidgetsModule,
     ComponentsModule,
   ],

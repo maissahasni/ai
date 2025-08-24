@@ -77,6 +77,32 @@
                 </div>
               </div>
             </div>
+            <!--Courses-->
+            <div class="vsm-header">Courses</div>
+            <!--Students-->
+            <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('coursesMenu')">
+              <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('coursesMenu')">
+                <i class="vsm-icon pe-7s-browser"></i>
+                <span class="vsm-title">Courses</span>
+                <i class="vsm-arrow"></i>
+              </a>
+              <div class="vsm-dropdown" [class.vsm-dropdown-show]="openMenus.includes('coursesMenu')">
+                <div class="vsm-list">
+                  <div class="vsm-item">
+                    <a routerLink="/courses/view" routerLinkActive="active-item" class="vsm-link" (click)="onNavigate()">
+                      <span class="vsm-title">View</span>
+                    </a>
+                  </div>
+                  <div class="vsm-item">
+                    <a routerLink="/courses/form" routerLinkActive="active-item" class="vsm-link" (click)="onNavigate()">
+                      <span class="vsm-title">Form</span>
+                    </a>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+
             <div class="vsm-header">UI Elements</div>
 
             <!-- Elements -->

@@ -47,6 +47,8 @@ import {
 } from './components.barrel';
 import { StudentView } from './DemoPages/Student/student-view/student-view';
 import { StudentForm } from './DemoPages/Student/student-form/student-form';
+import { CourseView } from './DemoPages/Course/course-view/course-view';
+import { CourseForm } from './DemoPages/Course/course-form/course-form';
 
 const routes: Routes = [
   {
@@ -87,6 +89,9 @@ const routes: Routes = [
       //Students
       {path: 'students/view',component:StudentView},
       {path: 'students/form',component:StudentForm},
+      //Courses
+      {path: 'courses/view',component:CourseView},
+      {path: 'courses/form',component:CourseForm},
       // Widgets
       {path: 'widgets/chart-boxes-3', component: ChartBoxes3Component, data: {extraParameter: 'widgetsMenu'}},
     ]
