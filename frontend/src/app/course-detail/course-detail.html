@@ -1,0 +1,42 @@
+<div class="main-card mb-3 card" *ngIf="course; else loadingTpl">
+  <!-- Hero Image -->
+  <div class="ratio ratio-21x9 bg-light">
+    <ng-container *ngIf="heroUrl; else heroPh">
+      <img [src]="heroUrl" class="w-100 h-100" [alt]="course?.courseName" style="object-fit: cover;">
+    </ng-container>
+    <ng-template #heroPh><div class="w-100 h-100 shimmer"></div></ng-template>
+  </div>
+
+  <div class="card-body">
+    <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+    <h3 class="mb-1">{{ course?.courseName }}</h3>
+    <p class="text-muted mb-2">{{ course?.description }}</p>
+    <div class="d-flex flex-wrap gap-2 small mb-4">
+      <span class="badge bg-secondary">{{ course?.duration }}h</span>
+      <span class="badge bg-dark">Start: {{ course?.startDate }}</span>
+      <span class="badge bg-dark">End: {{ course?.endDate }}</span>
+    </div>
+
+    <!-- Enroll -->
+    <div class="d-grid">
+      <button class="btn btn-primary" [disabled]="enrolling" (click)="enroll()">
+        {{ enrolling ? 'Enrolling…' : 'Enroll (Student #1)' }}
+      </button>
+    </div>
+    <div *ngIf="enrollMsg" class="small mt-2"
+         [class.text-success]="enrollMsg.includes('successful')"
+         [class.text-danger]="enrollMsg.includes('failed')">
+      {{ enrollMsg }}
+    </div>
+  </div>
+</div>
+
+<ng-template #loadingTpl>
+  <div class="main-card mb-3 card">
+    <div class="card-body">
+      <span *ngIf="loading" class="badge bg-info">Loading…</span>
+      <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+    </div>
+  </div>
+</ng-template>

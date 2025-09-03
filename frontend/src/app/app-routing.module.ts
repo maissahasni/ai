@@ -49,11 +49,17 @@ import { StudentView } from './DemoPages/Student/student-view/student-view';
 import { StudentForm } from './DemoPages/Student/student-form/student-form';
 import { CourseView } from './DemoPages/Course/course-view/course-view';
 import { CourseForm } from './DemoPages/Course/course-form/course-form';
+import { CourseGrid } from './course-grid/course-grid';
+import { CourseDetail } from './course-detail/course-detail';
+import { Signin } from './signin/signin';
+import { Signup } from './signup/signup';
+import { AdminGuard } from './services/admin.guard';
+import { StudentGuard } from './services/student.guard';
 
 const routes: Routes = [
   {
     path: '',
-    component: BaseLayoutComponent,
+    component: BaseLayoutComponent,canActivate:[AdminGuard],
     children: [
       // Dashboards
       {path: '', redirectTo: '/dashboards/analytics', pathMatch: 'full'},
@@ -92,6 +98,7 @@ const routes: Routes = [
       //Courses
       {path: 'courses/view',component:CourseView},
       {path: 'courses/form',component:CourseForm},
+      
       // Widgets
       {path: 'widgets/chart-boxes-3', component: ChartBoxes3Component, data: {extraParameter: 'widgetsMenu'}},
     ]
@@ -106,6 +113,10 @@ const routes: Routes = [
       {path: 'pages/forgot-password-boxed', component: ForgotPasswordBoxedComponent, data: {extraParameter: ''}},
     ]
   },
+  {path:'courses/front',component: CourseGrid},
+  {path:'course/:id',component:CourseDetail,canActivate: [StudentGuard]},
+  { path: 'auth/signin', component: Signin },
+  { path: 'auth/signup', component: Signup },
   {path: '**', redirectTo: ''}
 ];
 

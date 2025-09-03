@@ -1,0 +1,35 @@
+<div class="main-card mb-3 card">
+  <div class="card-header d-flex align-items-center justify-content-between">
+    <span>Courses</span>
+    <span *ngIf="loading" class="badge bg-info">Loading…</span>
+  </div>
+
+  <div class="card-body">
+    <div *ngIf="error" class="alert alert-danger mb-3">{{ error }}</div>
+
+    <div class="row g-3">
+      <div class="col-12 col-md-6 col-lg-4" *ngFor="let c of rows">
+        <div class="card h-100 shadow-sm course-card" (click)="openDetails(c.id)" style="cursor:pointer;">
+          <div class="ratio ratio-16x9 card-img-top bg-light position-relative">
+            <ng-container *ngIf="courseImage(c.courseName) as src; else ph">
+              <img [src]="src" [alt]="c.courseName" class="w-100 h-100" style="object-fit: cover;">
+            </ng-container>
+            <ng-template #ph>
+              <div class="w-100 h-100 shimmer"></div>
+            </ng-template>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title mb-1 text-truncate" title="{{ c.courseName }}">{{ c.courseName }}</h5>
+            <p class="card-text small text-muted text-truncate-2" title="{{ c.description }}">{{ c.description }}</p>
+            <div class="d-flex flex-wrap gap-2 small">
+              <span class="badge bg-secondary">{{ c.duration }}h</span>
+              <span class="badge bg-dark">Start: {{ c.startDate }}</span>
+              <span class="badge bg-dark">End: {{ c.endDate }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

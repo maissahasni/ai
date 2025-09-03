@@ -54,6 +54,10 @@ import {FooterComponent} from './Layout/Components/footer/footer.component';
 import {ThemeOptions} from './theme-options';
 import { StudentModule } from './student-module';
 import { CourseModule } from './course-module';
+import { CourseGrid } from './course-grid/course-grid';
+import { CourseDetail } from './course-detail/course-detail';
+import { Signin } from './signin/signin';
+import { Signup } from './signup/signup';
 
 @NgModule({
   declarations: [
@@ -75,6 +79,10 @@ import { CourseModule } from './course-module';
 
     // FOOTER
     FooterComponent,
+     CourseGrid,
+     CourseDetail,
+     Signin,
+     Signup,
 
     // All page components are declared in feature modules
   ],
