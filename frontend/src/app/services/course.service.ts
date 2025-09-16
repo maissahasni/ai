@@ -1,7 +1,8 @@
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
 import { Course } from "../models/course.model";
-import { HttpClient } from "@angular/common/http";
+import { HttpClient, HttpParams } from "@angular/common/http";
+import { CourseSearchRequest, CourseSearchResponse } from "../models/course-search.models";
 
 @Injectable({ providedIn: 'root' })
 export class CourseService {
@@ -44,4 +45,13 @@ export class CourseService {
     delete(id: number): Observable<void> {
         return this.http.delete<void>(`${this.base}/${id}`);
     }
+     /**
+   * Recommended: POST /api/course/search
+   * (Change your Spring controller method to @PostMapping("/search"))
+   */
+  searchByPost(req: CourseSearchRequest): Observable<CourseSearchResponse> {
+    return this.http.post<CourseSearchResponse>(`${this.base}/search`, req);
+  }
+
+  
 }

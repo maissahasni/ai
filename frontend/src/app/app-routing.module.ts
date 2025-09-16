@@ -55,6 +55,8 @@ import { Signin } from './signin/signin';
 import { Signup } from './signup/signup';
 import { AdminGuard } from './services/admin.guard';
 import { StudentGuard } from './services/student.guard';
+import { EnrollmentView } from './DemoPages/Course/enrollment-view/enrollment-view';
+import { Mycourses } from './mycourses/mycourses';
 
 const routes: Routes = [
   {
@@ -97,6 +99,7 @@ const routes: Routes = [
       {path: 'students/form',component:StudentForm},
       //Courses
       {path: 'courses/view',component:CourseView},
+      {path: 'courses/enrollmentview',component:EnrollmentView},
       {path: 'courses/form',component:CourseForm},
       
       // Widgets
@@ -114,6 +117,7 @@ const routes: Routes = [
     ]
   },
   {path:'courses/front',component: CourseGrid},
+  {path:'courses/my',component: Mycourses},
   {path:'course/:id',component:CourseDetail,canActivate: [StudentGuard]},
   { path: 'auth/signin', component: Signin },
   { path: 'auth/signup', component: Signup },

@@ -4,8 +4,8 @@
   <div class="app-header__logo">
     <div class="logo-src">
       <span class="logo-text">
-        <span class="logo-full">ArchitectUI</span>
-        <span class="logo-collapsed">A</span>
+        <span class="logo-full">EduVermeg</span>
+        <span class="logo-collapsed">Edu</span>
       </span>
     </div>
   </div>
@@ -14,19 +14,21 @@
       <div class="sidebar-scrollbar">
         <div class="v-sidebar-menu vsm-default">
           <div class="vsm-list">
+            <!-- Dashboards
             <div class="vsm-header">Navigation</div>
             
-            <!-- Dashboards -->
+            
             <div class="vsm-item" [class.vsm-active]="extraParameter === 'dashboardsMenu'">
               <a routerLink="/dashboards/analytics" routerLinkActive="active-item" class="vsm-link" (click)="onNavigate()">
                 <i class="vsm-icon pe-7s-rocket"></i>
                 <span class="vsm-title">Dashboard</span>
               </a>
             </div>
-
+             -->
+<!-- Pages 
             <div class="vsm-header">Pages</div>
             
-            <!-- Pages -->
+            
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('pagesMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('pagesMenu')">
                 <i class="vsm-icon pe-7s-browser"></i>
@@ -52,7 +54,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div>-->
             <div class="vsm-header">Students</div>
             <!--Students-->
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('studentsMenu')">
@@ -98,14 +100,19 @@
                       <span class="vsm-title">Form</span>
                     </a>
                   </div>
+                  <div class="vsm-item">
+                    <a routerLink="/courses/enrollmentview" routerLinkActive="active-item" class="vsm-link" (click)="onNavigate()">
+                      <span class="vsm-title">View Enrollement</span>
+                    </a>
+                  </div>
                   
                 </div>
               </div>
             </div>
-
+<!--Elements
             <div class="vsm-header">UI Elements</div>
 
-            <!-- Elements -->
+              
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('elementsMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('elementsMenu')">
                 <i class="vsm-icon pe-7s-car"></i>
@@ -148,8 +155,8 @@
                 </div>
               </div>
             </div>
-
-            <!-- Components -->
+-->
+            <!-- Components 
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('componentsMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('componentsMenu')">
                 <i class="vsm-icon pe-7s-diamond"></i>
@@ -197,10 +204,11 @@
                 </div>
               </div>
             </div>
-
+-->
+            <!-- Tables
             <div class="vsm-header">Data</div>
 
-            <!-- Tables -->
+             
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('tablesMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('tablesMenu')">
                 <i class="vsm-icon pe-7s-display2"></i>
@@ -223,8 +231,8 @@
                 </div>
               </div>
             </div>
-
-            <!-- Forms -->
+-->
+            <!-- Forms 
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('formsMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('formsMenu')">
                 <i class="vsm-icon pe-7s-display1"></i>
@@ -246,11 +254,11 @@
                   </div>
                 </div>
               </div>
-            </div>
-
+            </div>-->
+<!-- Charts 
             <div class="vsm-header">Visualizations</div>
 
-            <!-- Charts -->
+            
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('chartsMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('chartsMenu')">
                 <i class="vsm-icon pe-7s-graph1"></i>
@@ -268,8 +276,8 @@
                 </div>
               </div>
             </div>
-
-            <!-- Widgets -->
+-->
+            <!-- Widgets 
             <div class="vsm-item has-sub" [class.vsm-open]="openMenus.includes('widgetsMenu')">
               <a href="javascript:void(0);" class="vsm-link" (click)="toggleSubmenu('widgetsMenu')">
                 <i class="vsm-icon pe-7s-plugin"></i>
@@ -287,7 +295,7 @@
                 </div>
               </div>
             </div>
-
+-->
           </div>
         </div>
       </div>

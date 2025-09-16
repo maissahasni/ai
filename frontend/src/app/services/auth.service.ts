@@ -31,7 +31,26 @@ export class AuthService {
   signOut(): void {
     localStorage.removeItem('role');
     localStorage.removeItem('studentId');
+    localStorage.removeItem('userName');
+    localStorage.removeItem('userEmail');
     this.router.navigate(['/auth/signin']);
+  }
+  avatarUrl(seed?: string): string {
+    const safe = encodeURIComponent(seed || 'User');
+
+    return `https://api.dicebear.com/9.x/bottts/svg?seed=${safe}`;
+  }
+   get currentUser() {
+    const name  = localStorage.getItem('userName') || '';
+    const email = localStorage.getItem('userEmail') || '';
+    const role  = localStorage.getItem('role') || '';
+    const seed  = name || email || 'User';
+    return {
+      name,
+      email,
+      role,
+      avatar: this.avatarUrl(seed)  
+    };
   }
 
   // Sign in by email: sets role + studentId then routes
@@ -39,6 +58,8 @@ export class AuthService {
     const lower = email.toLowerCase();
     if (this.ADMIN_EMAILS.includes(lower)) {
       this.setAdmin();
+      localStorage.setItem('userName', 'Admin User');  
+      localStorage.setItem('userEmail', email);
       this.router.navigate(['/students/view']);
       return of(true);
     }
@@ -48,6 +69,8 @@ export class AuthService {
         const found = list.find(s => s.email?.toLowerCase() === lower);
         if (found?.id != null) {
           this.setStudent(found.id);
+          localStorage.setItem('userName', `${found.firstName ?? ''} ${found.lastName ?? ''}`.trim());
+          localStorage.setItem('userEmail', found.email || email);
           this.router.navigate(['/courses/front']);
           return true;
         }

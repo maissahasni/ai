@@ -1,35 +1,202 @@
-<div class="main-card mb-3 card">
-  <div class="card-header d-flex align-items-center justify-content-between">
-    <span>Courses</span>
-    <span *ngIf="loading" class="badge bg-info">Loading…</span>
+<app-front-header></app-front-header>
+
+<!-- Hero -->
+<section class="neo-hero container-xxl">
+  <div class="neo-hero__bg"></div>
+  <div class="neo-hero__content">
+    <h1 class="neo-title">Explore Courses</h1>
+    <p class="neo-sub">Pick a class, learn fast, and level up your skills.</p>
   </div>
+</section>
 
-  <div class="card-body">
-    <div *ngIf="error" class="alert alert-danger mb-3">{{ error }}</div>
-
-    <div class="row g-3">
-      <div class="col-12 col-md-6 col-lg-4" *ngFor="let c of rows">
-        <div class="card h-100 shadow-sm course-card" (click)="openDetails(c.id)" style="cursor:pointer;">
-          <div class="ratio ratio-16x9 card-img-top bg-light position-relative">
-            <ng-container *ngIf="courseImage(c.courseName) as src; else ph">
-              <img [src]="src" [alt]="c.courseName" class="w-100 h-100" style="object-fit: cover;">
-            </ng-container>
-            <ng-template #ph>
-              <div class="w-100 h-100 shimmer"></div>
-            </ng-template>
+<!-- Toolbar -->
+<div class="container-xxl">
+  <div class="neo-toolbar card">
+    <div class="card-body py-3">
+      <div class="row g-2 align-items-center">
+        <div class="col-12 col-md-7">
+          <div class="input-group neo-input">
+            <span class="input-group-text">
+              <i class="bi bi-search"></i>
+            </span>
+            <input
+              class="form-control"
+              type="search"
+              [(ngModel)]="q"
+              placeholder="Search courses, topics, keywords…">
           </div>
-          <div class="card-body">
-            <h5 class="card-title mb-1 text-truncate" title="{{ c.courseName }}">{{ c.courseName }}</h5>
-            <p class="card-text small text-muted text-truncate-2" title="{{ c.description }}">{{ c.description }}</p>
-            <div class="d-flex flex-wrap gap-2 small">
-              <span class="badge bg-secondary">{{ c.duration }}h</span>
-              <span class="badge bg-dark">Start: {{ c.startDate }}</span>
-              <span class="badge bg-dark">End: {{ c.endDate }}</span>
+        </div>
+
+        <div class="col-12 col-md-5">
+          <div class="d-flex justify-content-md-end gap-2">
+            <button class="btn btn-outline-secondary" (click)="openFilter()">
+              <i class="bi bi-sliders me-1"></i> Filters
+              <span *ngIf="hasActiveFilters()" class="badge bg-primary ms-2">{{ activeFilterCount() }}</span>
+            </button>
+
+            <div class="input-group neo-input" style="max-width: 260px;">
+              <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+              <select class="form-select" [(ngModel)]="sort">
+                <option value="recent">Newest first</option>
+                <option value="name">Name (A–Z)</option>
+                <option value="duration">Duration (short → long)</option>
+              </select>
             </div>
           </div>
         </div>
       </div>
-    </div>
 
+      <div class="neo-toolbar__meta">
+        <span *ngIf="loading" class="badge neo-badge">Loading…</span>
+        <span *ngIf="!loading">{{ filtered().length }} results</span>
+        <span *ngIf="error" class="text-danger">{{ error }}</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Grid -->
+<div class="container-xxl">
+  <div class="row g-4">
+
+    <!-- Skeletons -->
+    <ng-container *ngIf="loading">
+      <div class="col-12 col-md-6 col-lg-4" *ngFor="let s of [1,2,3,4,5,6]">
+        <div class="neo-card card skeleton">
+          <div class="neo-media shimmer"></div>
+          <div class="card-body">
+            <div class="sk-line w-75 mb-2"></div>
+            <div class="sk-line w-100 mb-3"></div>
+            <div class="d-flex gap-2">
+              <div class="sk-pill w-25"></div>
+              <div class="sk-pill w-25"></div>
+              <div class="sk-pill w-25"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+    <!-- Cards -->
+    <ng-container *ngIf="!loading && filtered().length > 0; else emptyState">
+      <div class="col-12 col-md-6 col-lg-4"
+           *ngFor="let c of filtered(); trackBy: trackById">
+        <div class="neo-card card hover"
+             (click)="openDetails(c.id)"
+             role="button" tabindex="0">
+          <!-- image -->
+          <div class="neo-media">
+            <ng-container *ngIf="courseImage(c.courseName) as src; else ph">
+              <img [src]="src" [alt]="c.courseName" loading="lazy">
+            </ng-container>
+            <ng-template #ph>
+              <div class="neo-media__ph shimmer"></div>
+            </ng-template>
+
+            <div class="neo-media__badges">
+              <span class="badge neo-chip">{{ c.duration }}h</span>
+              <span class="badge neo-chip"
+                    [ngClass]="started(c) ? 'neo-chip--green' : 'neo-chip--blue'">
+                {{ started(c) ? 'Started' : (daysUntil(c) ?? '—') + 'd to start' }}
+              </span>
+            </div>
+          </div>
+
+          <!-- body -->
+          <div class="card-body">
+            <h5 class="neo-card__title" title="{{ c.courseName }}">{{ c.courseName }}</h5>
+            <p class="neo-card__desc" title="{{ c.description }}">{{ c.description }}</p>
+            <div class="neo-meta">
+              <span class="neo-tag">Start: {{ c.startDate || '—' }}</span>
+              <span class="neo-tag">End: {{ c.endDate || '—' }}</span>
+            </div>
+          </div>
+
+          <!-- footer -->
+          <div class="neo-card__footer">
+            <button class="btn btn-outline-primary w-100">View details</button>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+    <ng-template #emptyState>
+      <div class="col-12">
+        <div class="neo-empty text-center">
+          <div class="neo-empty__ph shimmer"></div>
+          <h5 class="fw-semibold mb-1">No courses found</h5>
+          <p class="text-muted">Try another keyword or reset filters.</p>
+        </div>
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+<!-- ===================== -->
+<!-- Filter Modal -->
+<!-- ===================== -->
+<div class="modal-backdrop fade show" *ngIf="showFilter"></div>
+<div class="modal fade show d-block" *ngIf="showFilter" tabindex="-1" role="dialog" (click)="closeFilterOnBackdrop($event)">
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document" (click)="$event.stopPropagation()">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"><i class="bi bi-sliders me-2"></i>Filters</h5>
+        <button type="button" class="btn-close" aria-label="Close" (click)="closeFilter()"></button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row g-3">
+          <!-- Keyword -->
+          <div class="col-12">
+            <label class="form-label">Keyword</label>
+            <input class="form-control" type="text" [(ngModel)]="f.q" placeholder="Search by keyword">
+          </div>
+
+          <!-- Duration -->
+          <div class="col-12">
+            <label class="form-label">Duration (hours)</label>
+            <div class="row g-2">
+              <div class="col-6">
+                <input class="form-control" type="number" min="0" [(ngModel)]="f.minDuration" placeholder="Min">
+              </div>
+              <div class="col-6">
+                <input class="form-control" type="number" min="0" [(ngModel)]="f.maxDuration" placeholder="Max">
+              </div>
+            </div>
+            <div *ngIf="durationError" class="text-danger small mt-1">{{ durationError }}</div>
+          </div>
+
+          <!-- Start date range -->
+          <div class="col-md-6">
+            <label class="form-label">Start date: from</label>
+            <input class="form-control" type="date" [(ngModel)]="f.startFrom">
+          </div>
+          <div class="col-md-6">
+            <label class="form-label">Start date: to</label>
+            <input class="form-control" type="date" [(ngModel)]="f.startTo">
+          </div>
+
+          <!-- End date range -->
+          <div class="col-md-6">
+            <label class="form-label">End date: from</label>
+            <input class="form-control" type="date" [(ngModel)]="f.endFrom">
+          </div>
+          <div class="col-md-6">
+            <label class="form-label">End date: to</label>
+            <input class="form-control" type="date" [(ngModel)]="f.endTo">
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer d-flex justify-content-between">
+        <button type="button" class="btn btn-link text-danger" (click)="resetFilters()">
+          <i class="bi bi-arrow-counterclockwise me-1"></i> Reset
+        </button>
+        <div class="d-flex gap-2">
+          <button type="button" class="btn btn-secondary" (click)="closeFilter()">Cancel</button>
+          <button type="button" class="btn btn-primary" (click)="submitFilters()">Apply filters</button>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

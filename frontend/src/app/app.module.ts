@@ -58,6 +58,8 @@ import { CourseGrid } from './course-grid/course-grid';
 import { CourseDetail } from './course-detail/course-detail';
 import { Signin } from './signin/signin';
 import { Signup } from './signup/signup';
+import { Mycourses } from './mycourses/mycourses';
+import { FrontHeader } from './front-header/front-header';
 
 @NgModule({
   declarations: [
@@ -83,6 +85,8 @@ import { Signup } from './signup/signup';
      CourseDetail,
      Signin,
      Signup,
+     Mycourses,
+     FrontHeader,
 
     // All page components are declared in feature modules
   ],
