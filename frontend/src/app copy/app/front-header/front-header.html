@@ -1,0 +1,43 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm mb-3">
+  <div class="container-fluid">
+    <!-- Brand -->
+    <a class="navbar-brand fw-bold" routerLink="/courses/front">EduVermeg</a>
+
+    <!-- Toggle (mobile) -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#frontHeaderNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="frontHeaderNav">
+      <!-- Navigation -->
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/courses/front" routerLinkActive="active">View Courses</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/courses/my" routerLinkActive="active">My Courses</a>
+        </li>
+      </ul>
+
+      <!-- User box -->
+      <div class="d-flex align-items-center dropdown">
+        <button class="btn btn-link p-0 dropdown-toggle" data-bs-toggle="dropdown">
+          <img [src]="user.avatar" alt="avatar" class="rounded-circle" width="42" height="42" />
+        </button>
+        <ul class="dropdown-menu dropdown-menu-end">
+          <li class="dropdown-header text-center">
+            <img [src]="user.avatar" alt="avatar" class="rounded-circle mb-2" width="60" height="60" />
+            <h6 class="mb-0">{{ user.name || 'User' }}</h6>
+            <small class="text-muted">{{ user.email }}</small>
+          </li>
+          <li><hr class="dropdown-divider" /></li>
+          <li>
+            <button class="dropdown-item text-danger" (click)="signOut()">
+              <i class="pe-7s-power me-2"></i> Sign Out
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

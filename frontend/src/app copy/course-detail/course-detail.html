@@ -1,0 +1,113 @@
+<app-front-header></app-front-header>
+
+<!-- Loading / error shell -->
+<ng-template #loadingTpl>
+  <div class="container-xxl">
+    <div class="card border-0 shadow-sm my-3">
+      <div class="card-body d-flex align-items-center gap-3">
+        <span *ngIf="loading" class="badge bg-info">Loading…</span>
+        <div *ngIf="error" class="alert alert-danger mb-0">{{ error }}</div>
+      </div>
+    </div>
+  </div>
+</ng-template>
+
+<!-- Main -->
+<div *ngIf="course; else loadingTpl" class="course-detail">
+
+  <!-- Hero -->
+  <section class="hero container-xxl">
+    <div class="hero__media ratio ratio-21x9">
+      <ng-container *ngIf="heroUrl; else heroPh">
+        <img [src]="heroUrl" class="w-100 h-100" [alt]="course?.courseName" />
+      </ng-container>
+      <ng-template #heroPh><div class="w-100 h-100 shimmer"></div></ng-template>
+
+     
+      
+
+      <!-- Bottom meta -->
+      <div class="hero__bottom">
+        <h1 class="title">{{ course?.courseName }}</h1>
+        <div class="chips">
+          <span class="chip">{{ course?.duration }}h</span>
+          <span class="chip">Start: {{ course?.startDate || '—' }}</span>
+          <span class="chip">End: {{ course?.endDate || '—' }}</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Content -->
+  <div class="container-xxl">
+    <div class="row g-4 my-3">
+
+      <!-- Left: description & info -->
+      <div class="col-12 col-lg-8">
+        <div class="card neo-panel shadow-sm">
+          <div class="card-body">
+            <h5 class="section-title">About this course</h5>
+            <p class="section-text">{{ course?.description || 'No description provided.' }}</p>
+
+            <div class="divider"></div>
+
+            <div class="info-grid">
+              <div class="info-item">
+                <div class="label">Duration</div>
+                <div class="value">{{ course?.duration }} hours</div>
+              </div>
+              <div class="info-item">
+                <div class="label">Start date</div>
+                <div class="value">{{ course?.startDate || '—' }}</div>
+              </div>
+              <div class="info-item">
+                <div class="label">End date</div>
+                <div class="value">{{ course?.endDate || '—' }}</div>
+              </div>
+            </div>
+
+            <!-- Optional: syllabus / content blocks can go here -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: sticky enroll -->
+      <div class="col-12 col-lg-4">
+        <div class="card enroll shadow-sm sticky-card">
+          <div class="card-body">
+            <div class="d-flex align-items-center justify-content-between mb-2">
+              <h6 class="mb-0 fw-bold">Enroll now</h6>
+              <span class="badge bg-secondary-subtle text-secondary border">Free</span>
+            </div>
+
+            <ul class="list-unstyled small text-muted mb-3">
+              <li class="mb-1"><i class="bi bi-calendar-event me-2"></i> Start: {{ course?.startDate || '—' }}</li>
+              <li class="mb-1"><i class="bi bi-hourglass-split me-2"></i> Duration: {{ course?.duration }}h</li>
+              <li><i class="bi bi-flag me-2"></i> End: {{ course?.endDate || '—' }}</li>
+            </ul>
+
+            <div class="d-grid">
+              <button class="btn btn-primary btn-lg"
+                      [disabled]="enrolling"
+                      (click)="enroll()">
+                <span *ngIf="!enrolling">Enroll</span>
+                <span *ngIf="enrolling">Enrolling…</span>
+              </button>
+            </div>
+
+            <div *ngIf="enrollMsg" class="small mt-2"
+                 [class.text-success]="enrollMsg.includes('successful')"
+                 [class.text-danger]="enrollMsg.includes('failed')">
+              {{ enrollMsg }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Error inline (if any) -->
+      <div class="col-12" *ngIf="error">
+        <div class="alert alert-danger">{{ error }}</div>
+      </div>
+    </div>
+  </div>
+</div>
