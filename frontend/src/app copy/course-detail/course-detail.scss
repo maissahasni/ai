@@ -1,0 +1,89 @@
+/* Ratio helper */
+.ratio-21x9 { aspect-ratio: 21/9; }
+
+/* Shimmer (keep your existing) */
+.shimmer {
+  background: linear-gradient(90deg, #eee 25%, #f7f7f7 37%, #eee 63%);
+  background-size: 400% 100%;
+  animation: shimmer 1.4s ease infinite;
+}
+@keyframes shimmer { 0% { background-position: 100% 0; } 100% { background-position: 0 0; } }
+
+/* ---------------- Hero ---------------- */
+.hero { margin-top: .5rem; }
+.hero__media {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #f3f6fb;
+
+  img { object-fit: cover; width: 100%; height: 100%; display: block; }
+}
+
+.hero__overlay {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(180deg, rgba(0,0,0,0.0) 20%, rgba(0,0,0,0.35) 92%);
+  pointer-events: none;
+}
+
+.hero__top {
+  position: absolute; top: 12px; left: 12px; right: 12px;
+  display: flex; justify-content: space-between; align-items: center; gap: 8px;
+
+  .btn { border-radius: 999px; padding: 6px 12px; }
+}
+
+.hero__state { border-radius: 999px; padding: 6px 10px; }
+
+.hero__bottom {
+  position: absolute; left: 16px; right: 16px; bottom: 14px;
+  color: #fff;
+
+  .title {
+    margin: 0 0 6px 0;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-shadow: 0 2px 14px rgba(0,0,0,.25);
+  }
+
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip {
+    background: rgba(255,255,255,.92);
+    color: #111827;
+    border: 1px solid rgba(17,24,39,.08);
+    border-radius: 999px;
+    padding: 6px 10px;
+    font-weight: 600;
+  }
+}
+
+/* ---------------- Panels ---------------- */
+.neo-panel { border: 1px solid rgba(15,23,42,.08); border-radius: 16px; }
+
+.section-title { font-weight: 700; margin-bottom: .25rem; }
+.section-text { color: #667085; margin-bottom: 0; }
+
+/* info grid */
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 14px;
+}
+.info-item {
+  background: #f8fafc;
+  border: 1px solid rgba(15,23,42,.06);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+.info-item .label { font-size: .8rem; color: #6b7280; }
+.info-item .value { font-weight: 600; }
+
+.divider { height: 1px; background: rgba(15,23,42,.06); margin: 14px 0; }
+
+/* sticky enroll */
+.sticky-card { position: sticky; top: 16px; border-radius: 16px; }
+
+/* small utility */
+.course-detail .badge.border { border: 1px solid rgba(15,23,42,.10) !important; }
