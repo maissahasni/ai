@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  openAiApiKey: 'AIzaSyDgD4mfd97U-XOMmpRvOaAy5Gkb9zNLxVE',
 };

@@ -5,7 +5,8 @@
 export const environment = {
   production: false,
   unsplashAccessKey: 'UMHmEOgFt-MAo21El6W3ntbeeQmWfNYfXbuWN1mdOaQ',
-  unsplashAppName: 'EduVermeg'
+  unsplashAppName: 'EduVermeg',
+  openAiApiKey: 'AIzaSyDgD4mfd97U-XOMmpRvOaAy5Gkb9zNLxVE',
 };
 
 /*

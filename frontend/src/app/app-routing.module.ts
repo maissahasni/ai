@@ -57,6 +57,7 @@ import { AdminGuard } from './services/admin.guard';
 import { StudentGuard } from './services/student.guard';
 import { EnrollmentView } from './DemoPages/Course/enrollment-view/enrollment-view';
 import { Mycourses } from './mycourses/mycourses';
+import { Chat } from './components/chat/chat';
 
 const routes: Routes = [
   {
@@ -66,7 +67,6 @@ const routes: Routes = [
       // Dashboards
       {path: '', redirectTo: '/dashboards/analytics', pathMatch: 'full'},
       {path: 'dashboards/analytics', component: AnalyticsComponent, data: {extraParameter: 'dashboardsMenu'}},
-
       // Elements
       {path: 'elements/buttons-standard', component: StandardComponent, data: {extraParameter: 'elementsMenu'}},
       {path: 'elements/dropdowns', component: DropdownsComponent, data: {extraParameter: 'elementsMenu'}},
@@ -101,6 +101,7 @@ const routes: Routes = [
       {path: 'courses/view',component:CourseView},
       {path: 'courses/enrollmentview',component:EnrollmentView},
       {path: 'courses/form',component:CourseForm},
+
       
       // Widgets
       {path: 'widgets/chart-boxes-3', component: ChartBoxes3Component, data: {extraParameter: 'widgetsMenu'}},
@@ -118,6 +119,7 @@ const routes: Routes = [
   },
   {path:'courses/front',component: CourseGrid},
   {path:'courses/my',component: Mycourses},
+  {path: 'chat/view',component:Chat},
   {path:'course/:id',component:CourseDetail,canActivate: [StudentGuard]},
   { path: 'auth/signin', component: Signin },
   { path: 'auth/signup', component: Signup },
