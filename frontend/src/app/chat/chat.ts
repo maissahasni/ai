@@ -2,14 +2,16 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { GeminiService } from 'src/app/services/gpt';
+import { ComponentsModule } from "src/app/components.module";
+import { FrontHeader } from '../front-header/front-header';
 // FIX 1: Change service import from GptService to GeminiService
 
 @Component({
   selector: 'app-chat',
   standalone: true, // Assuming a modern standalone component
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, ComponentsModule],
   templateUrl: './chat.html',
-  styleUrl: './chat.scss'
+  styleUrls: ['./chat.scss']
 })
 export class Chat {
  userInput: string = '';

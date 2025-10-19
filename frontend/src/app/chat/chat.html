@@ -1,0 +1,37 @@
+
+<section class="neo-hero container-xxl">
+  <div class="neo-hero__content">
+    <h1 class="neo-title">Your AI companion</h1>
+    <p class="neo-sub">Got a question ? ask and I will answer</p>
+  </div>
+</section>
+
+<div class="container-xxl mt-4">
+  <div class="neo-card card">
+    <div class="card-body">
+
+      <div class="input-group neo-input mb-3">
+        <textarea
+          class="form-control"
+          rows="4"
+          [(ngModel)]="userInput"
+          placeholder="Ask something..."
+        ></textarea>
+      </div>
+
+      <div class="d-flex justify-content-end">
+        <button class="btn btn-primary" (click)="sendPrompt()">
+          <i class="bi bi-send me-1"></i> Send
+        </button>
+      </div>
+
+      <div class="response mt-4" *ngIf="response">
+        <h5 class="fw-semibold mb-2">Gemini Response:</h5>
+        <div class="card p-3 bg-light">
+          <p class="mb-0" style="white-space: pre-wrap;">{{ response }}</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

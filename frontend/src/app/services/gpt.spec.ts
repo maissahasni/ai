@@ -1,7 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { of } from 'rxjs';
 import { GeminiService } from './gpt';
-import { Chat } from '../components/chat/chat';
+import { Chat } from '../chat/chat';
 
 describe('Chat', () => {
   let component: Chat;

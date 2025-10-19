@@ -57,7 +57,7 @@ import { AdminGuard } from './services/admin.guard';
 import { StudentGuard } from './services/student.guard';
 import { EnrollmentView } from './DemoPages/Course/enrollment-view/enrollment-view';
 import { Mycourses } from './mycourses/mycourses';
-import { Chat } from './components/chat/chat';
+import { Chat } from './chat/chat';
 
 const routes: Routes = [
   {
