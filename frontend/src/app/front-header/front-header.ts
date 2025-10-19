@@ -6,7 +6,7 @@ import { AuthService } from '../services/auth.service';
   selector: 'app-front-header',
   standalone: false,
   templateUrl: './front-header.html',
-  styleUrl: './front-header.scss'
+  styleUrls: ['./front-header.scss']
 })
 export class FrontHeader {
   constructor(public auth: AuthService, private router: Router) {}
