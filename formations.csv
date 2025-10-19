@@ -1,0 +1,101 @@
+id,nom_formation,description,domaine,competences_requises,niveau,localisation,duree_mois,prix_dt,langue_enseignement
+1,Développeur Full Stack JavaScript,Formation complète pour devenir développeur web full stack avec JavaScript,Informatique,"HTML, CSS, JavaScript, React, Node.js, MongoDB",Débutant,Tunis,6,2500,Français
+2,Data Scientist Python,Formation spécialisée en science des données avec Python,Data Science,"Python, Pandas, NumPy, Scikit-learn, TensorFlow",Intermédiaire,Sfax,8,3200,Français
+3,Expert Cybersécurité,Formation avancée en sécurité informatique et hacking éthique,Sécurité,"Linux, Ethical Hacking, Cryptographie, SIEM",Intermédiaire,Tunis,7,2800,Arabe
+4,Ingénieur DevOps AWS,Formation aux pratiques DevOps et cloud computing,AWS,"Docker, Kubernetes, AWS, CI/CD, Git",Intermédiaire,Sousse,6,3000,Français
+5,Spécialiste Intelligence Artificielle,Formation avancée en IA et deep learning,IA,"Python, TensorFlow, PyTorch, Computer Vision, NLP",Avancé,Tunis,10,4500,Anglais
+6,Développeur Mobile React Native,Formation développement d'applications mobiles cross-platform,Mobile,"React Native, JavaScript, Redux, Navigation",Débutant,Monastir,5,2200,Français
+7,Designer UX/UI,Formation design d'interface utilisateur et expérience utilisateur,Design,"Figma, Adobe XD, Photoshop, Sketch, Prototyping",Débutant,Tunis,4,1800,Français
+8,Développeur Blockchain Ethereum,Formation développement d'applications blockchain,Blockchain,"Solidity, Ethereum, Web3, Smart Contracts",Intermédiaire,Sfax,6,3500,Anglais
+9,Chef de Projet Agile,Formation méthodologies agiles et gestion de projet,Management,"Scrum, Kanban, Jira, Confluence, Leadership",Débutant,Tunis,3,1500,Arabe
+10,Administrateur Réseaux Cisco,Formation administration réseaux et systèmes,Réseaux,"CCNA, Windows Server, Linux, Virtualisation",Intermédiaire,Sousse,7,2600,Français
+11,Analyste Business Intelligence,Formation analyse de données business et reporting,BI,"Power BI, Tableau, SQL, Excel Avancé",Débutant,Tunis,5,2000,Français
+12,Spécialiste Marketing Digital,Formation commerce électronique et marketing digital,Marketing,"Google Analytics, Facebook Ads, SEO, SEM",Débutant,Sfax,4,1800,Arabe
+13,Architecte Cloud Azure,Formation spécialisée Microsoft Azure et cloud computing,Cloud,"Azure, PowerShell, ARM Templates, Azure DevOps",Intermédiaire,Tunis,6,2800,Français
+14,Développeur Python Django,Formation programmation Python et framework Django,Programmation,"Python, Django, Flask, FastAPI, Testing",Intermédiaire,Monastir,5,2400,Français
+15,Testeur Logiciel Automatisé,Formation assurance qualité et tests automatisés,QA,"Selenium, Jest, Cypress, Test Automation",Débutant,Tunis,4,2000,Français
+16,Architecte Logiciel Senior,Formation conception et architecture de systèmes complexes,Architecture,"Design Patterns, Microservices, Clean Architecture",Avancé,Sousse,8,4000,Anglais
+17,Développeur IoT Arduino,Formation Internet des Objets et systèmes embarqués,IoT,"Arduino, Raspberry Pi, C/C++, MQTT",Intermédiaire,Sfax,6,3000,Français
+18,Quant Analyst Fintech,Formation finance technologique et trading algorithmique,Fintech,"Python, QuantLib, Algorithmic Trading, Risk Management",Avancé,Tunis,9,5000,Anglais
+19,Développeur VR Unity,Formation développement réalité virtuelle et augmentée,VR/AR,"Unity, Unreal Engine, C#, 3D Modeling",Intermédiaire,Monastir,7,3500,Français
+20,Pentester Certifié,Formation hacking éthique et penetration testing,Sécurité,"Kali Linux, Metasploit, Burp Suite, OWASP",Avancé,Tunis,8,4200,Anglais
+21,MLOps Engineer,Formation MLOps et déploiement de modèles ML,MLOps,"MLflow, Kubeflow, Docker, Kubernetes, Monitoring",Avancé,Sousse,6,3800,Anglais
+22,Développeur Smart Contracts,Formation développement contrats intelligents blockchain,Blockchain,"Solidity, Truffle, Web3.js, DeFi Protocols",Intermédiaire,Tunis,5,3000,Français
+23,Cloud Native Developer,Formation développement cloud natif et microservices,Cloud,"Kubernetes, Istio, Helm, Prometheus, Grafana",Avancé,Sfax,7,4000,Anglais
+24,Data Engineer Apache Spark,Formation ingénierie des données et pipelines,Data,"Apache Spark, Kafka, Airflow, Data Pipelines",Intermédiaire,Tunis,8,3600,Français
+25,Site Reliability Engineer,Formation SRE et fiabilité des systèmes,SRE,"Monitoring, Alerting, Incident Response, Chaos Engineering",Avancé,Sousse,6,3500,Anglais
+26,Développeur Frontend React,Formation spécialisée React et écosystème moderne,Frontend,"React, Redux, Next.js, TypeScript, Testing",Intermédiaire,Tunis,5,2500,Français
+27,Développeur Backend Node.js,Formation développement backend avec Node.js,Backend,"Node.js, Express, MongoDB, REST APIs, GraphQL",Intermédiaire,Monastir,6,2600,Français
+28,Développeur Full Stack MEAN,Formation développement full stack avec MEAN,Full Stack,"MongoDB, Express, Angular, Node.js, Deployment",Débutant,Sfax,7,3000,Français
+29,DevOps GitLab CI/CD,Formation DevOps spécialisée GitLab et automation,DevOps,"GitLab CI/CD, Container Registry, Kubernetes, Monitoring",Intermédiaire,Tunis,5,2800,Français
+30,Spécialiste Sécurité Cloud,Formation sécurité cloud et compliance,Sécurité,"AWS Security, Azure Security, Compliance, Risk Assessment",Avancé,Sousse,6,4000,Anglais
+31,Développeur Java Spring,Formation Java pour applications d'entreprise,Programmation,"Java, Spring Boot, Hibernate, Microservices, JPA",Intermédiaire,Tunis,7,3200,Français
+32,Développeur .NET Core,Formation développement avec .NET Framework moderne,Programmation,"C#, ASP.NET Core, Entity Framework, SQL Server",Intermédiaire,Sfax,6,2800,Français
+33,Développeur PHP Laravel,Formation développement web avec Laravel moderne,Programmation,"PHP, Laravel, MySQL, Composer, Blade",Débutant,Monastir,5,2200,Français
+34,Développeur Ruby on Rails,Formation développement web avec Ruby moderne,Programmation,"Ruby, Rails, PostgreSQL, RSpec, Capybara",Intermédiaire,Tunis,6,2600,Français
+35,Développeur Go Microservices,Formation programmation Go pour microservices,Programmation,"Go, Gin, Docker, Kubernetes, gRPC",Intermédiaire,Sousse,5,3000,Anglais
+36,Développeur Rust Système,Formation programmation système avec Rust,Programmation,"Rust, Cargo, WebAssembly, Tokio, Serde",Avancé,Sfax,7,4000,Anglais
+37,Développeur Scala Big Data,Formation programmation fonctionnelle avec Scala,Programmation,"Scala, Spark, Akka, Play Framework",Avancé,Tunis,8,4500,Anglais
+38,Développeur Android Kotlin,Formation développement Android avec Kotlin moderne,Mobile,"Kotlin, Android SDK, Jetpack Compose, Room",Intermédiaire,Monastir,6,2800,Français
+39,Développeur iOS Swift,Formation développement iOS avec Swift moderne,Mobile,"Swift, UIKit, SwiftUI, Core Data, Combine",Intermédiaire,Sousse,6,3000,Français
+40,Développeur Flutter Cross-Platform,Formation développement cross-platform avec Flutter,Mobile,"Flutter, Dart, Firebase, Provider, Bloc",Débutant,Tunis,5,2500,Français
+41,Développeur React Native Pro,Formation développement mobile avec React Native,Mobile,"React Native, JavaScript, Redux, Navigation",Débutant,Sfax,5,2400,Français
+42,Développeur Xamarin Enterprise,Formation développement cross-platform avec Xamarin,Mobile,"Xamarin, C#, XAML, MVVM, Azure",Intermédiaire,Monastir,6,2800,Français
+43,Développeur Ionic Hybrid,Formation développement hybride avec Ionic,Mobile,"Ionic, Angular, Cordova, Capacitor",Débutant,Tunis,4,2000,Français
+44,Développeur Cordova Mobile,Formation développement d'applications hybrides,Mobile,"Cordova, HTML5, CSS3, JavaScript, PhoneGap",Débutant,Sousse,4,1800,Français
+45,Développeur Jeux Unity,Formation développement de jeux avec Unity,Game Development,"Unity, C#, 3D Modeling, Animation, Physics",Intermédiaire,Sfax,8,3500,Français
+46,Développeur Jeux Unreal Engine,Formation développement de jeux avec Unreal Engine,Game Development,"Unreal Engine, Blueprint, C++, 3D Modeling",Avancé,Tunis,10,5000,Anglais
+47,Développeur Jeux Godot,Formation développement de jeux avec Godot,Game Development,"Godot, GDScript, C#, 2D/3D Development",Débutant,Monastir,6,2500,Français
+48,Développeur Jeux Construct 3,Formation développement de jeux sans code,Game Development,"Construct 3, Visual Scripting, HTML5, JavaScript",Débutant,Sousse,4,2000,Français
+49,Développeur Jeux GameMaker,Formation développement de jeux 2D avec GameMaker,Game Development,"GameMaker Studio, GML, Sprite Animation, Physics",Débutant,Tunis,5,2200,Français
+50,Créateur Jeux RPG Maker,Formation création de jeux RPG avec RPG Maker,RPG Development,"RPG Maker, JavaScript, Event System, Database",Débutant,Sfax,3,1500,Français
+51,Développeur Roblox Studio,Formation création de jeux sur Roblox,Game Development,"Roblox Studio, Lua, 3D Modeling, Animation",Débutant,Monastir,4,1800,Français
+52,Développeur Minecraft Mods,Formation création de mods Minecraft,Game Development,"Java, Minecraft Forge, Modding, Textures",Intermédiaire,Sousse,5,2500,Français
+53,Développeur WebAssembly,Formation développement web haute performance,Web Development,"WebAssembly, C++, Rust, JavaScript, Performance",Avancé,Tunis,6,3500,Anglais
+54,Développeur PWA,Formation développement d'applications web progressives,Web Development,"PWA, Service Workers, Web App Manifest, Offline",Intermédiaire,Sfax,5,2800,Français
+55,Développeur Web Components,Formation développement de composants web réutilisables,Web Development,"Web Components, Custom Elements, Shadow DOM, ES6",Intermédiaire,Monastir,4,2500,Français
+56,Développeur WebRTC,Formation communication temps réel sur le web,Web Development,"WebRTC, Peer-to-Peer, Video/Audio Streaming, Signaling",Avancé,Sousse,6,3500,Anglais
+57,Développeur WebGL 3D,Formation graphiques 3D dans le navigateur,Web Development,"WebGL, Three.js, Shaders, 3D Graphics",Avancé,Tunis,7,4000,Anglais
+58,Développeur Canvas 2D,Formation graphiques 2D dans le navigateur,Web Development,"Canvas API, SVG, Animation, Interactive Graphics",Intermédiaire,Sfax,5,2500,Français
+59,Développeur Web Audio,Formation audio interactif sur le web,Web Development,"Web Audio API, Audio Processing, Synthesis, Effects",Avancé,Monastir,6,3000,Anglais
+60,Développeur Web Speech,Formation reconnaissance vocale et synthèse,Web Development,"Web Speech API, Speech Recognition, Text-to-Speech",Intermédiaire,Sousse,4,2500,Français
+61,Développeur Web Bluetooth,Formation communication Bluetooth dans le navigateur,Web Development,"Web Bluetooth API, Device Communication, IoT",Avancé,Tunis,5,3000,Anglais
+62,Développeur Web USB,Formation communication USB dans le navigateur,Web Development,"Web USB API, Hardware Communication, Device Control",Avancé,Sfax,5,3200,Anglais
+63,Développeur Web Serial,Formation communication série dans le navigateur,Web Development,"Web Serial API, Serial Communication, Arduino",Intermédiaire,Monastir,4,2500,Français
+64,Développeur Web NFC,Formation communication NFC dans le navigateur,Web Development,"Web NFC API, Near Field Communication, Mobile Payment",Avancé,Sousse,5,3000,Anglais
+65,Développeur Web Share,Formation partage de contenu natif,Web Development,"Web Share API, Native Sharing, Social Media Integration",Débutant,Tunis,3,2000,Français
+66,Développeur Web Push,Formation notifications push web,Web Development,"Web Push API, Service Workers, Notifications, FCM",Intermédiaire,Sfax,4,2500,Français
+67,Développeur Web Storage,Formation stockage local dans le navigateur,Web Development,"Web Storage API, LocalStorage, SessionStorage, IndexedDB",Débutant,Monastir,3,1800,Français
+68,Développeur Web Workers,Formation traitement en arrière-plan,Web Development,"Web Workers, Service Workers, Background Processing",Intermédiaire,Sousse,4,2500,Français
+69,Développeur Web Streams,Formation traitement de flux de données,Web Development,"Web Streams API, Data Processing, Real-time Streaming",Avancé,Tunis,5,3000,Anglais
+70,Développeur Web Crypto,Formation cryptographie dans le navigateur,Web Development,"Web Crypto API, Encryption, Digital Signatures, Security",Avancé,Sfax,6,3500,Anglais
+71,Développeur Web Payment,Formation paiements en ligne sécurisés,Web Development,"Web Payment API, Payment Processing, Security, PCI",Avancé,Monastir,5,3000,Anglais
+72,Développeur WebAuthn,Formation authentification web moderne,Web Development,"WebAuthn, FIDO2, Biometric Authentication, Security",Avancé,Sousse,6,3500,Anglais
+73,Développeur Credential Management,Formation gestion des identifiants,Web Development,"Credential Management API, Password Management, Security",Intermédiaire,Tunis,4,2500,Français
+74,Développeur Clipboard API,Formation gestion du presse-papiers,Web Development,"Clipboard API, Copy/Paste, Data Transfer, Security",Débutant,Sfax,3,2000,Français
+75,Développeur File System Access,Formation accès aux fichiers système,Web Development,"File System Access API, File Handling, Security",Avancé,Monastir,5,3000,Anglais
+76,Développeur Screen Capture,Formation capture d'écran et enregistrement,Web Development,"Screen Capture API, Screen Recording, MediaStream",Intermédiaire,Sousse,4,2500,Français
+77,Développeur Media Session,Formation contrôle média natif,Web Development,"Media Session API, Media Control, Notifications",Intermédiaire,Tunis,3,2000,Français
+78,Développeur Picture-in-Picture,Formation mode picture-in-picture,Web Development,"Picture-in-Picture API, Video Overlay, User Experience",Débutant,Sfax,3,1800,Français
+79,Développeur Fullscreen API,Formation mode plein écran,Web Development,"Fullscreen API, User Experience, Media Control",Débutant,Monastir,2,1500,Français
+80,Développeur Resize Observer,Formation observation des changements de taille,Web Development,"Resize Observer API, Layout Changes, Responsive Design",Intermédiaire,Sousse,3,2000,Français
+81,Développeur Intersection Observer,Formation observation d'intersection,Web Development,"Intersection Observer API, Scroll Events, Performance",Intermédiaire,Tunis,4,2500,Français
+82,Développeur Mutation Observer,Formation observation des mutations DOM,Web Development,"Mutation Observer API, DOM Changes, Performance",Avancé,Sfax,4,2800,Français
+83,Développeur Performance Observer,Formation monitoring des performances,Web Development,"Performance Observer API, Metrics, Optimization",Avancé,Monastir,5,3000,Anglais
+84,Développeur Reporting API,Formation rapports de sécurité et performance,Web Development,"Reporting API, Security Reports, Performance Reports",Avancé,Sousse,5,3200,Anglais
+85,Développeur Trusted Types,Formation prévention des attaques XSS,Web Development,"Trusted Types API, XSS Prevention, Security",Avancé,Tunis,6,3500,Anglais
+86,Développeur Permissions API,Formation gestion des permissions,Web Development,"Permissions API, User Consent, Privacy",Intermédiaire,Sfax,4,2500,Français
+87,Développeur Geolocation API,Formation géolocalisation web,Web Development,"Geolocation API, GPS, Location Services, Privacy",Intermédiaire,Monastir,4,2500,Français
+88,Développeur Device Orientation,Formation orientation des appareils,Web Development,"Device Orientation API, Gyroscope, Accelerometer",Intermédiaire,Sousse,4,2500,Français
+89,Développeur Device Motion,Formation mouvement des appareils,Web Development,"Device Motion API, Motion Detection, Gaming",Intermédiaire,Tunis,4,2500,Français
+90,Développeur Ambient Light,Formation détection de la luminosité,Web Development,"Ambient Light API, Light Sensor, User Experience",Débutant,Sfax,3,2000,Français
+91,Développeur Proximity API,Formation détection de proximité,Web Development,"Proximity API, Distance Detection, User Experience",Débutant,Monastir,3,2000,Français
+92,Développeur Vibration API,Formation vibration des appareils,Web Development,"Vibration API, Haptic Feedback, User Experience",Débutant,Sousse,2,1500,Français
+93,Développeur Battery API,Formation gestion de la batterie,Web Development,"Battery API, Power Management, User Experience",Intermédiaire,Tunis,3,2000,Français
+94,Développeur Network Information,Formation informations réseau,Web Development,"Network Information API, Connection Type, Bandwidth",Intermédiaire,Sfax,3,2000,Français
+95,Développeur Connection API,Formation gestion des connexions,Web Development,"Connection API, Network Status, Offline Detection",Intermédiaire,Monastir,3,2000,Français
+96,Développeur Wake Lock API,Formation prévention de la mise en veille,Web Development,"Wake Lock API, Screen Wake, Power Management",Intermédiaire,Sousse,3,2000,Français
+97,Développeur Idle Detection,Formation détection d'inactivité,Web Development,"Idle Detection API, User Activity, Privacy",Avancé,Tunis,4,2500,Français
+98,Développeur Contact Picker,Formation sélection de contacts,Web Development,"Contact Picker API, Contact Selection, Privacy",Intermédiaire,Sfax,3,2000,Français
+99,Développeur File System API,Formation système de fichiers web,Web Development,"File System API, File Management, Security",Avancé,Monastir,5,3000,Anglais
+100,Développeur Quota Management,Formation gestion des quotas de stockage,Web Development,"Quota Management API, Storage Limits, Performance",Avancé,Sousse,4,2500,Français

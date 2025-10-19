@@ -1,0 +1,1201 @@
+id,nom,prenom,email,age,niveau_etude,domaine_interet,competences_actuelles,localisation,budget_max,langue_preferee,objectif_carriere
+1,Chaabane,Yassine,yassine.chaabane@gmail.com,29,Master,Informatique,Compétences de base en Informatique,Monastir,3328,Français,Expert en Informatique
+2,Ben Hassine,Hiba,hiba.benhassine@gmail.com,29,Bac+2,Full Stack,Compétences de base en Full Stack,Kairouan,1760,Français,Expert en Full Stack
+3,Trabelsi,Salma,salma.trabelsi@gmail.com,26,Bac+2,Blockchain,Compétences de base en Blockchain,Monastir,5964,Arabe,Expert en Blockchain
+4,Zouari,Sami,sami.zouari@gmail.com,22,Bac+2,DevOps,Compétences de base en DevOps,Sousse,4962,Arabe,Expert en DevOps
+5,Chelly,Aya,aya.chelly@gmail.com,30,Master,Design,Compétences de base en Design,Sfax,2259,Arabe,Expert en Design
+6,Gharbi,Tarek,tarek.gharbi@gmail.com,27,Master,Marketing,Compétences de base en Marketing,Tunis,5263,Anglais,Expert en Marketing
+7,Gharbi,Sabrine,sabrine.gharbi@gmail.com,26,Master,Sécurité,Compétences de base en Sécurité,Gabès,3075,Anglais,Expert en Sécurité
+8,Trabelsi,Leila,leila.trabelsi@gmail.com,21,Master,Full Stack,Compétences de base en Full Stack,Sfax,3407,Français,Expert en Full Stack
+9,Jebali,Hichem,hichem.jebali@gmail.com,28,Master,IoT,Compétences de base en IoT,Sousse,4532,Arabe,Expert en IoT
+10,Saidi,Sonia,sonia.saidi@gmail.com,28,Bac+2,Game Development,Compétences de base en Game Development,Sousse,5875,Anglais,Expert en Game Development
+11,Zouari,Chadi,chadi.zouari@gmail.com,24,Master,IoT,Compétences de base en IoT,Monastir,4156,Français,Expert en IoT
+12,Zouari,Karim,karim.zouari@gmail.com,23,Ingénieur,SRE,Compétences de base en SRE,Bizerte,2042,Français,Expert en SRE
+13,Ben Ammar,Chiraz,chiraz.benammar@gmail.com,28,Ingénieur,Design,Compétences de base en Design,Kairouan,5258,Français,Expert en Design
+14,Chelly,Nour,nour.chelly@gmail.com,29,Master,Blockchain,Compétences de base en Blockchain,Kairouan,4771,Arabe,Expert en Blockchain
+15,Zouari,Nour,nour.zouari@gmail.com,25,Bac+2,VR/AR,Compétences de base en VR/AR,Tunis,2398,Français,Expert en VR/AR
+16,Chaabane,Chadi,chadi.chaabane@gmail.com,28,Ingénieur,SRE,Compétences de base en SRE,Sfax,4652,Arabe,Expert en SRE
+17,Ben Hassen,Yassine,yassine.benhassen@gmail.com,22,Bac+2,VR/AR,Compétences de base en VR/AR,Sfax,5898,Arabe,Expert en VR/AR
+18,Khelil,Adel,adel.khelil@gmail.com,22,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Sousse,5216,Français,Expert en Cloud Computing
+19,Ben Hassine,Anis,anis.benhassine@gmail.com,30,Licence,VR/AR,Compétences de base en VR/AR,Sfax,3944,Anglais,Expert en VR/AR
+20,Dridi,Rania,rania.dridi@gmail.com,23,Licence,IA,Compétences de base en IA,Tunis,4155,Arabe,Expert en IA
+21,Ben Ali,Yassine,yassine.benali@gmail.com,30,Master,Marketing,Compétences de base en Marketing,Monastir,1974,Français,Expert en Marketing
+22,Ksouri,Amine,amine.ksouri@gmail.com,29,Ingénieur,Sécurité,Compétences de base en Sécurité,Sfax,5863,Français,Expert en Sécurité
+23,Bouazizi,Hiba,hiba.bouazizi@gmail.com,20,Master,MLOps,Compétences de base en MLOps,Kairouan,3235,Anglais,Expert en MLOps
+24,Khelil,Rania,rania.khelil@gmail.com,22,Ingénieur,Game Development,Compétences de base en Game Development,Gabès,5088,Anglais,Expert en Game Development
+25,Mejri,Mariem,mariem.mejri@gmail.com,21,Bac+2,Blockchain,Compétences de base en Blockchain,Gabès,1672,Anglais,Expert en Blockchain
+26,Ferjani,Malek,malek.ferjani@gmail.com,21,Bac+2,DevOps,Compétences de base en DevOps,Sfax,1982,Français,Expert en DevOps
+27,Trabelsi,Karim,karim.trabelsi@gmail.com,19,Licence,BI,Compétences de base en BI,Bizerte,5476,Français,Expert en BI
+28,Ferjani,Tarek,tarek.ferjani@gmail.com,27,Ingénieur,Web Development,Compétences de base en Web Development,Monastir,5374,Arabe,Expert en Web Development
+29,Saidi,Omar,omar.saidi@gmail.com,28,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Gabès,4969,Arabe,Expert en Cloud Computing
+30,Mejri,Youssef,youssef.mejri@gmail.com,28,Bac+2,Full Stack,Compétences de base en Full Stack,Tunis,4798,Anglais,Expert en Full Stack
+31,Ben Salem,Hiba,hiba.bensalem@gmail.com,21,Licence,Blockchain,Compétences de base en Blockchain,Gafsa,2648,Arabe,Expert en Blockchain
+32,Mansouri,Hichem,hichem.mansouri@gmail.com,21,Bac+2,IoT,Compétences de base en IoT,Gafsa,2302,Français,Expert en IoT
+33,Chaabane,Mariem,mariem.chaabane@gmail.com,18,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Monastir,2862,Arabe,Expert en Cybersécurité
+34,Ben Youssef,Omar,omar.benyoussef@gmail.com,24,Bac+2,Design,Compétences de base en Design,Sousse,4604,Français,Expert en Design
+35,Jebali,Anis,anis.jebali@gmail.com,30,Ingénieur,SRE,Compétences de base en SRE,Bizerte,4965,Anglais,Expert en SRE
+36,Ben Hassine,Amira,amira.benhassine@gmail.com,29,Ingénieur,Full Stack,Compétences de base en Full Stack,Sousse,3055,Arabe,Expert en Full Stack
+37,Saidi,Nesrine,nesrine.saidi@gmail.com,29,Bac+2,DevOps,Compétences de base en DevOps,Gabès,1968,Français,Expert en DevOps
+38,Ouali,Omar,omar.ouali@gmail.com,26,Licence,VR/AR,Compétences de base en VR/AR,Tunis,5660,Français,Expert en VR/AR
+39,Mahfoudh,Farah,farah.mahfoudh@gmail.com,27,Bac+2,Sécurité,Compétences de base en Sécurité,Monastir,4807,Français,Expert en Sécurité
+40,Ksouri,Riad,riad.ksouri@gmail.com,27,Bac+2,DevOps,Compétences de base en DevOps,Sfax,4934,Anglais,Expert en DevOps
+41,Ouali,Karim,karim.ouali@gmail.com,22,Licence,BI,Compétences de base en BI,Gabès,3455,Arabe,Expert en BI
+42,Jebali,Tarek,tarek.jebali@gmail.com,28,Master,Full Stack,Compétences de base en Full Stack,Gafsa,4090,Français,Expert en Full Stack
+43,Ben Ali,Amira,amira.benali@gmail.com,27,Bac+2,Frontend,Compétences de base en Frontend,Sfax,5904,Français,Expert en Frontend
+44,Dridi,Anis,anis.dridi@gmail.com,23,Bac+2,IA,Compétences de base en IA,Monastir,4527,Arabe,Expert en IA
+45,Mansouri,Mariem,mariem.mansouri@gmail.com,26,Master,Cybersécurité,Compétences de base en Cybersécurité,Tunis,3952,Anglais,Expert en Cybersécurité
+46,Gharbi,Nour,nour.gharbi@gmail.com,19,Bac+2,Management,Compétences de base en Management,Sousse,3731,Arabe,Expert en Management
+47,Ben Hassen,Khaled,khaled.benhassen@gmail.com,23,Licence,Game Development,Compétences de base en Game Development,Bizerte,5640,Arabe,Expert en Game Development
+48,Chelly,Youssef,youssef.chelly@gmail.com,28,Ingénieur,Sécurité,Compétences de base en Sécurité,Bizerte,1861,Français,Expert en Sécurité
+49,Ben Salem,Tarek,tarek.bensalem@gmail.com,22,Licence,Backend,Compétences de base en Backend,Gafsa,5003,Anglais,Expert en Backend
+50,Ben Ali,Yassine,yassine.benali@gmail.com,29,Licence,Sécurité,Compétences de base en Sécurité,Tunis,4524,Anglais,Expert en Sécurité
+51,Ferjani,Riadh,riadh.ferjani@gmail.com,20,Bac+2,Architecture,Compétences de base en Architecture,Bizerte,4487,Français,Expert en Architecture
+52,Ksouri,Tarek,tarek.ksouri@gmail.com,28,Licence,Design,Compétences de base en Design,Sfax,4397,Anglais,Expert en Design
+53,Ksouri,Aya,aya.ksouri@gmail.com,29,Licence,Frontend,Compétences de base en Frontend,Monastir,2831,Français,Expert en Frontend
+54,Ksouri,Aya,aya.ksouri@gmail.com,20,Master,Informatique,Compétences de base en Informatique,Kairouan,3532,Arabe,Expert en Informatique
+55,Mansouri,Hiba,hiba.mansouri@gmail.com,18,Ingénieur,Programmation,Compétences de base en Programmation,Monastir,3134,Arabe,Expert en Programmation
+56,Hamdi,Aziz,aziz.hamdi@gmail.com,30,Licence,Cybersécurité,Compétences de base en Cybersécurité,Monastir,1693,Anglais,Expert en Cybersécurité
+57,Saidi,Mohamed,mohamed.saidi@gmail.com,22,Bac+2,BI,Compétences de base en BI,Bizerte,4376,Anglais,Expert en BI
+58,Dridi,Mohamed,mohamed.dridi@gmail.com,26,Master,Full Stack,Compétences de base en Full Stack,Tunis,2444,Arabe,Expert en Full Stack
+59,Mansouri,Anis,anis.mansouri@gmail.com,19,Ingénieur,Data Science,Compétences de base en Data Science,Gabès,4069,Arabe,Expert en Data Science
+60,Ben Hassen,Nour,nour.benhassen@gmail.com,24,Licence,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,1863,Anglais,Expert en Cloud Computing
+61,Makni,Ahmed,ahmed.makni@gmail.com,30,Licence,VR/AR,Compétences de base en VR/AR,Gabès,5033,Français,Expert en VR/AR
+62,Ben Moussa,Rim,rim.benmoussa@gmail.com,23,Bac+2,Frontend,Compétences de base en Frontend,Bizerte,5654,Arabe,Expert en Frontend
+63,Ben Moussa,Aya,aya.benmoussa@gmail.com,24,Master,BI,Compétences de base en BI,Sousse,3071,Arabe,Expert en BI
+64,Ben Moussa,Sabrine,sabrine.benmoussa@gmail.com,29,Licence,Full Stack,Compétences de base en Full Stack,Bizerte,4826,Anglais,Expert en Full Stack
+65,Ben Romdhane,Ahmed,ahmed.benromdhane@gmail.com,22,Licence,Réseaux,Compétences de base en Réseaux,Kairouan,4139,Arabe,Expert en Réseaux
+66,Mejri,Mariem,mariem.mejri@gmail.com,21,Ingénieur,Full Stack,Compétences de base en Full Stack,Sousse,2194,Arabe,Expert en Full Stack
+67,Dridi,Rim,rim.dridi@gmail.com,30,Licence,Sécurité,Compétences de base en Sécurité,Bizerte,3340,Français,Expert en Sécurité
+68,Bouazizi,Amina,amina.bouazizi@gmail.com,21,Ingénieur,Data Science,Compétences de base en Data Science,Sfax,5230,Arabe,Expert en Data Science
+69,Ksouri,Mehdi,mehdi.ksouri@gmail.com,29,Ingénieur,Game Development,Compétences de base en Game Development,Gafsa,4773,Français,Expert en Game Development
+70,Bouazizi,Ahmed,ahmed.bouazizi@gmail.com,30,Bac+2,QA,Compétences de base en QA,Kairouan,3292,Français,Expert en QA
+71,Nasri,Karim,karim.nasri@gmail.com,18,Licence,IoT,Compétences de base en IoT,Sfax,5239,Français,Expert en IoT
+72,Nasri,Yassine,yassine.nasri@gmail.com,26,Master,Full Stack,Compétences de base en Full Stack,Gafsa,5635,Arabe,Expert en Full Stack
+73,Ben Romdhane,Sami,sami.benromdhane@gmail.com,20,Ingénieur,IoT,Compétences de base en IoT,Gafsa,3623,Français,Expert en IoT
+74,Ben Romdhane,Hichem,hichem.benromdhane@gmail.com,30,Ingénieur,QA,Compétences de base en QA,Monastir,3749,Arabe,Expert en QA
+75,Trabelsi,Dorrah,dorrah.trabelsi@gmail.com,22,Master,Blockchain,Compétences de base en Blockchain,Gabès,5924,Français,Expert en Blockchain
+76,Bouazizi,Aya,aya.bouazizi@gmail.com,24,Licence,Blockchain,Compétences de base en Blockchain,Monastir,2026,Arabe,Expert en Blockchain
+77,Makni,Rim,rim.makni@gmail.com,25,Ingénieur,MLOps,Compétences de base en MLOps,Tunis,3194,Arabe,Expert en MLOps
+78,Jebali,Mohamed,mohamed.jebali@gmail.com,27,Ingénieur,QA,Compétences de base en QA,Gafsa,1548,Arabe,Expert en QA
+79,Khemiri,Ahmed,ahmed.khemiri@gmail.com,24,Licence,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,3297,Arabe,Expert en Cybersécurité
+80,Makni,Rania,rania.makni@gmail.com,24,Master,Informatique,Compétences de base en Informatique,Kairouan,2852,Arabe,Expert en Informatique
+81,Ben Ammar,Tarek,tarek.benammar@gmail.com,26,Bac+2,Frontend,Compétences de base en Frontend,Kairouan,1722,Français,Expert en Frontend
+82,Chaabane,Leila,leila.chaabane@gmail.com,25,Licence,IA,Compétences de base en IA,Tunis,3631,Arabe,Expert en IA
+83,Ben Salem,Salma,salma.bensalem@gmail.com,23,Master,IoT,Compétences de base en IoT,Kairouan,3779,Arabe,Expert en IoT
+84,Chelly,Amine,amine.chelly@gmail.com,18,Bac+2,Fintech,Compétences de base en Fintech,Gabès,3336,Anglais,Expert en Fintech
+85,Trabelsi,Leila,leila.trabelsi@gmail.com,18,Licence,QA,Compétences de base en QA,Monastir,1666,Anglais,Expert en QA
+86,Bouazizi,Asma,asma.bouazizi@gmail.com,25,Bac+2,IA,Compétences de base en IA,Monastir,5309,Anglais,Expert en IA
+87,Chelly,Khaled,khaled.chelly@gmail.com,27,Bac+2,Mobile,Compétences de base en Mobile,Sousse,4048,Français,Expert en Mobile
+88,Ouali,Amina,amina.ouali@gmail.com,27,Ingénieur,Réseaux,Compétences de base en Réseaux,Kairouan,3124,Français,Expert en Réseaux
+89,Ouali,Riad,riad.ouali@gmail.com,29,Master,Cloud Computing,Compétences de base en Cloud Computing,Sfax,1836,Arabe,Expert en Cloud Computing
+90,Ferjani,Leila,leila.ferjani@gmail.com,23,Bac+2,Full Stack,Compétences de base en Full Stack,Gabès,1603,Arabe,Expert en Full Stack
+91,Ben Romdhane,Rania,rania.benromdhane@gmail.com,24,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,2753,Arabe,Expert en Cloud Computing
+92,Mansouri,Karim,karim.mansouri@gmail.com,22,Ingénieur,Backend,Compétences de base en Backend,Gafsa,5068,Anglais,Expert en Backend
+93,Ouali,Sonia,sonia.ouali@gmail.com,21,Bac+2,BI,Compétences de base en BI,Bizerte,5192,Français,Expert en BI
+94,Khelil,Yassine,yassine.khelil@gmail.com,27,Ingénieur,DevOps,Compétences de base en DevOps,Gabès,1735,Arabe,Expert en DevOps
+95,Mahfoudh,Youssef,youssef.mahfoudh@gmail.com,25,Licence,Mobile,Compétences de base en Mobile,Gabès,3616,Arabe,Expert en Mobile
+96,Chelly,Hichem,hichem.chelly@gmail.com,18,Licence,MLOps,Compétences de base en MLOps,Sfax,3477,Anglais,Expert en MLOps
+97,Makni,Rania,rania.makni@gmail.com,30,Licence,MLOps,Compétences de base en MLOps,Gafsa,5520,Arabe,Expert en MLOps
+98,Nasri,Mohamed,mohamed.nasri@gmail.com,22,Licence,Sécurité,Compétences de base en Sécurité,Kairouan,3493,Arabe,Expert en Sécurité
+99,Ben Moussa,Khaled,khaled.benmoussa@gmail.com,26,Master,Fintech,Compétences de base en Fintech,Kairouan,4209,Arabe,Expert en Fintech
+100,Ghazouani,Amira,amira.ghazouani@gmail.com,22,Master,Management,Compétences de base en Management,Monastir,2488,Anglais,Expert en Management
+101,Saidi,Chiraz,chiraz.saidi@gmail.com,29,Licence,Cloud Computing,Compétences de base en Cloud Computing,Monastir,3272,Anglais,Expert en Cloud Computing
+102,Ben Youssef,Hichem,hichem.benyoussef@gmail.com,27,Master,Web Development,Compétences de base en Web Development,Sfax,3090,Arabe,Expert en Web Development
+103,Zouari,Nour,nour.zouari@gmail.com,22,Bac+2,Mobile,Compétences de base en Mobile,Sousse,3747,Français,Expert en Mobile
+104,Kallel,Sami,sami.kallel@gmail.com,29,Licence,Réseaux,Compétences de base en Réseaux,Gafsa,2340,Français,Expert en Réseaux
+105,Ouali,Dorrah,dorrah.ouali@gmail.com,25,Ingénieur,Fintech,Compétences de base en Fintech,Gabès,3010,Français,Expert en Fintech
+106,Chelly,Omar,omar.chelly@gmail.com,19,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,2106,Anglais,Expert en Cloud Computing
+107,Chaabane,Youssef,youssef.chaabane@gmail.com,20,Master,IA,Compétences de base en IA,Sfax,3533,Français,Expert en IA
+108,Ferjani,Karim,karim.ferjani@gmail.com,27,Licence,Frontend,Compétences de base en Frontend,Kairouan,5190,Arabe,Expert en Frontend
+109,Khemiri,Leila,leila.khemiri@gmail.com,27,Bac+2,Réseaux,Compétences de base en Réseaux,Sfax,3202,Anglais,Expert en Réseaux
+110,Saidi,Anis,anis.saidi@gmail.com,19,Licence,Full Stack,Compétences de base en Full Stack,Monastir,2923,Anglais,Expert en Full Stack
+111,Trabelsi,Chadi,chadi.trabelsi@gmail.com,24,Ingénieur,Informatique,Compétences de base en Informatique,Gafsa,3885,Français,Expert en Informatique
+112,Zouari,Dorrah,dorrah.zouari@gmail.com,22,Ingénieur,Game Development,Compétences de base en Game Development,Sfax,3412,Arabe,Expert en Game Development
+113,Nasri,Rania,rania.nasri@gmail.com,19,Licence,Architecture,Compétences de base en Architecture,Sousse,3676,Français,Expert en Architecture
+114,Trabelsi,Nesrine,nesrine.trabelsi@gmail.com,30,Master,Mobile,Compétences de base en Mobile,Bizerte,5097,Français,Expert en Mobile
+115,Mejri,Manel,manel.mejri@gmail.com,24,Master,Game Development,Compétences de base en Game Development,Gafsa,5086,Français,Expert en Game Development
+116,Ben Hassen,Leila,leila.benhassen@gmail.com,29,Master,Architecture,Compétences de base en Architecture,Bizerte,1711,Français,Expert en Architecture
+117,Zouari,Mohamed,mohamed.zouari@gmail.com,28,Master,QA,Compétences de base en QA,Tunis,2935,Arabe,Expert en QA
+118,Dridi,Mariem,mariem.dridi@gmail.com,20,Ingénieur,Management,Compétences de base en Management,Gafsa,2247,Arabe,Expert en Management
+119,Hamdi,Aya,aya.hamdi@gmail.com,23,Bac+2,BI,Compétences de base en BI,Sousse,4201,Arabe,Expert en BI
+120,Ghazouani,Walid,walid.ghazouani@gmail.com,28,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,5225,Français,Expert en Réseaux
+121,Ben Salem,Yosra,yosra.bensalem@gmail.com,19,Ingénieur,BI,Compétences de base en BI,Tunis,5944,Arabe,Expert en BI
+122,Makni,Youssef,youssef.makni@gmail.com,26,Master,Design,Compétences de base en Design,Gafsa,5121,Français,Expert en Design
+123,Saidi,Sonia,sonia.saidi@gmail.com,20,Master,MLOps,Compétences de base en MLOps,Gafsa,5470,Français,Expert en MLOps
+124,Ben Ali,Asma,asma.benali@gmail.com,20,Master,Game Development,Compétences de base en Game Development,Tunis,4842,Français,Expert en Game Development
+125,Zouari,Yassine,yassine.zouari@gmail.com,19,Licence,IoT,Compétences de base en IoT,Gafsa,3890,Anglais,Expert en IoT
+126,Ghazouani,Sonia,sonia.ghazouani@gmail.com,25,Ingénieur,Architecture,Compétences de base en Architecture,Monastir,5241,Anglais,Expert en Architecture
+127,Bouazizi,Ahmed,ahmed.bouazizi@gmail.com,27,Licence,Design,Compétences de base en Design,Sfax,3763,Arabe,Expert en Design
+128,Ben Salem,Youssef,youssef.bensalem@gmail.com,18,Master,Management,Compétences de base en Management,Bizerte,5511,Français,Expert en Management
+129,Mejri,Ahmed,ahmed.mejri@gmail.com,23,Master,Fintech,Compétences de base en Fintech,Kairouan,5230,Arabe,Expert en Fintech
+130,Mahfoudh,Mehdi,mehdi.mahfoudh@gmail.com,21,Ingénieur,Game Development,Compétences de base en Game Development,Monastir,4865,Français,Expert en Game Development
+131,Ben Salem,Hiba,hiba.bensalem@gmail.com,30,Ingénieur,Game Development,Compétences de base en Game Development,Kairouan,2746,Arabe,Expert en Game Development
+132,Kallel,Tarek,tarek.kallel@gmail.com,27,Master,VR/AR,Compétences de base en VR/AR,Sfax,5106,Français,Expert en VR/AR
+133,Dridi,Amira,amira.dridi@gmail.com,29,Licence,Informatique,Compétences de base en Informatique,Kairouan,2764,Français,Expert en Informatique
+134,Ben Youssef,Anis,anis.benyoussef@gmail.com,27,Ingénieur,BI,Compétences de base en BI,Sfax,4191,Anglais,Expert en BI
+135,Mahfoudh,Ahmed,ahmed.mahfoudh@gmail.com,23,Ingénieur,Programmation,Compétences de base en Programmation,Tunis,2060,Français,Expert en Programmation
+136,Chaabane,Dorrah,dorrah.chaabane@gmail.com,29,Bac+2,Blockchain,Compétences de base en Blockchain,Kairouan,2306,Anglais,Expert en Blockchain
+137,Ghazouani,Omar,omar.ghazouani@gmail.com,20,Master,IoT,Compétences de base en IoT,Tunis,1876,Arabe,Expert en IoT
+138,Nasri,Nesrine,nesrine.nasri@gmail.com,23,Master,Réseaux,Compétences de base en Réseaux,Kairouan,2692,Français,Expert en Réseaux
+139,Dridi,Aya,aya.dridi@gmail.com,28,Licence,DevOps,Compétences de base en DevOps,Sousse,2934,Français,Expert en DevOps
+140,Ben Hassen,Sabrine,sabrine.benhassen@gmail.com,28,Licence,Frontend,Compétences de base en Frontend,Gafsa,2672,Français,Expert en Frontend
+141,Mejri,Yosra,yosra.mejri@gmail.com,22,Bac+2,IoT,Compétences de base en IoT,Gafsa,3856,Anglais,Expert en IoT
+142,Ferjani,Chadi,chadi.ferjani@gmail.com,25,Master,Sécurité,Compétences de base en Sécurité,Bizerte,4975,Anglais,Expert en Sécurité
+143,Chelly,Amira,amira.chelly@gmail.com,21,Ingénieur,Réseaux,Compétences de base en Réseaux,Gafsa,2373,Français,Expert en Réseaux
+144,Jebali,Tarek,tarek.jebali@gmail.com,22,Master,DevOps,Compétences de base en DevOps,Tunis,4742,Arabe,Expert en DevOps
+145,Ben Ali,Youssef,youssef.benali@gmail.com,29,Ingénieur,Frontend,Compétences de base en Frontend,Bizerte,3385,Anglais,Expert en Frontend
+146,Nasri,Tarek,tarek.nasri@gmail.com,28,Licence,Blockchain,Compétences de base en Blockchain,Bizerte,2620,Anglais,Expert en Blockchain
+147,Gharbi,Leila,leila.gharbi@gmail.com,30,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,4488,Anglais,Expert en Réseaux
+148,Bouazizi,Ines,ines.bouazizi@gmail.com,23,Ingénieur,Réseaux,Compétences de base en Réseaux,Sousse,3144,Français,Expert en Réseaux
+149,Nasri,Mariem,mariem.nasri@gmail.com,26,Master,Marketing,Compétences de base en Marketing,Sousse,3605,Arabe,Expert en Marketing
+150,Nasri,Aymen,aymen.nasri@gmail.com,23,Bac+2,Web Development,Compétences de base en Web Development,Gafsa,2116,Français,Expert en Web Development
+151,Khelil,Oussama,oussama.khelil@gmail.com,29,Ingénieur,Full Stack,Compétences de base en Full Stack,Gabès,2239,Arabe,Expert en Full Stack
+152,Ben Ali,Anis,anis.benali@gmail.com,19,Ingénieur,MLOps,Compétences de base en MLOps,Gabès,3647,Anglais,Expert en MLOps
+153,Jebali,Khaled,khaled.jebali@gmail.com,28,Licence,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,1705,Anglais,Expert en Cloud Computing
+154,Ksouri,Amira,amira.ksouri@gmail.com,27,Licence,BI,Compétences de base en BI,Sfax,5303,Anglais,Expert en BI
+155,Khemiri,Aya,aya.khemiri@gmail.com,20,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Tunis,3993,Arabe,Expert en Cloud Computing
+156,Gharbi,Omar,omar.gharbi@gmail.com,26,Licence,Blockchain,Compétences de base en Blockchain,Kairouan,5216,Arabe,Expert en Blockchain
+157,Ben Moussa,Mariem,mariem.benmoussa@gmail.com,27,Licence,Architecture,Compétences de base en Architecture,Kairouan,2311,Arabe,Expert en Architecture
+158,Ben Hassen,Aya,aya.benhassen@gmail.com,18,Master,Management,Compétences de base en Management,Monastir,5132,Arabe,Expert en Management
+159,Zouari,Nour,nour.zouari@gmail.com,28,Master,Cloud Computing,Compétences de base en Cloud Computing,Gabès,1996,Arabe,Expert en Cloud Computing
+160,Chelly,Mehdi,mehdi.chelly@gmail.com,25,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Monastir,1674,Français,Expert en Cloud Computing
+161,Nasri,Rim,rim.nasri@gmail.com,20,Licence,Blockchain,Compétences de base en Blockchain,Sfax,3197,Anglais,Expert en Blockchain
+162,Saidi,Malek,malek.saidi@gmail.com,30,Licence,BI,Compétences de base en BI,Tunis,3771,Français,Expert en BI
+163,Bouazizi,Mariem,mariem.bouazizi@gmail.com,30,Licence,Management,Compétences de base en Management,Sfax,1711,Français,Expert en Management
+164,Ben Ali,Tarek,tarek.benali@gmail.com,30,Licence,SRE,Compétences de base en SRE,Gabès,1629,Français,Expert en SRE
+165,Chelly,Youssef,youssef.chelly@gmail.com,29,Ingénieur,IA,Compétences de base en IA,Sfax,2020,Arabe,Expert en IA
+166,Mejri,Nour,nour.mejri@gmail.com,27,Bac+2,VR/AR,Compétences de base en VR/AR,Gafsa,5627,Français,Expert en VR/AR
+167,Ben Hassen,Leila,leila.benhassen@gmail.com,30,Master,Web Development,Compétences de base en Web Development,Gafsa,1755,Français,Expert en Web Development
+168,Ben Youssef,Mohamed,mohamed.benyoussef@gmail.com,28,Bac+2,Architecture,Compétences de base en Architecture,Gafsa,5133,Français,Expert en Architecture
+169,Ksouri,Amine,amine.ksouri@gmail.com,27,Licence,BI,Compétences de base en BI,Sfax,2533,Arabe,Expert en BI
+170,Ben Hassen,Sami,sami.benhassen@gmail.com,23,Ingénieur,Game Development,Compétences de base en Game Development,Bizerte,5216,Anglais,Expert en Game Development
+171,Ben Hassen,Ahmed,ahmed.benhassen@gmail.com,30,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Monastir,5023,Arabe,Expert en Cloud Computing
+172,Ksouri,Malek,malek.ksouri@gmail.com,23,Ingénieur,Architecture,Compétences de base en Architecture,Kairouan,4907,Anglais,Expert en Architecture
+173,Gharbi,Chiraz,chiraz.gharbi@gmail.com,23,Master,Architecture,Compétences de base en Architecture,Gabès,2750,Anglais,Expert en Architecture
+174,Ben Ammar,Hiba,hiba.benammar@gmail.com,19,Bac+2,Sécurité,Compétences de base en Sécurité,Sfax,5037,Français,Expert en Sécurité
+175,Ben Hassine,Khaled,khaled.benhassine@gmail.com,20,Bac+2,SRE,Compétences de base en SRE,Gabès,2501,Arabe,Expert en SRE
+176,Hamdi,Leila,leila.hamdi@gmail.com,18,Master,Web Development,Compétences de base en Web Development,Bizerte,4380,Français,Expert en Web Development
+177,Ouali,Youssef,youssef.ouali@gmail.com,20,Ingénieur,Design,Compétences de base en Design,Monastir,2386,Arabe,Expert en Design
+178,Mahfoudh,Amira,amira.mahfoudh@gmail.com,19,Master,Marketing,Compétences de base en Marketing,Monastir,5015,Anglais,Expert en Marketing
+179,Khelil,Amira,amira.khelil@gmail.com,27,Master,Informatique,Compétences de base en Informatique,Tunis,2977,Arabe,Expert en Informatique
+180,Ghazouani,Aziz,aziz.ghazouani@gmail.com,23,Bac+2,BI,Compétences de base en BI,Sousse,2673,Anglais,Expert en BI
+181,Ben Moussa,Mohamed,mohamed.benmoussa@gmail.com,20,Bac+2,Sécurité,Compétences de base en Sécurité,Sfax,5845,Français,Expert en Sécurité
+182,Jebali,Karim,karim.jebali@gmail.com,23,Licence,IoT,Compétences de base en IoT,Gabès,4052,Anglais,Expert en IoT
+183,Ben Salem,Amine,amine.bensalem@gmail.com,20,Licence,Data Science,Compétences de base en Data Science,Tunis,2168,Arabe,Expert en Data Science
+184,Mejri,Leila,leila.mejri@gmail.com,27,Ingénieur,Fintech,Compétences de base en Fintech,Kairouan,3737,Français,Expert en Fintech
+185,Khelil,Nour,nour.khelil@gmail.com,23,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Sfax,3820,Anglais,Expert en Cloud Computing
+186,Ben Moussa,Rania,rania.benmoussa@gmail.com,28,Master,VR/AR,Compétences de base en VR/AR,Tunis,3306,Arabe,Expert en VR/AR
+187,Ben Hassen,Nesrine,nesrine.benhassen@gmail.com,21,Master,Informatique,Compétences de base en Informatique,Monastir,2624,Arabe,Expert en Informatique
+188,Khemiri,Youssef,youssef.khemiri@gmail.com,18,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,2939,Français,Expert en Cloud Computing
+189,Jebali,Ahmed,ahmed.jebali@gmail.com,21,Master,Game Development,Compétences de base en Game Development,Sfax,4752,Anglais,Expert en Game Development
+190,Kallel,Ahmed,ahmed.kallel@gmail.com,25,Bac+2,Informatique,Compétences de base en Informatique,Gabès,5016,Anglais,Expert en Informatique
+191,Jebali,Karim,karim.jebali@gmail.com,19,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,4160,Français,Expert en Réseaux
+192,Nasri,Amira,amira.nasri@gmail.com,29,Master,Cybersécurité,Compétences de base en Cybersécurité,Sfax,5077,Français,Expert en Cybersécurité
+193,Zouari,Ahmed,ahmed.zouari@gmail.com,24,Bac+2,DevOps,Compétences de base en DevOps,Kairouan,4041,Anglais,Expert en DevOps
+194,Ben Salem,Oussama,oussama.bensalem@gmail.com,30,Licence,BI,Compétences de base en BI,Sfax,5681,Anglais,Expert en BI
+195,Gharbi,Leila,leila.gharbi@gmail.com,21,Master,VR/AR,Compétences de base en VR/AR,Gabès,2709,Français,Expert en VR/AR
+196,Gharbi,Riadh,riadh.gharbi@gmail.com,21,Licence,Management,Compétences de base en Management,Sousse,2117,Français,Expert en Management
+197,Khelil,Walid,walid.khelil@gmail.com,30,Ingénieur,IoT,Compétences de base en IoT,Gabès,4089,Français,Expert en IoT
+198,Mejri,Walid,walid.mejri@gmail.com,25,Master,Fintech,Compétences de base en Fintech,Bizerte,1960,Arabe,Expert en Fintech
+199,Dridi,Sarra,sarra.dridi@gmail.com,25,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,1966,Arabe,Expert en Réseaux
+200,Ben Romdhane,Dorrah,dorrah.benromdhane@gmail.com,28,Bac+2,Sécurité,Compétences de base en Sécurité,Kairouan,5290,Anglais,Expert en Sécurité
+201,Ferjani,Leila,leila.ferjani@gmail.com,30,Licence,IoT,Compétences de base en IoT,Gabès,5396,Anglais,Expert en IoT
+202,Bouazizi,Nesrine,nesrine.bouazizi@gmail.com,19,Master,IoT,Compétences de base en IoT,Sfax,5633,Anglais,Expert en IoT
+203,Mansouri,Leila,leila.mansouri@gmail.com,29,Ingénieur,Blockchain,Compétences de base en Blockchain,Gafsa,5793,Anglais,Expert en Blockchain
+204,Ben Hassen,Chadi,chadi.benhassen@gmail.com,23,Master,Marketing,Compétences de base en Marketing,Kairouan,4848,Arabe,Expert en Marketing
+205,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,28,Master,SRE,Compétences de base en SRE,Sfax,4200,Français,Expert en SRE
+206,Ferjani,Ahmed,ahmed.ferjani@gmail.com,22,Licence,Réseaux,Compétences de base en Réseaux,Gabès,2167,Anglais,Expert en Réseaux
+207,Ben Moussa,Riadh,riadh.benmoussa@gmail.com,22,Ingénieur,Marketing,Compétences de base en Marketing,Sousse,2194,Arabe,Expert en Marketing
+208,Ferjani,Sabrine,sabrine.ferjani@gmail.com,30,Master,Backend,Compétences de base en Backend,Sousse,5812,Français,Expert en Backend
+209,Chaabane,Leila,leila.chaabane@gmail.com,23,Bac+2,VR/AR,Compétences de base en VR/AR,Gabès,4030,Français,Expert en VR/AR
+210,Saidi,Adel,adel.saidi@gmail.com,25,Licence,QA,Compétences de base en QA,Monastir,2626,Français,Expert en QA
+211,Trabelsi,Aymen,aymen.trabelsi@gmail.com,19,Bac+2,SRE,Compétences de base en SRE,Gabès,2573,Anglais,Expert en SRE
+212,Jebali,Aya,aya.jebali@gmail.com,20,Licence,Mobile,Compétences de base en Mobile,Gafsa,1857,Arabe,Expert en Mobile
+213,Hamdi,Asma,asma.hamdi@gmail.com,27,Master,IoT,Compétences de base en IoT,Gafsa,3416,Anglais,Expert en IoT
+214,Zouari,Aziz,aziz.zouari@gmail.com,30,Ingénieur,SRE,Compétences de base en SRE,Monastir,4513,Anglais,Expert en SRE
+215,Ouali,Mariem,mariem.ouali@gmail.com,30,Master,IoT,Compétences de base en IoT,Kairouan,5619,Anglais,Expert en IoT
+216,Makni,Chadi,chadi.makni@gmail.com,21,Licence,Cybersécurité,Compétences de base en Cybersécurité,Bizerte,1927,Anglais,Expert en Cybersécurité
+217,Ben Youssef,Khaled,khaled.benyoussef@gmail.com,19,Bac+2,MLOps,Compétences de base en MLOps,Bizerte,2187,Français,Expert en MLOps
+218,Chelly,Sami,sami.chelly@gmail.com,20,Ingénieur,VR/AR,Compétences de base en VR/AR,Sfax,3318,Arabe,Expert en VR/AR
+219,Ksouri,Emna,emna.ksouri@gmail.com,24,Bac+2,Informatique,Compétences de base en Informatique,Kairouan,5612,Arabe,Expert en Informatique
+220,Zouari,Ahmed,ahmed.zouari@gmail.com,23,Licence,Sécurité,Compétences de base en Sécurité,Tunis,4110,Français,Expert en Sécurité
+221,Ben Romdhane,Rim,rim.benromdhane@gmail.com,20,Licence,SRE,Compétences de base en SRE,Tunis,3850,Arabe,Expert en SRE
+222,Ghazouani,Nour,nour.ghazouani@gmail.com,29,Ingénieur,QA,Compétences de base en QA,Gafsa,1543,Français,Expert en QA
+223,Ben Ali,Yosra,yosra.benali@gmail.com,20,Ingénieur,Design,Compétences de base en Design,Sfax,3860,Français,Expert en Design
+224,Khemiri,Mariem,mariem.khemiri@gmail.com,21,Ingénieur,Data Science,Compétences de base en Data Science,Gafsa,2014,Français,Expert en Data Science
+225,Ben Romdhane,Walid,walid.benromdhane@gmail.com,26,Bac+2,Frontend,Compétences de base en Frontend,Monastir,2676,Arabe,Expert en Frontend
+226,Makni,Ahmed,ahmed.makni@gmail.com,23,Licence,Frontend,Compétences de base en Frontend,Kairouan,3034,Anglais,Expert en Frontend
+227,Ben Moussa,Amine,amine.benmoussa@gmail.com,23,Bac+2,VR/AR,Compétences de base en VR/AR,Tunis,4698,Arabe,Expert en VR/AR
+228,Kallel,Ahmed,ahmed.kallel@gmail.com,22,Bac+2,Marketing,Compétences de base en Marketing,Gabès,2053,Arabe,Expert en Marketing
+229,Zouari,Hiba,hiba.zouari@gmail.com,27,Master,QA,Compétences de base en QA,Sousse,1863,Arabe,Expert en QA
+230,Ferjani,Adel,adel.ferjani@gmail.com,28,Licence,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,5420,Anglais,Expert en Cybersécurité
+231,Mansouri,Nour,nour.mansouri@gmail.com,29,Ingénieur,Sécurité,Compétences de base en Sécurité,Tunis,3903,Français,Expert en Sécurité
+232,Kallel,Rania,rania.kallel@gmail.com,23,Master,Data Science,Compétences de base en Data Science,Kairouan,5948,Arabe,Expert en Data Science
+233,Chelly,Karim,karim.chelly@gmail.com,28,Licence,QA,Compétences de base en QA,Bizerte,4424,Français,Expert en QA
+234,Mahfoudh,Rim,rim.mahfoudh@gmail.com,19,Master,Management,Compétences de base en Management,Kairouan,4776,Anglais,Expert en Management
+235,Mejri,Ahmed,ahmed.mejri@gmail.com,20,Ingénieur,BI,Compétences de base en BI,Gafsa,4509,Anglais,Expert en BI
+236,Chelly,Amine,amine.chelly@gmail.com,24,Bac+2,Web Development,Compétences de base en Web Development,Kairouan,2978,Anglais,Expert en Web Development
+237,Khemiri,Youssef,youssef.khemiri@gmail.com,19,Master,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,4010,Arabe,Expert en Cloud Computing
+238,Ben Hassen,Leila,leila.benhassen@gmail.com,29,Ingénieur,Mobile,Compétences de base en Mobile,Gabès,5162,Français,Expert en Mobile
+239,Ben Hassine,Tarek,tarek.benhassine@gmail.com,24,Master,Frontend,Compétences de base en Frontend,Tunis,2114,Anglais,Expert en Frontend
+240,Chaabane,Mohamed,mohamed.chaabane@gmail.com,26,Licence,Marketing,Compétences de base en Marketing,Tunis,2669,Anglais,Expert en Marketing
+241,Ben Moussa,Mariem,mariem.benmoussa@gmail.com,20,Bac+2,Data Science,Compétences de base en Data Science,Monastir,4500,Arabe,Expert en Data Science
+242,Jebali,Karim,karim.jebali@gmail.com,20,Ingénieur,Frontend,Compétences de base en Frontend,Gabès,4547,Arabe,Expert en Frontend
+243,Khelil,Sarra,sarra.khelil@gmail.com,20,Master,DevOps,Compétences de base en DevOps,Kairouan,4075,Anglais,Expert en DevOps
+244,Chelly,Riad,riad.chelly@gmail.com,18,Licence,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,5741,Arabe,Expert en Cloud Computing
+245,Ben Ammar,Amira,amira.benammar@gmail.com,22,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,3257,Anglais,Expert en Cloud Computing
+246,Khemiri,Rania,rania.khemiri@gmail.com,19,Licence,Design,Compétences de base en Design,Sfax,5203,Français,Expert en Design
+247,Ksouri,Mariem,mariem.ksouri@gmail.com,30,Master,Sécurité,Compétences de base en Sécurité,Gabès,2031,Anglais,Expert en Sécurité
+248,Ferjani,Aymen,aymen.ferjani@gmail.com,20,Licence,Réseaux,Compétences de base en Réseaux,Gabès,5667,Français,Expert en Réseaux
+249,Gharbi,Rania,rania.gharbi@gmail.com,20,Licence,SRE,Compétences de base en SRE,Gafsa,1715,Arabe,Expert en SRE
+250,Ferjani,Khaled,khaled.ferjani@gmail.com,30,Licence,IoT,Compétences de base en IoT,Sfax,2038,Arabe,Expert en IoT
+251,Jebali,Omar,omar.jebali@gmail.com,24,Ingénieur,VR/AR,Compétences de base en VR/AR,Sfax,2526,Arabe,Expert en VR/AR
+252,Chaabane,Sarra,sarra.chaabane@gmail.com,25,Master,IoT,Compétences de base en IoT,Sousse,2990,Français,Expert en IoT
+253,Makni,Youssef,youssef.makni@gmail.com,19,Licence,Data Science,Compétences de base en Data Science,Bizerte,2848,Français,Expert en Data Science
+254,Ben Salem,Oussama,oussama.bensalem@gmail.com,26,Master,Marketing,Compétences de base en Marketing,Sfax,3552,Français,Expert en Marketing
+255,Chaabane,Sami,sami.chaabane@gmail.com,20,Master,Management,Compétences de base en Management,Sfax,5617,Anglais,Expert en Management
+256,Mansouri,Aya,aya.mansouri@gmail.com,28,Master,Mobile,Compétences de base en Mobile,Tunis,1732,Français,Expert en Mobile
+257,Kallel,Anis,anis.kallel@gmail.com,21,Ingénieur,Backend,Compétences de base en Backend,Tunis,5579,Anglais,Expert en Backend
+258,Ferjani,Aymen,aymen.ferjani@gmail.com,22,Ingénieur,Backend,Compétences de base en Backend,Monastir,4826,Arabe,Expert en Backend
+259,Mejri,Sarra,sarra.mejri@gmail.com,18,Licence,Game Development,Compétences de base en Game Development,Gafsa,4904,Arabe,Expert en Game Development
+260,Mejri,Khaled,khaled.mejri@gmail.com,27,Licence,BI,Compétences de base en BI,Gabès,4115,Anglais,Expert en BI
+261,Mahfoudh,Emna,emna.mahfoudh@gmail.com,20,Master,Programmation,Compétences de base en Programmation,Sfax,4114,Français,Expert en Programmation
+262,Mejri,Mariem,mariem.mejri@gmail.com,25,Licence,Management,Compétences de base en Management,Sousse,2293,Français,Expert en Management
+263,Khemiri,Ahmed,ahmed.khemiri@gmail.com,24,Licence,Frontend,Compétences de base en Frontend,Sousse,4182,Anglais,Expert en Frontend
+264,Ben Hassine,Chiraz,chiraz.benhassine@gmail.com,30,Licence,Design,Compétences de base en Design,Gafsa,5716,Arabe,Expert en Design
+265,Ben Youssef,Aziz,aziz.benyoussef@gmail.com,18,Bac+2,Fintech,Compétences de base en Fintech,Kairouan,5640,Arabe,Expert en Fintech
+266,Zouari,Salma,salma.zouari@gmail.com,23,Bac+2,DevOps,Compétences de base en DevOps,Tunis,3804,Arabe,Expert en DevOps
+267,Ben Hassen,Hiba,hiba.benhassen@gmail.com,26,Bac+2,Réseaux,Compétences de base en Réseaux,Sfax,5030,Français,Expert en Réseaux
+268,Ksouri,Anis,anis.ksouri@gmail.com,23,Ingénieur,Web Development,Compétences de base en Web Development,Gabès,1870,Arabe,Expert en Web Development
+269,Kallel,Amira,amira.kallel@gmail.com,23,Master,Design,Compétences de base en Design,Sfax,4664,Anglais,Expert en Design
+270,Mejri,Sami,sami.mejri@gmail.com,27,Bac+2,Management,Compétences de base en Management,Sousse,2292,Arabe,Expert en Management
+271,Hamdi,Adel,adel.hamdi@gmail.com,23,Licence,MLOps,Compétences de base en MLOps,Monastir,5670,Arabe,Expert en MLOps
+272,Dridi,Leila,leila.dridi@gmail.com,18,Licence,Data Science,Compétences de base en Data Science,Gabès,5380,Anglais,Expert en Data Science
+273,Mejri,Aya,aya.mejri@gmail.com,26,Licence,Frontend,Compétences de base en Frontend,Gabès,4109,Français,Expert en Frontend
+274,Jebali,Manel,manel.jebali@gmail.com,23,Ingénieur,DevOps,Compétences de base en DevOps,Bizerte,5390,Français,Expert en DevOps
+275,Hamdi,Rim,rim.hamdi@gmail.com,19,Ingénieur,Full Stack,Compétences de base en Full Stack,Bizerte,1718,Anglais,Expert en Full Stack
+276,Ben Youssef,Anis,anis.benyoussef@gmail.com,30,Licence,Backend,Compétences de base en Backend,Tunis,5435,Français,Expert en Backend
+277,Dridi,Sabrine,sabrine.dridi@gmail.com,28,Licence,IA,Compétences de base en IA,Tunis,2400,Français,Expert en IA
+278,Ben Ali,Mariem,mariem.benali@gmail.com,24,Licence,BI,Compétences de base en BI,Kairouan,3170,Arabe,Expert en BI
+279,Dridi,Hiba,hiba.dridi@gmail.com,29,Bac+2,Web Development,Compétences de base en Web Development,Sousse,5749,Français,Expert en Web Development
+280,Ferjani,Youssef,youssef.ferjani@gmail.com,25,Ingénieur,Full Stack,Compétences de base en Full Stack,Gabès,2918,Arabe,Expert en Full Stack
+281,Ben Ammar,Ahmed,ahmed.benammar@gmail.com,26,Master,BI,Compétences de base en BI,Bizerte,5466,Français,Expert en BI
+282,Zouari,Hichem,hichem.zouari@gmail.com,22,Licence,MLOps,Compétences de base en MLOps,Bizerte,3867,Anglais,Expert en MLOps
+283,Saidi,Rania,rania.saidi@gmail.com,25,Master,BI,Compétences de base en BI,Bizerte,3857,Français,Expert en BI
+284,Ouali,Mariem,mariem.ouali@gmail.com,24,Master,Programmation,Compétences de base en Programmation,Sousse,3879,Français,Expert en Programmation
+285,Khemiri,Amine,amine.khemiri@gmail.com,25,Master,Marketing,Compétences de base en Marketing,Gafsa,3252,Français,Expert en Marketing
+286,Ben Romdhane,Ahmed,ahmed.benromdhane@gmail.com,26,Master,Management,Compétences de base en Management,Sousse,2394,Anglais,Expert en Management
+287,Ben Hassine,Asma,asma.benhassine@gmail.com,18,Licence,Blockchain,Compétences de base en Blockchain,Monastir,1930,Français,Expert en Blockchain
+288,Makni,Rim,rim.makni@gmail.com,25,Bac+2,Game Development,Compétences de base en Game Development,Sousse,1542,Anglais,Expert en Game Development
+289,Ben Ammar,Chadi,chadi.benammar@gmail.com,28,Ingénieur,Architecture,Compétences de base en Architecture,Gafsa,3133,Arabe,Expert en Architecture
+290,Ben Salem,Dorrah,dorrah.bensalem@gmail.com,18,Bac+2,Backend,Compétences de base en Backend,Monastir,5883,Anglais,Expert en Backend
+291,Ben Hassine,Karim,karim.benhassine@gmail.com,24,Licence,Mobile,Compétences de base en Mobile,Tunis,4752,Arabe,Expert en Mobile
+292,Mansouri,Aymen,aymen.mansouri@gmail.com,18,Master,Data Science,Compétences de base en Data Science,Sfax,4244,Arabe,Expert en Data Science
+293,Mejri,Mariem,mariem.mejri@gmail.com,25,Licence,VR/AR,Compétences de base en VR/AR,Gafsa,3735,Français,Expert en VR/AR
+294,Nasri,Yassine,yassine.nasri@gmail.com,20,Ingénieur,BI,Compétences de base en BI,Bizerte,3025,Français,Expert en BI
+295,Ben Hassine,Adel,adel.benhassine@gmail.com,22,Licence,SRE,Compétences de base en SRE,Sousse,4821,Arabe,Expert en SRE
+296,Dridi,Youssef,youssef.dridi@gmail.com,24,Bac+2,Sécurité,Compétences de base en Sécurité,Sousse,2651,Arabe,Expert en Sécurité
+297,Ben Salem,Riad,riad.bensalem@gmail.com,22,Ingénieur,Informatique,Compétences de base en Informatique,Monastir,5159,Arabe,Expert en Informatique
+298,Ben Salem,Manel,manel.bensalem@gmail.com,29,Bac+2,DevOps,Compétences de base en DevOps,Bizerte,4445,Anglais,Expert en DevOps
+299,Zouari,Nesrine,nesrine.zouari@gmail.com,19,Ingénieur,Full Stack,Compétences de base en Full Stack,Bizerte,2808,Arabe,Expert en Full Stack
+300,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,30,Master,Game Development,Compétences de base en Game Development,Sfax,3916,Arabe,Expert en Game Development
+301,Ben Hassen,Oussama,oussama.benhassen@gmail.com,20,Ingénieur,Blockchain,Compétences de base en Blockchain,Sousse,5227,Anglais,Expert en Blockchain
+302,Ben Hassen,Khaled,khaled.benhassen@gmail.com,29,Ingénieur,Architecture,Compétences de base en Architecture,Monastir,3527,Anglais,Expert en Architecture
+303,Khelil,Amine,amine.khelil@gmail.com,25,Master,VR/AR,Compétences de base en VR/AR,Sfax,2419,Français,Expert en VR/AR
+304,Ben Romdhane,Sami,sami.benromdhane@gmail.com,21,Licence,VR/AR,Compétences de base en VR/AR,Sousse,4187,Anglais,Expert en VR/AR
+305,Mejri,Yassine,yassine.mejri@gmail.com,21,Ingénieur,Full Stack,Compétences de base en Full Stack,Sfax,5680,Arabe,Expert en Full Stack
+306,Nasri,Nesrine,nesrine.nasri@gmail.com,20,Ingénieur,IoT,Compétences de base en IoT,Gafsa,1972,Anglais,Expert en IoT
+307,Mejri,Aziz,aziz.mejri@gmail.com,18,Ingénieur,Web Development,Compétences de base en Web Development,Bizerte,1524,Anglais,Expert en Web Development
+308,Saidi,Sarra,sarra.saidi@gmail.com,24,Master,Data Science,Compétences de base en Data Science,Sfax,5933,Français,Expert en Data Science
+309,Ben Ammar,Walid,walid.benammar@gmail.com,18,Master,Fintech,Compétences de base en Fintech,Kairouan,2974,Français,Expert en Fintech
+310,Khelil,Karim,karim.khelil@gmail.com,24,Ingénieur,Marketing,Compétences de base en Marketing,Kairouan,4577,Français,Expert en Marketing
+311,Ben Moussa,Mariem,mariem.benmoussa@gmail.com,28,Master,IA,Compétences de base en IA,Sfax,2962,Anglais,Expert en IA
+312,Jebali,Leila,leila.jebali@gmail.com,29,Licence,IA,Compétences de base en IA,Tunis,1686,Arabe,Expert en IA
+313,Mejri,Mariem,mariem.mejri@gmail.com,26,Ingénieur,Architecture,Compétences de base en Architecture,Monastir,3527,Arabe,Expert en Architecture
+314,Hamdi,Aya,aya.hamdi@gmail.com,21,Bac+2,Management,Compétences de base en Management,Tunis,4934,Anglais,Expert en Management
+315,Khelil,Mohamed,mohamed.khelil@gmail.com,21,Bac+2,Blockchain,Compétences de base en Blockchain,Sfax,1775,Arabe,Expert en Blockchain
+316,Ben Hassen,Youssef,youssef.benhassen@gmail.com,29,Bac+2,Blockchain,Compétences de base en Blockchain,Kairouan,5095,Français,Expert en Blockchain
+317,Ferjani,Salma,salma.ferjani@gmail.com,30,Bac+2,QA,Compétences de base en QA,Sousse,5627,Arabe,Expert en QA
+318,Zouari,Chiraz,chiraz.zouari@gmail.com,27,Master,DevOps,Compétences de base en DevOps,Monastir,3972,Français,Expert en DevOps
+319,Ben Moussa,Karim,karim.benmoussa@gmail.com,24,Master,Blockchain,Compétences de base en Blockchain,Bizerte,1999,Anglais,Expert en Blockchain
+320,Ouali,Hamza,hamza.ouali@gmail.com,28,Ingénieur,Backend,Compétences de base en Backend,Gafsa,1884,Arabe,Expert en Backend
+321,Chaabane,Sabrine,sabrine.chaabane@gmail.com,26,Master,SRE,Compétences de base en SRE,Kairouan,4844,Français,Expert en SRE
+322,Khemiri,Sabrine,sabrine.khemiri@gmail.com,30,Ingénieur,Mobile,Compétences de base en Mobile,Monastir,3346,Arabe,Expert en Mobile
+323,Mahfoudh,Riadh,riadh.mahfoudh@gmail.com,25,Bac+2,SRE,Compétences de base en SRE,Kairouan,4912,Anglais,Expert en SRE
+324,Dridi,Nour,nour.dridi@gmail.com,21,Master,Programmation,Compétences de base en Programmation,Monastir,4205,Anglais,Expert en Programmation
+325,Trabelsi,Sami,sami.trabelsi@gmail.com,19,Licence,Marketing,Compétences de base en Marketing,Tunis,3699,Arabe,Expert en Marketing
+326,Ben Moussa,Leila,leila.benmoussa@gmail.com,21,Licence,Sécurité,Compétences de base en Sécurité,Gafsa,3211,Arabe,Expert en Sécurité
+327,Khemiri,Fatma,fatma.khemiri@gmail.com,21,Bac+2,Design,Compétences de base en Design,Gafsa,3487,Anglais,Expert en Design
+328,Ben Hassen,Khaled,khaled.benhassen@gmail.com,21,Master,Programmation,Compétences de base en Programmation,Bizerte,4618,Arabe,Expert en Programmation
+329,Ferjani,Tarek,tarek.ferjani@gmail.com,22,Master,Réseaux,Compétences de base en Réseaux,Gafsa,5317,Français,Expert en Réseaux
+330,Nasri,Hiba,hiba.nasri@gmail.com,23,Licence,QA,Compétences de base en QA,Gabès,4063,Arabe,Expert en QA
+331,Kallel,Oussama,oussama.kallel@gmail.com,20,Bac+2,Web Development,Compétences de base en Web Development,Bizerte,4920,Arabe,Expert en Web Development
+332,Bouazizi,Rania,rania.bouazizi@gmail.com,21,Ingénieur,BI,Compétences de base en BI,Monastir,5590,Anglais,Expert en BI
+333,Chaabane,Adel,adel.chaabane@gmail.com,30,Ingénieur,Management,Compétences de base en Management,Gafsa,5275,Français,Expert en Management
+334,Ben Hassine,Tarek,tarek.benhassine@gmail.com,20,Ingénieur,Mobile,Compétences de base en Mobile,Sousse,5941,Anglais,Expert en Mobile
+335,Kallel,Leila,leila.kallel@gmail.com,19,Bac+2,Data Science,Compétences de base en Data Science,Tunis,4878,Français,Expert en Data Science
+336,Ben Romdhane,Malek,malek.benromdhane@gmail.com,29,Licence,Sécurité,Compétences de base en Sécurité,Tunis,3291,Anglais,Expert en Sécurité
+337,Mejri,Khaled,khaled.mejri@gmail.com,27,Ingénieur,Data Science,Compétences de base en Data Science,Gafsa,1628,Français,Expert en Data Science
+338,Ferjani,Sami,sami.ferjani@gmail.com,18,Bac+2,Architecture,Compétences de base en Architecture,Bizerte,5888,Arabe,Expert en Architecture
+339,Ben Ali,Youssef,youssef.benali@gmail.com,29,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Sousse,2376,Français,Expert en Cybersécurité
+340,Dridi,Aya,aya.dridi@gmail.com,21,Master,Blockchain,Compétences de base en Blockchain,Gabès,3689,Arabe,Expert en Blockchain
+341,Trabelsi,Khaled,khaled.trabelsi@gmail.com,25,Licence,Programmation,Compétences de base en Programmation,Monastir,3957,Anglais,Expert en Programmation
+342,Ben Romdhane,Amine,amine.benromdhane@gmail.com,28,Bac+2,Backend,Compétences de base en Backend,Sfax,4820,Arabe,Expert en Backend
+343,Jebali,Sami,sami.jebali@gmail.com,18,Bac+2,Fintech,Compétences de base en Fintech,Sousse,2177,Arabe,Expert en Fintech
+344,Mahfoudh,Ahmed,ahmed.mahfoudh@gmail.com,30,Master,Backend,Compétences de base en Backend,Sfax,5826,Français,Expert en Backend
+345,Zouari,Salma,salma.zouari@gmail.com,27,Ingénieur,Game Development,Compétences de base en Game Development,Bizerte,1881,Français,Expert en Game Development
+346,Ben Moussa,Hichem,hichem.benmoussa@gmail.com,27,Bac+2,MLOps,Compétences de base en MLOps,Sousse,4076,Français,Expert en MLOps
+347,Saidi,Riadh,riadh.saidi@gmail.com,29,Ingénieur,QA,Compétences de base en QA,Sfax,3951,Français,Expert en QA
+348,Ouali,Asma,asma.ouali@gmail.com,24,Master,DevOps,Compétences de base en DevOps,Kairouan,2646,Anglais,Expert en DevOps
+349,Ben Hassine,Amine,amine.benhassine@gmail.com,29,Master,VR/AR,Compétences de base en VR/AR,Tunis,2300,Arabe,Expert en VR/AR
+350,Zouari,Sarra,sarra.zouari@gmail.com,27,Ingénieur,BI,Compétences de base en BI,Gabès,1742,Anglais,Expert en BI
+351,Chelly,Sami,sami.chelly@gmail.com,21,Master,Fintech,Compétences de base en Fintech,Kairouan,5037,Français,Expert en Fintech
+352,Ben Moussa,Sabrine,sabrine.benmoussa@gmail.com,30,Master,Sécurité,Compétences de base en Sécurité,Monastir,2102,Français,Expert en Sécurité
+353,Chelly,Aya,aya.chelly@gmail.com,29,Licence,Programmation,Compétences de base en Programmation,Kairouan,4094,Arabe,Expert en Programmation
+354,Gharbi,Ines,ines.gharbi@gmail.com,22,Ingénieur,Informatique,Compétences de base en Informatique,Gabès,3709,Français,Expert en Informatique
+355,Bouazizi,Ines,ines.bouazizi@gmail.com,24,Ingénieur,Mobile,Compétences de base en Mobile,Kairouan,2346,Français,Expert en Mobile
+356,Trabelsi,Tarek,tarek.trabelsi@gmail.com,19,Master,MLOps,Compétences de base en MLOps,Kairouan,1601,Arabe,Expert en MLOps
+357,Makni,Ahmed,ahmed.makni@gmail.com,19,Licence,QA,Compétences de base en QA,Sousse,4618,Français,Expert en QA
+358,Bouazizi,Sonia,sonia.bouazizi@gmail.com,22,Ingénieur,Réseaux,Compétences de base en Réseaux,Sousse,2018,Français,Expert en Réseaux
+359,Makni,Hichem,hichem.makni@gmail.com,22,Ingénieur,Architecture,Compétences de base en Architecture,Sfax,4458,Arabe,Expert en Architecture
+360,Zouari,Walid,walid.zouari@gmail.com,27,Licence,Frontend,Compétences de base en Frontend,Gafsa,2376,Français,Expert en Frontend
+361,Khemiri,Ahmed,ahmed.khemiri@gmail.com,23,Ingénieur,Programmation,Compétences de base en Programmation,Gabès,5106,Arabe,Expert en Programmation
+362,Makni,Nour,nour.makni@gmail.com,23,Licence,Réseaux,Compétences de base en Réseaux,Gafsa,4073,Français,Expert en Réseaux
+363,Jebali,Chiraz,chiraz.jebali@gmail.com,29,Ingénieur,Réseaux,Compétences de base en Réseaux,Monastir,4169,Arabe,Expert en Réseaux
+364,Chelly,Chaima,chaima.chelly@gmail.com,19,Licence,Marketing,Compétences de base en Marketing,Sousse,1720,Anglais,Expert en Marketing
+365,Mejri,Khaled,khaled.mejri@gmail.com,30,Master,IoT,Compétences de base en IoT,Sfax,4851,Anglais,Expert en IoT
+366,Ben Youssef,Nour,nour.benyoussef@gmail.com,22,Licence,Backend,Compétences de base en Backend,Bizerte,2762,Anglais,Expert en Backend
+367,Makni,Sabrine,sabrine.makni@gmail.com,25,Ingénieur,Sécurité,Compétences de base en Sécurité,Kairouan,5877,Anglais,Expert en Sécurité
+368,Ben Ammar,Karim,karim.benammar@gmail.com,18,Master,MLOps,Compétences de base en MLOps,Sfax,2395,Français,Expert en MLOps
+369,Ben Moussa,Tarek,tarek.benmoussa@gmail.com,28,Bac+2,Mobile,Compétences de base en Mobile,Kairouan,4216,Arabe,Expert en Mobile
+370,Gharbi,Fatma,fatma.gharbi@gmail.com,22,Licence,Cloud Computing,Compétences de base en Cloud Computing,Monastir,5151,Arabe,Expert en Cloud Computing
+371,Jebali,Yassine,yassine.jebali@gmail.com,28,Licence,QA,Compétences de base en QA,Gabès,1701,Arabe,Expert en QA
+372,Gharbi,Aymen,aymen.gharbi@gmail.com,19,Bac+2,Architecture,Compétences de base en Architecture,Sousse,4353,Arabe,Expert en Architecture
+373,Ben Salem,Amira,amira.bensalem@gmail.com,21,Ingénieur,SRE,Compétences de base en SRE,Gabès,5400,Français,Expert en SRE
+374,Mejri,Sami,sami.mejri@gmail.com,19,Master,BI,Compétences de base en BI,Tunis,2442,Français,Expert en BI
+375,Mahfoudh,Adel,adel.mahfoudh@gmail.com,19,Licence,Backend,Compétences de base en Backend,Monastir,5727,Français,Expert en Backend
+376,Ferjani,Chadi,chadi.ferjani@gmail.com,26,Ingénieur,BI,Compétences de base en BI,Gafsa,3399,Arabe,Expert en BI
+377,Chaabane,Farah,farah.chaabane@gmail.com,28,Ingénieur,Mobile,Compétences de base en Mobile,Kairouan,1739,Anglais,Expert en Mobile
+378,Ben Hassen,Rania,rania.benhassen@gmail.com,27,Ingénieur,IoT,Compétences de base en IoT,Kairouan,1536,Anglais,Expert en IoT
+379,Saidi,Khaled,khaled.saidi@gmail.com,30,Bac+2,Management,Compétences de base en Management,Sfax,5898,Français,Expert en Management
+380,Hamdi,Youssef,youssef.hamdi@gmail.com,25,Bac+2,Design,Compétences de base en Design,Bizerte,5509,Anglais,Expert en Design
+381,Chaabane,Chiraz,chiraz.chaabane@gmail.com,24,Ingénieur,Frontend,Compétences de base en Frontend,Sfax,4350,Arabe,Expert en Frontend
+382,Mahfoudh,Amira,amira.mahfoudh@gmail.com,20,Master,Frontend,Compétences de base en Frontend,Sfax,2597,Arabe,Expert en Frontend
+383,Gharbi,Asma,asma.gharbi@gmail.com,19,Licence,Réseaux,Compétences de base en Réseaux,Gabès,2658,Anglais,Expert en Réseaux
+384,Jebali,Karim,karim.jebali@gmail.com,20,Ingénieur,Frontend,Compétences de base en Frontend,Kairouan,3021,Arabe,Expert en Frontend
+385,Chaabane,Ahmed,ahmed.chaabane@gmail.com,28,Licence,Game Development,Compétences de base en Game Development,Sousse,5511,Arabe,Expert en Game Development
+386,Bouazizi,Farah,farah.bouazizi@gmail.com,25,Bac+2,BI,Compétences de base en BI,Gabès,1578,Arabe,Expert en BI
+387,Bouazizi,Mehdi,mehdi.bouazizi@gmail.com,24,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,5528,Arabe,Expert en Cybersécurité
+388,Ghazouani,Mariem,mariem.ghazouani@gmail.com,20,Bac+2,Fintech,Compétences de base en Fintech,Tunis,3306,Arabe,Expert en Fintech
+389,Kallel,Hichem,hichem.kallel@gmail.com,26,Master,Blockchain,Compétences de base en Blockchain,Sousse,5246,Anglais,Expert en Blockchain
+390,Ben Hassine,Walid,walid.benhassine@gmail.com,26,Bac+2,MLOps,Compétences de base en MLOps,Sfax,3694,Anglais,Expert en MLOps
+391,Ben Romdhane,Nour,nour.benromdhane@gmail.com,30,Bac+2,MLOps,Compétences de base en MLOps,Gafsa,5975,Français,Expert en MLOps
+392,Makni,Hiba,hiba.makni@gmail.com,28,Licence,Web Development,Compétences de base en Web Development,Bizerte,1764,Arabe,Expert en Web Development
+393,Chelly,Emna,emna.chelly@gmail.com,19,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Sfax,3441,Français,Expert en Cybersécurité
+394,Nasri,Emna,emna.nasri@gmail.com,27,Ingénieur,Game Development,Compétences de base en Game Development,Sousse,2640,Français,Expert en Game Development
+395,Ben Romdhane,Khaled,khaled.benromdhane@gmail.com,18,Master,SRE,Compétences de base en SRE,Bizerte,5913,Français,Expert en SRE
+396,Ben Salem,Aymen,aymen.bensalem@gmail.com,27,Master,Réseaux,Compétences de base en Réseaux,Sfax,2610,Arabe,Expert en Réseaux
+397,Ben Ammar,Nesrine,nesrine.benammar@gmail.com,28,Licence,Management,Compétences de base en Management,Sousse,3545,Français,Expert en Management
+398,Ghazouani,Youssef,youssef.ghazouani@gmail.com,21,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,2664,Anglais,Expert en Cybersécurité
+399,Chaabane,Sonia,sonia.chaabane@gmail.com,24,Ingénieur,Backend,Compétences de base en Backend,Gafsa,2118,Anglais,Expert en Backend
+400,Nasri,Ines,ines.nasri@gmail.com,26,Master,Programmation,Compétences de base en Programmation,Gabès,5224,Arabe,Expert en Programmation
+401,Ben Salem,Ahmed,ahmed.bensalem@gmail.com,29,Bac+2,QA,Compétences de base en QA,Gafsa,4434,Français,Expert en QA
+402,Nasri,Ahmed,ahmed.nasri@gmail.com,21,Ingénieur,Programmation,Compétences de base en Programmation,Monastir,5552,Arabe,Expert en Programmation
+403,Ben Salem,Dorrah,dorrah.bensalem@gmail.com,26,Licence,BI,Compétences de base en BI,Gafsa,4315,Anglais,Expert en BI
+404,Khelil,Youssef,youssef.khelil@gmail.com,19,Ingénieur,Data Science,Compétences de base en Data Science,Tunis,2517,Français,Expert en Data Science
+405,Mejri,Amira,amira.mejri@gmail.com,24,Licence,Informatique,Compétences de base en Informatique,Sousse,3972,Français,Expert en Informatique
+406,Mahfoudh,Hichem,hichem.mahfoudh@gmail.com,28,Master,Sécurité,Compétences de base en Sécurité,Bizerte,2175,Arabe,Expert en Sécurité
+407,Ben Moussa,Salma,salma.benmoussa@gmail.com,24,Master,Data Science,Compétences de base en Data Science,Monastir,5016,Anglais,Expert en Data Science
+408,Trabelsi,Omar,omar.trabelsi@gmail.com,21,Ingénieur,Informatique,Compétences de base en Informatique,Sfax,2587,Anglais,Expert en Informatique
+409,Zouari,Karim,karim.zouari@gmail.com,25,Bac+2,Full Stack,Compétences de base en Full Stack,Tunis,4314,Français,Expert en Full Stack
+410,Mahfoudh,Leila,leila.mahfoudh@gmail.com,20,Ingénieur,Game Development,Compétences de base en Game Development,Sfax,3375,Arabe,Expert en Game Development
+411,Trabelsi,Hiba,hiba.trabelsi@gmail.com,23,Master,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,2623,Arabe,Expert en Cloud Computing
+412,Khelil,Nour,nour.khelil@gmail.com,28,Licence,Backend,Compétences de base en Backend,Sfax,5845,Anglais,Expert en Backend
+413,Ben Ali,Salma,salma.benali@gmail.com,23,Licence,IoT,Compétences de base en IoT,Sousse,4872,Anglais,Expert en IoT
+414,Ben Moussa,Mariem,mariem.benmoussa@gmail.com,19,Bac+2,Design,Compétences de base en Design,Sousse,2508,Anglais,Expert en Design
+415,Ben Hassine,Ahmed,ahmed.benhassine@gmail.com,24,Master,Marketing,Compétences de base en Marketing,Sousse,3529,Arabe,Expert en Marketing
+416,Chaabane,Amine,amine.chaabane@gmail.com,26,Master,Blockchain,Compétences de base en Blockchain,Tunis,3971,Français,Expert en Blockchain
+417,Dridi,Nour,nour.dridi@gmail.com,29,Ingénieur,Design,Compétences de base en Design,Bizerte,1947,Français,Expert en Design
+418,Ben Youssef,Ahmed,ahmed.benyoussef@gmail.com,21,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Sfax,5827,Français,Expert en Cloud Computing
+419,Hamdi,Chiraz,chiraz.hamdi@gmail.com,24,Ingénieur,IA,Compétences de base en IA,Gabès,5975,Anglais,Expert en IA
+420,Mansouri,Hiba,hiba.mansouri@gmail.com,19,Bac+2,QA,Compétences de base en QA,Sfax,1612,Arabe,Expert en QA
+421,Saidi,Leila,leila.saidi@gmail.com,30,Ingénieur,Data Science,Compétences de base en Data Science,Bizerte,5604,Arabe,Expert en Data Science
+422,Makni,Mohamed,mohamed.makni@gmail.com,28,Licence,Sécurité,Compétences de base en Sécurité,Bizerte,2184,Arabe,Expert en Sécurité
+423,Trabelsi,Nour,nour.trabelsi@gmail.com,30,Licence,Design,Compétences de base en Design,Gabès,4700,Anglais,Expert en Design
+424,Chaabane,Walid,walid.chaabane@gmail.com,29,Ingénieur,Réseaux,Compétences de base en Réseaux,Monastir,1974,Français,Expert en Réseaux
+425,Trabelsi,Ahmed,ahmed.trabelsi@gmail.com,25,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,2938,Français,Expert en Cloud Computing
+426,Ben Ali,Nour,nour.benali@gmail.com,18,Licence,Game Development,Compétences de base en Game Development,Gafsa,4340,Anglais,Expert en Game Development
+427,Dridi,Anis,anis.dridi@gmail.com,23,Licence,Mobile,Compétences de base en Mobile,Bizerte,2467,Français,Expert en Mobile
+428,Ben Salem,Leila,leila.bensalem@gmail.com,26,Bac+2,Management,Compétences de base en Management,Bizerte,2131,Arabe,Expert en Management
+429,Mejri,Nour,nour.mejri@gmail.com,18,Ingénieur,Marketing,Compétences de base en Marketing,Sousse,4512,Français,Expert en Marketing
+430,Chelly,Hiba,hiba.chelly@gmail.com,28,Bac+2,DevOps,Compétences de base en DevOps,Monastir,5668,Français,Expert en DevOps
+431,Kallel,Fatma,fatma.kallel@gmail.com,18,Ingénieur,Blockchain,Compétences de base en Blockchain,Gabès,4637,Français,Expert en Blockchain
+432,Mansouri,Karim,karim.mansouri@gmail.com,30,Ingénieur,MLOps,Compétences de base en MLOps,Monastir,4136,Français,Expert en MLOps
+433,Makni,Chiraz,chiraz.makni@gmail.com,19,Master,Management,Compétences de base en Management,Sfax,5612,Anglais,Expert en Management
+434,Ksouri,Youssef,youssef.ksouri@gmail.com,21,Bac+2,Mobile,Compétences de base en Mobile,Kairouan,2064,Arabe,Expert en Mobile
+435,Mahfoudh,Dorrah,dorrah.mahfoudh@gmail.com,22,Master,QA,Compétences de base en QA,Sfax,5241,Français,Expert en QA
+436,Hamdi,Rania,rania.hamdi@gmail.com,27,Master,Réseaux,Compétences de base en Réseaux,Monastir,5300,Arabe,Expert en Réseaux
+437,Ouali,Walid,walid.ouali@gmail.com,30,Licence,QA,Compétences de base en QA,Monastir,2733,Français,Expert en QA
+438,Ben Ammar,Aya,aya.benammar@gmail.com,21,Master,Informatique,Compétences de base en Informatique,Tunis,4244,Français,Expert en Informatique
+439,Khelil,Sabrine,sabrine.khelil@gmail.com,29,Master,Web Development,Compétences de base en Web Development,Sfax,3180,Anglais,Expert en Web Development
+440,Zouari,Karim,karim.zouari@gmail.com,18,Licence,Fintech,Compétences de base en Fintech,Bizerte,2262,Français,Expert en Fintech
+441,Ben Ammar,Malek,malek.benammar@gmail.com,24,Master,VR/AR,Compétences de base en VR/AR,Gafsa,2195,Anglais,Expert en VR/AR
+442,Gharbi,Youssef,youssef.gharbi@gmail.com,28,Ingénieur,IA,Compétences de base en IA,Sfax,2010,Arabe,Expert en IA
+443,Ben Moussa,Tarek,tarek.benmoussa@gmail.com,22,Master,Blockchain,Compétences de base en Blockchain,Gabès,4719,Anglais,Expert en Blockchain
+444,Ben Romdhane,Youssef,youssef.benromdhane@gmail.com,25,Master,BI,Compétences de base en BI,Monastir,2111,Français,Expert en BI
+445,Bouazizi,Hiba,hiba.bouazizi@gmail.com,19,Licence,IA,Compétences de base en IA,Gafsa,5317,Arabe,Expert en IA
+446,Makni,Mariem,mariem.makni@gmail.com,23,Licence,MLOps,Compétences de base en MLOps,Gafsa,4025,Arabe,Expert en MLOps
+447,Chelly,Mariem,mariem.chelly@gmail.com,20,Master,Sécurité,Compétences de base en Sécurité,Tunis,3261,Arabe,Expert en Sécurité
+448,Bouazizi,Ines,ines.bouazizi@gmail.com,21,Master,Game Development,Compétences de base en Game Development,Kairouan,5706,Français,Expert en Game Development
+449,Ben Moussa,Manel,manel.benmoussa@gmail.com,20,Bac+2,Management,Compétences de base en Management,Kairouan,5204,Anglais,Expert en Management
+450,Ben Hassine,Sami,sami.benhassine@gmail.com,19,Ingénieur,Blockchain,Compétences de base en Blockchain,Sfax,2645,Français,Expert en Blockchain
+451,Ben Ali,Nesrine,nesrine.benali@gmail.com,30,Licence,Cybersécurité,Compétences de base en Cybersécurité,Sousse,3123,Arabe,Expert en Cybersécurité
+452,Hamdi,Amine,amine.hamdi@gmail.com,27,Master,DevOps,Compétences de base en DevOps,Sfax,1678,Français,Expert en DevOps
+453,Saidi,Mariem,mariem.saidi@gmail.com,20,Bac+2,SRE,Compétences de base en SRE,Gabès,2503,Français,Expert en SRE
+454,Mejri,Youssef,youssef.mejri@gmail.com,27,Ingénieur,Mobile,Compétences de base en Mobile,Kairouan,5564,Français,Expert en Mobile
+455,Jebali,Leila,leila.jebali@gmail.com,23,Licence,Mobile,Compétences de base en Mobile,Sousse,3752,Arabe,Expert en Mobile
+456,Mejri,Aya,aya.mejri@gmail.com,27,Licence,Data Science,Compétences de base en Data Science,Bizerte,5586,Arabe,Expert en Data Science
+457,Ksouri,Sami,sami.ksouri@gmail.com,18,Bac+2,Fintech,Compétences de base en Fintech,Bizerte,4637,Français,Expert en Fintech
+458,Makni,Rania,rania.makni@gmail.com,30,Licence,Backend,Compétences de base en Backend,Tunis,4633,Anglais,Expert en Backend
+459,Hamdi,Omar,omar.hamdi@gmail.com,30,Ingénieur,MLOps,Compétences de base en MLOps,Gabès,5615,Arabe,Expert en MLOps
+460,Jebali,Sonia,sonia.jebali@gmail.com,18,Master,Mobile,Compétences de base en Mobile,Monastir,1740,Arabe,Expert en Mobile
+461,Kallel,Hiba,hiba.kallel@gmail.com,23,Licence,VR/AR,Compétences de base en VR/AR,Sousse,2320,Français,Expert en VR/AR
+462,Ben Moussa,Asma,asma.benmoussa@gmail.com,26,Bac+2,Management,Compétences de base en Management,Monastir,4681,Arabe,Expert en Management
+463,Ben Ammar,Hamza,hamza.benammar@gmail.com,21,Master,Mobile,Compétences de base en Mobile,Gabès,1731,Anglais,Expert en Mobile
+464,Ghazouani,Tarek,tarek.ghazouani@gmail.com,27,Licence,DevOps,Compétences de base en DevOps,Monastir,5532,Anglais,Expert en DevOps
+465,Khemiri,Hamza,hamza.khemiri@gmail.com,18,Bac+2,Fintech,Compétences de base en Fintech,Tunis,3405,Anglais,Expert en Fintech
+466,Zouari,Mohamed,mohamed.zouari@gmail.com,25,Bac+2,VR/AR,Compétences de base en VR/AR,Gabès,3150,Français,Expert en VR/AR
+467,Ben Salem,Hamza,hamza.bensalem@gmail.com,23,Bac+2,SRE,Compétences de base en SRE,Tunis,2710,Anglais,Expert en SRE
+468,Ghazouani,Riadh,riadh.ghazouani@gmail.com,19,Master,QA,Compétences de base en QA,Sfax,4560,Anglais,Expert en QA
+469,Ben Moussa,Chaima,chaima.benmoussa@gmail.com,19,Master,DevOps,Compétences de base en DevOps,Bizerte,4142,Français,Expert en DevOps
+470,Mansouri,Ahmed,ahmed.mansouri@gmail.com,28,Ingénieur,SRE,Compétences de base en SRE,Gabès,2927,Anglais,Expert en SRE
+471,Ferjani,Tarek,tarek.ferjani@gmail.com,28,Licence,Blockchain,Compétences de base en Blockchain,Kairouan,4013,Anglais,Expert en Blockchain
+472,Ghazouani,Aymen,aymen.ghazouani@gmail.com,20,Bac+2,IA,Compétences de base en IA,Kairouan,1765,Français,Expert en IA
+473,Ben Hassen,Chiraz,chiraz.benhassen@gmail.com,27,Licence,SRE,Compétences de base en SRE,Sfax,5564,Français,Expert en SRE
+474,Ben Salem,Sarra,sarra.bensalem@gmail.com,23,Master,Blockchain,Compétences de base en Blockchain,Sousse,2226,Anglais,Expert en Blockchain
+475,Ben Moussa,Rim,rim.benmoussa@gmail.com,18,Master,IoT,Compétences de base en IoT,Monastir,3544,Anglais,Expert en IoT
+476,Trabelsi,Emna,emna.trabelsi@gmail.com,30,Bac+2,Management,Compétences de base en Management,Tunis,1894,Arabe,Expert en Management
+477,Mejri,Karim,karim.mejri@gmail.com,24,Ingénieur,Mobile,Compétences de base en Mobile,Kairouan,4377,Anglais,Expert en Mobile
+478,Jebali,Omar,omar.jebali@gmail.com,25,Licence,Cybersécurité,Compétences de base en Cybersécurité,Sousse,5196,Français,Expert en Cybersécurité
+479,Nasri,Karim,karim.nasri@gmail.com,18,Master,Réseaux,Compétences de base en Réseaux,Bizerte,2357,Français,Expert en Réseaux
+480,Ben Salem,Salma,salma.bensalem@gmail.com,20,Bac+2,Programmation,Compétences de base en Programmation,Sfax,4268,Anglais,Expert en Programmation
+481,Ben Hassen,Omar,omar.benhassen@gmail.com,18,Ingénieur,Game Development,Compétences de base en Game Development,Sousse,5056,Français,Expert en Game Development
+482,Kallel,Omar,omar.kallel@gmail.com,21,Licence,BI,Compétences de base en BI,Kairouan,5924,Arabe,Expert en BI
+483,Ben Moussa,Dorrah,dorrah.benmoussa@gmail.com,21,Bac+2,Réseaux,Compétences de base en Réseaux,Tunis,4718,Anglais,Expert en Réseaux
+484,Ferjani,Rania,rania.ferjani@gmail.com,18,Master,IA,Compétences de base en IA,Tunis,5002,Français,Expert en IA
+485,Khemiri,Omar,omar.khemiri@gmail.com,19,Bac+2,Design,Compétences de base en Design,Monastir,2899,Anglais,Expert en Design
+486,Khemiri,Amine,amine.khemiri@gmail.com,19,Master,Fintech,Compétences de base en Fintech,Kairouan,5357,Arabe,Expert en Fintech
+487,Ksouri,Anis,anis.ksouri@gmail.com,28,Ingénieur,Sécurité,Compétences de base en Sécurité,Sousse,4539,Arabe,Expert en Sécurité
+488,Hamdi,Farah,farah.hamdi@gmail.com,18,Master,IoT,Compétences de base en IoT,Gafsa,5309,Arabe,Expert en IoT
+489,Zouari,Sonia,sonia.zouari@gmail.com,18,Licence,DevOps,Compétences de base en DevOps,Sfax,2202,Anglais,Expert en DevOps
+490,Hamdi,Mariem,mariem.hamdi@gmail.com,30,Licence,Architecture,Compétences de base en Architecture,Tunis,4671,Anglais,Expert en Architecture
+491,Makni,Ahmed,ahmed.makni@gmail.com,25,Licence,Full Stack,Compétences de base en Full Stack,Gafsa,3948,Français,Expert en Full Stack
+492,Jebali,Karim,karim.jebali@gmail.com,27,Licence,VR/AR,Compétences de base en VR/AR,Sfax,5178,Français,Expert en VR/AR
+493,Mansouri,Salma,salma.mansouri@gmail.com,21,Licence,SRE,Compétences de base en SRE,Tunis,4968,Français,Expert en SRE
+494,Ben Moussa,Ahmed,ahmed.benmoussa@gmail.com,28,Licence,Design,Compétences de base en Design,Bizerte,4119,Anglais,Expert en Design
+495,Ben Ammar,Walid,walid.benammar@gmail.com,24,Ingénieur,Sécurité,Compétences de base en Sécurité,Gabès,3762,Anglais,Expert en Sécurité
+496,Mejri,Fatma,fatma.mejri@gmail.com,29,Ingénieur,SRE,Compétences de base en SRE,Sfax,4895,Français,Expert en SRE
+497,Bouazizi,Omar,omar.bouazizi@gmail.com,27,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,5887,Arabe,Expert en Cloud Computing
+498,Ksouri,Aya,aya.ksouri@gmail.com,24,Ingénieur,Management,Compétences de base en Management,Gafsa,1806,Français,Expert en Management
+499,Chelly,Mohamed,mohamed.chelly@gmail.com,27,Ingénieur,IA,Compétences de base en IA,Tunis,4742,Arabe,Expert en IA
+500,Ghazouani,Asma,asma.ghazouani@gmail.com,29,Ingénieur,Data Science,Compétences de base en Data Science,Bizerte,4551,Français,Expert en Data Science
+501,Ben Salem,Manel,manel.bensalem@gmail.com,22,Ingénieur,Réseaux,Compétences de base en Réseaux,Sfax,3367,Français,Expert en Réseaux
+502,Khemiri,Mariem,mariem.khemiri@gmail.com,23,Master,QA,Compétences de base en QA,Kairouan,2231,Français,Expert en QA
+503,Mejri,Salma,salma.mejri@gmail.com,24,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gabès,1960,Anglais,Expert en Cybersécurité
+504,Nasri,Chadi,chadi.nasri@gmail.com,22,Ingénieur,Sécurité,Compétences de base en Sécurité,Sousse,5794,Anglais,Expert en Sécurité
+505,Ben Ali,Hamza,hamza.benali@gmail.com,21,Bac+2,Design,Compétences de base en Design,Monastir,1770,Arabe,Expert en Design
+506,Kallel,Nour,nour.kallel@gmail.com,21,Master,Game Development,Compétences de base en Game Development,Gabès,5302,Anglais,Expert en Game Development
+507,Jebali,Mariem,mariem.jebali@gmail.com,18,Licence,Full Stack,Compétences de base en Full Stack,Gabès,5504,Anglais,Expert en Full Stack
+508,Mejri,Hamza,hamza.mejri@gmail.com,27,Master,Fintech,Compétences de base en Fintech,Gabès,2839,Arabe,Expert en Fintech
+509,Ben Hassine,Ines,ines.benhassine@gmail.com,18,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,2834,Anglais,Expert en Réseaux
+510,Khelil,Salma,salma.khelil@gmail.com,28,Licence,Blockchain,Compétences de base en Blockchain,Monastir,3704,Anglais,Expert en Blockchain
+511,Makni,Nour,nour.makni@gmail.com,30,Bac+2,Informatique,Compétences de base en Informatique,Gafsa,2583,Anglais,Expert en Informatique
+512,Mansouri,Fatma,fatma.mansouri@gmail.com,22,Master,Blockchain,Compétences de base en Blockchain,Bizerte,4971,Arabe,Expert en Blockchain
+513,Mahfoudh,Emna,emna.mahfoudh@gmail.com,22,Licence,IoT,Compétences de base en IoT,Gafsa,3975,Anglais,Expert en IoT
+514,Dridi,Chaima,chaima.dridi@gmail.com,19,Bac+2,DevOps,Compétences de base en DevOps,Gabès,3815,Arabe,Expert en DevOps
+515,Ben Moussa,Hiba,hiba.benmoussa@gmail.com,19,Master,Fintech,Compétences de base en Fintech,Bizerte,4163,Arabe,Expert en Fintech
+516,Chelly,Manel,manel.chelly@gmail.com,20,Licence,Design,Compétences de base en Design,Tunis,4810,Anglais,Expert en Design
+517,Ben Salem,Nour,nour.bensalem@gmail.com,18,Ingénieur,Web Development,Compétences de base en Web Development,Bizerte,3625,Arabe,Expert en Web Development
+518,Jebali,Ahmed,ahmed.jebali@gmail.com,18,Licence,Web Development,Compétences de base en Web Development,Gabès,3321,Anglais,Expert en Web Development
+519,Ferjani,Hiba,hiba.ferjani@gmail.com,23,Master,Full Stack,Compétences de base en Full Stack,Sousse,2983,Arabe,Expert en Full Stack
+520,Gharbi,Hiba,hiba.gharbi@gmail.com,29,Master,IA,Compétences de base en IA,Sousse,4249,Anglais,Expert en IA
+521,Trabelsi,Oussama,oussama.trabelsi@gmail.com,21,Master,Marketing,Compétences de base en Marketing,Kairouan,4214,Arabe,Expert en Marketing
+522,Chelly,Aymen,aymen.chelly@gmail.com,19,Ingénieur,IoT,Compétences de base en IoT,Tunis,2083,Arabe,Expert en IoT
+523,Ksouri,Mehdi,mehdi.ksouri@gmail.com,19,Ingénieur,VR/AR,Compétences de base en VR/AR,Bizerte,4884,Français,Expert en VR/AR
+524,Mahfoudh,Aya,aya.mahfoudh@gmail.com,21,Master,IA,Compétences de base en IA,Kairouan,5248,Français,Expert en IA
+525,Ben Salem,Farah,farah.bensalem@gmail.com,19,Ingénieur,QA,Compétences de base en QA,Gabès,2948,Arabe,Expert en QA
+526,Chaabane,Nesrine,nesrine.chaabane@gmail.com,25,Master,Informatique,Compétences de base en Informatique,Monastir,2881,Anglais,Expert en Informatique
+527,Khelil,Chadi,chadi.khelil@gmail.com,30,Bac+2,Fintech,Compétences de base en Fintech,Sousse,5052,Anglais,Expert en Fintech
+528,Makni,Mohamed,mohamed.makni@gmail.com,25,Ingénieur,Architecture,Compétences de base en Architecture,Tunis,1809,Anglais,Expert en Architecture
+529,Saidi,Khaled,khaled.saidi@gmail.com,23,Licence,Informatique,Compétences de base en Informatique,Tunis,1533,Anglais,Expert en Informatique
+530,Ben Hassine,Riad,riad.benhassine@gmail.com,29,Master,Blockchain,Compétences de base en Blockchain,Bizerte,2556,Français,Expert en Blockchain
+531,Jebali,Youssef,youssef.jebali@gmail.com,22,Licence,DevOps,Compétences de base en DevOps,Sfax,1874,Arabe,Expert en DevOps
+532,Khemiri,Amira,amira.khemiri@gmail.com,26,Master,Web Development,Compétences de base en Web Development,Kairouan,2596,Arabe,Expert en Web Development
+533,Ksouri,Rania,rania.ksouri@gmail.com,30,Licence,Marketing,Compétences de base en Marketing,Sousse,4804,Français,Expert en Marketing
+534,Zouari,Oussama,oussama.zouari@gmail.com,20,Licence,Web Development,Compétences de base en Web Development,Tunis,5633,Français,Expert en Web Development
+535,Gharbi,Nour,nour.gharbi@gmail.com,28,Bac+2,Game Development,Compétences de base en Game Development,Kairouan,3595,Anglais,Expert en Game Development
+536,Ben Hassen,Youssef,youssef.benhassen@gmail.com,18,Bac+2,Frontend,Compétences de base en Frontend,Tunis,1895,Anglais,Expert en Frontend
+537,Gharbi,Karim,karim.gharbi@gmail.com,24,Bac+2,IoT,Compétences de base en IoT,Bizerte,5386,Anglais,Expert en IoT
+538,Bouazizi,Khaled,khaled.bouazizi@gmail.com,28,Bac+2,Game Development,Compétences de base en Game Development,Bizerte,4947,Anglais,Expert en Game Development
+539,Gharbi,Karim,karim.gharbi@gmail.com,27,Licence,Management,Compétences de base en Management,Kairouan,2359,Anglais,Expert en Management
+540,Ben Hassine,Mariem,mariem.benhassine@gmail.com,19,Bac+2,Réseaux,Compétences de base en Réseaux,Gafsa,3127,Anglais,Expert en Réseaux
+541,Saidi,Anis,anis.saidi@gmail.com,26,Licence,Cybersécurité,Compétences de base en Cybersécurité,Gabès,4856,Arabe,Expert en Cybersécurité
+542,Mansouri,Leila,leila.mansouri@gmail.com,25,Licence,MLOps,Compétences de base en MLOps,Gafsa,4208,Français,Expert en MLOps
+543,Ben Ali,Fatma,fatma.benali@gmail.com,19,Bac+2,Full Stack,Compétences de base en Full Stack,Gafsa,2721,Français,Expert en Full Stack
+544,Khelil,Nour,nour.khelil@gmail.com,29,Bac+2,Sécurité,Compétences de base en Sécurité,Bizerte,3393,Arabe,Expert en Sécurité
+545,Khemiri,Anis,anis.khemiri@gmail.com,18,Bac+2,IoT,Compétences de base en IoT,Sousse,1823,Arabe,Expert en IoT
+546,Hamdi,Chiraz,chiraz.hamdi@gmail.com,29,Bac+2,Architecture,Compétences de base en Architecture,Sfax,1875,Français,Expert en Architecture
+547,Mahfoudh,Nour,nour.mahfoudh@gmail.com,28,Licence,Full Stack,Compétences de base en Full Stack,Gabès,4428,Arabe,Expert en Full Stack
+548,Ben Hassen,Sonia,sonia.benhassen@gmail.com,19,Master,Web Development,Compétences de base en Web Development,Gabès,2998,Français,Expert en Web Development
+549,Jebali,Mohamed,mohamed.jebali@gmail.com,22,Ingénieur,IoT,Compétences de base en IoT,Gafsa,4954,Anglais,Expert en IoT
+550,Ksouri,Salma,salma.ksouri@gmail.com,20,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Sousse,2349,Arabe,Expert en Cloud Computing
+551,Ben Ammar,Omar,omar.benammar@gmail.com,27,Ingénieur,SRE,Compétences de base en SRE,Sousse,4610,Arabe,Expert en SRE
+552,Ben Hassen,Amina,amina.benhassen@gmail.com,29,Licence,Full Stack,Compétences de base en Full Stack,Gafsa,5498,Français,Expert en Full Stack
+553,Ksouri,Aya,aya.ksouri@gmail.com,18,Bac+2,IoT,Compétences de base en IoT,Bizerte,4074,Français,Expert en IoT
+554,Ghazouani,Leila,leila.ghazouani@gmail.com,29,Licence,QA,Compétences de base en QA,Gabès,5752,Anglais,Expert en QA
+555,Ghazouani,Omar,omar.ghazouani@gmail.com,28,Licence,Architecture,Compétences de base en Architecture,Gafsa,4332,Anglais,Expert en Architecture
+556,Ben Moussa,Ahmed,ahmed.benmoussa@gmail.com,26,Bac+2,IA,Compétences de base en IA,Tunis,2785,Anglais,Expert en IA
+557,Mahfoudh,Hiba,hiba.mahfoudh@gmail.com,20,Bac+2,Fintech,Compétences de base en Fintech,Gafsa,4126,Français,Expert en Fintech
+558,Ben Salem,Hichem,hichem.bensalem@gmail.com,26,Licence,Data Science,Compétences de base en Data Science,Kairouan,4803,Français,Expert en Data Science
+559,Trabelsi,Amira,amira.trabelsi@gmail.com,30,Ingénieur,IoT,Compétences de base en IoT,Sfax,5583,Arabe,Expert en IoT
+560,Ben Salem,Mariem,mariem.bensalem@gmail.com,29,Bac+2,Fintech,Compétences de base en Fintech,Sfax,4804,Arabe,Expert en Fintech
+561,Kallel,Amira,amira.kallel@gmail.com,18,Bac+2,MLOps,Compétences de base en MLOps,Bizerte,5664,Anglais,Expert en MLOps
+562,Saidi,Amira,amira.saidi@gmail.com,23,Bac+2,BI,Compétences de base en BI,Monastir,5222,Arabe,Expert en BI
+563,Ferjani,Hiba,hiba.ferjani@gmail.com,28,Master,Game Development,Compétences de base en Game Development,Gafsa,2434,Français,Expert en Game Development
+564,Khelil,Oussama,oussama.khelil@gmail.com,23,Master,Informatique,Compétences de base en Informatique,Bizerte,5986,Anglais,Expert en Informatique
+565,Hamdi,Hiba,hiba.hamdi@gmail.com,20,Ingénieur,Data Science,Compétences de base en Data Science,Sousse,4852,Français,Expert en Data Science
+566,Chelly,Rania,rania.chelly@gmail.com,19,Ingénieur,Design,Compétences de base en Design,Monastir,5244,Français,Expert en Design
+567,Ghazouani,Adel,adel.ghazouani@gmail.com,30,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Tunis,2509,Arabe,Expert en Cloud Computing
+568,Mejri,Youssef,youssef.mejri@gmail.com,25,Bac+2,IA,Compétences de base en IA,Tunis,5045,Anglais,Expert en IA
+569,Ben Youssef,Nour,nour.benyoussef@gmail.com,20,Licence,QA,Compétences de base en QA,Sousse,2348,Arabe,Expert en QA
+570,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,24,Ingénieur,VR/AR,Compétences de base en VR/AR,Monastir,3741,Arabe,Expert en VR/AR
+571,Ben Salem,Aymen,aymen.bensalem@gmail.com,30,Licence,IoT,Compétences de base en IoT,Sousse,4881,Anglais,Expert en IoT
+572,Ghazouani,Nour,nour.ghazouani@gmail.com,29,Master,Réseaux,Compétences de base en Réseaux,Monastir,3145,Français,Expert en Réseaux
+573,Ben Hassen,Aymen,aymen.benhassen@gmail.com,23,Licence,Full Stack,Compétences de base en Full Stack,Sousse,5627,Anglais,Expert en Full Stack
+574,Ghazouani,Youssef,youssef.ghazouani@gmail.com,19,Master,Game Development,Compétences de base en Game Development,Gafsa,4919,Anglais,Expert en Game Development
+575,Ben Hassine,Ahmed,ahmed.benhassine@gmail.com,24,Bac+2,Réseaux,Compétences de base en Réseaux,Sfax,1707,Arabe,Expert en Réseaux
+576,Bouazizi,Youssef,youssef.bouazizi@gmail.com,18,Licence,Full Stack,Compétences de base en Full Stack,Bizerte,2818,Arabe,Expert en Full Stack
+577,Ben Moussa,Yosra,yosra.benmoussa@gmail.com,18,Master,IA,Compétences de base en IA,Monastir,5933,Français,Expert en IA
+578,Hamdi,Sami,sami.hamdi@gmail.com,27,Licence,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,3446,Anglais,Expert en Cloud Computing
+579,Nasri,Dorrah,dorrah.nasri@gmail.com,28,Bac+2,Game Development,Compétences de base en Game Development,Kairouan,4674,Arabe,Expert en Game Development
+580,Nasri,Chiraz,chiraz.nasri@gmail.com,18,Bac+2,MLOps,Compétences de base en MLOps,Bizerte,3163,Anglais,Expert en MLOps
+581,Mahfoudh,Mariem,mariem.mahfoudh@gmail.com,21,Master,Cybersécurité,Compétences de base en Cybersécurité,Monastir,3085,Arabe,Expert en Cybersécurité
+582,Mejri,Hamza,hamza.mejri@gmail.com,19,Licence,Full Stack,Compétences de base en Full Stack,Sousse,5709,Français,Expert en Full Stack
+583,Jebali,Leila,leila.jebali@gmail.com,22,Master,Architecture,Compétences de base en Architecture,Sousse,2818,Anglais,Expert en Architecture
+584,Mahfoudh,Yosra,yosra.mahfoudh@gmail.com,23,Ingénieur,Informatique,Compétences de base en Informatique,Sousse,1827,Français,Expert en Informatique
+585,Ben Ammar,Youssef,youssef.benammar@gmail.com,18,Master,Frontend,Compétences de base en Frontend,Gafsa,4433,Français,Expert en Frontend
+586,Nasri,Chiraz,chiraz.nasri@gmail.com,21,Licence,VR/AR,Compétences de base en VR/AR,Sfax,5638,Français,Expert en VR/AR
+587,Makni,Mariem,mariem.makni@gmail.com,24,Bac+2,MLOps,Compétences de base en MLOps,Gabès,3312,Français,Expert en MLOps
+588,Ben Moussa,Rim,rim.benmoussa@gmail.com,23,Master,BI,Compétences de base en BI,Monastir,5845,Arabe,Expert en BI
+589,Ferjani,Fatma,fatma.ferjani@gmail.com,28,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,3468,Anglais,Expert en Cloud Computing
+590,Ben Hassen,Riad,riad.benhassen@gmail.com,28,Master,Data Science,Compétences de base en Data Science,Kairouan,2428,Arabe,Expert en Data Science
+591,Chelly,Mariem,mariem.chelly@gmail.com,22,Bac+2,Web Development,Compétences de base en Web Development,Gabès,5713,Anglais,Expert en Web Development
+592,Mejri,Rania,rania.mejri@gmail.com,22,Licence,Data Science,Compétences de base en Data Science,Gabès,5709,Français,Expert en Data Science
+593,Gharbi,Salma,salma.gharbi@gmail.com,26,Bac+2,QA,Compétences de base en QA,Sfax,3226,Anglais,Expert en QA
+594,Chaabane,Salma,salma.chaabane@gmail.com,24,Bac+2,Full Stack,Compétences de base en Full Stack,Monastir,5905,Anglais,Expert en Full Stack
+595,Ksouri,Ahmed,ahmed.ksouri@gmail.com,19,Licence,Backend,Compétences de base en Backend,Tunis,5261,Anglais,Expert en Backend
+596,Ben Salem,Karim,karim.bensalem@gmail.com,19,Bac+2,Sécurité,Compétences de base en Sécurité,Sousse,3563,Anglais,Expert en Sécurité
+597,Trabelsi,Malek,malek.trabelsi@gmail.com,24,Ingénieur,Management,Compétences de base en Management,Gafsa,4813,Arabe,Expert en Management
+598,Ben Salem,Mohamed,mohamed.bensalem@gmail.com,28,Bac+2,Programmation,Compétences de base en Programmation,Tunis,2018,Anglais,Expert en Programmation
+599,Ouali,Leila,leila.ouali@gmail.com,19,Master,Game Development,Compétences de base en Game Development,Sfax,3874,Anglais,Expert en Game Development
+600,Khemiri,Ines,ines.khemiri@gmail.com,30,Ingénieur,Réseaux,Compétences de base en Réseaux,Kairouan,4736,Anglais,Expert en Réseaux
+601,Ben Ali,Hiba,hiba.benali@gmail.com,26,Licence,Mobile,Compétences de base en Mobile,Sousse,4703,Anglais,Expert en Mobile
+602,Khemiri,Riadh,riadh.khemiri@gmail.com,28,Master,Réseaux,Compétences de base en Réseaux,Tunis,2658,Français,Expert en Réseaux
+603,Kallel,Ahmed,ahmed.kallel@gmail.com,27,Ingénieur,DevOps,Compétences de base en DevOps,Sfax,3996,Français,Expert en DevOps
+604,Ben Hassine,Emna,emna.benhassine@gmail.com,24,Licence,Design,Compétences de base en Design,Sousse,3007,Français,Expert en Design
+605,Ben Hassen,Yosra,yosra.benhassen@gmail.com,19,Licence,Design,Compétences de base en Design,Tunis,5996,Arabe,Expert en Design
+606,Chaabane,Sami,sami.chaabane@gmail.com,22,Bac+2,Sécurité,Compétences de base en Sécurité,Bizerte,2304,Français,Expert en Sécurité
+607,Ben Hassine,Rania,rania.benhassine@gmail.com,23,Licence,BI,Compétences de base en BI,Monastir,2319,Arabe,Expert en BI
+608,Ben Hassen,Walid,walid.benhassen@gmail.com,23,Ingénieur,Design,Compétences de base en Design,Gafsa,4189,Anglais,Expert en Design
+609,Ben Moussa,Aziz,aziz.benmoussa@gmail.com,27,Licence,Game Development,Compétences de base en Game Development,Gabès,4091,Arabe,Expert en Game Development
+610,Mansouri,Ahmed,ahmed.mansouri@gmail.com,21,Licence,BI,Compétences de base en BI,Kairouan,3766,Arabe,Expert en BI
+611,Bouazizi,Rim,rim.bouazizi@gmail.com,25,Ingénieur,Fintech,Compétences de base en Fintech,Gabès,4002,Arabe,Expert en Fintech
+612,Ferjani,Hiba,hiba.ferjani@gmail.com,28,Bac+2,Mobile,Compétences de base en Mobile,Bizerte,2646,Anglais,Expert en Mobile
+613,Saidi,Anis,anis.saidi@gmail.com,28,Bac+2,Web Development,Compétences de base en Web Development,Sfax,1652,Anglais,Expert en Web Development
+614,Chaabane,Amina,amina.chaabane@gmail.com,27,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Monastir,1800,Anglais,Expert en Cybersécurité
+615,Chelly,Mariem,mariem.chelly@gmail.com,25,Licence,MLOps,Compétences de base en MLOps,Gabès,4715,Français,Expert en MLOps
+616,Ksouri,Aymen,aymen.ksouri@gmail.com,25,Bac+2,IA,Compétences de base en IA,Kairouan,4480,Anglais,Expert en IA
+617,Ben Ali,Asma,asma.benali@gmail.com,27,Licence,SRE,Compétences de base en SRE,Sousse,5155,Français,Expert en SRE
+618,Mansouri,Riadh,riadh.mansouri@gmail.com,29,Ingénieur,Web Development,Compétences de base en Web Development,Gabès,1831,Français,Expert en Web Development
+619,Khelil,Rania,rania.khelil@gmail.com,19,Master,Blockchain,Compétences de base en Blockchain,Gabès,3417,Français,Expert en Blockchain
+620,Ben Moussa,Khaled,khaled.benmoussa@gmail.com,30,Master,VR/AR,Compétences de base en VR/AR,Kairouan,5347,Arabe,Expert en VR/AR
+621,Ksouri,Leila,leila.ksouri@gmail.com,28,Master,Data Science,Compétences de base en Data Science,Sfax,5771,Anglais,Expert en Data Science
+622,Ben Romdhane,Hichem,hichem.benromdhane@gmail.com,29,Master,Cybersécurité,Compétences de base en Cybersécurité,Sousse,4585,Anglais,Expert en Cybersécurité
+623,Jebali,Nour,nour.jebali@gmail.com,28,Bac+2,DevOps,Compétences de base en DevOps,Bizerte,4582,Français,Expert en DevOps
+624,Dridi,Mohamed,mohamed.dridi@gmail.com,23,Ingénieur,Marketing,Compétences de base en Marketing,Gafsa,1554,Anglais,Expert en Marketing
+625,Ksouri,Nour,nour.ksouri@gmail.com,20,Licence,IoT,Compétences de base en IoT,Sfax,5715,Anglais,Expert en IoT
+626,Chelly,Salma,salma.chelly@gmail.com,20,Licence,IA,Compétences de base en IA,Gabès,2469,Anglais,Expert en IA
+627,Zouari,Karim,karim.zouari@gmail.com,23,Bac+2,SRE,Compétences de base en SRE,Gafsa,5422,Arabe,Expert en SRE
+628,Saidi,Chadi,chadi.saidi@gmail.com,24,Bac+2,Backend,Compétences de base en Backend,Monastir,1853,Français,Expert en Backend
+629,Ouali,Chadi,chadi.ouali@gmail.com,28,Bac+2,IA,Compétences de base en IA,Sousse,1958,Français,Expert en IA
+630,Chelly,Farah,farah.chelly@gmail.com,24,Bac+2,VR/AR,Compétences de base en VR/AR,Bizerte,2202,Français,Expert en VR/AR
+631,Mejri,Hiba,hiba.mejri@gmail.com,20,Licence,Fintech,Compétences de base en Fintech,Kairouan,2669,Anglais,Expert en Fintech
+632,Ben Romdhane,Farah,farah.benromdhane@gmail.com,28,Master,Frontend,Compétences de base en Frontend,Sousse,4307,Arabe,Expert en Frontend
+633,Ben Hassen,Walid,walid.benhassen@gmail.com,24,Ingénieur,Blockchain,Compétences de base en Blockchain,Sousse,2389,Français,Expert en Blockchain
+634,Saidi,Karim,karim.saidi@gmail.com,28,Ingénieur,VR/AR,Compétences de base en VR/AR,Sousse,2288,Français,Expert en VR/AR
+635,Ben Youssef,Karim,karim.benyoussef@gmail.com,26,Bac+2,SRE,Compétences de base en SRE,Sfax,5450,Anglais,Expert en SRE
+636,Bouazizi,Mariem,mariem.bouazizi@gmail.com,18,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,4534,Français,Expert en Cybersécurité
+637,Ghazouani,Leila,leila.ghazouani@gmail.com,21,Ingénieur,Architecture,Compétences de base en Architecture,Kairouan,4371,Anglais,Expert en Architecture
+638,Nasri,Omar,omar.nasri@gmail.com,20,Master,Architecture,Compétences de base en Architecture,Gafsa,3404,Français,Expert en Architecture
+639,Khemiri,Mariem,mariem.khemiri@gmail.com,22,Licence,Architecture,Compétences de base en Architecture,Tunis,1558,Anglais,Expert en Architecture
+640,Dridi,Mariem,mariem.dridi@gmail.com,18,Ingénieur,VR/AR,Compétences de base en VR/AR,Monastir,4087,Arabe,Expert en VR/AR
+641,Hamdi,Hiba,hiba.hamdi@gmail.com,24,Master,IA,Compétences de base en IA,Bizerte,5891,Arabe,Expert en IA
+642,Ouali,Nour,nour.ouali@gmail.com,22,Ingénieur,Frontend,Compétences de base en Frontend,Monastir,4885,Anglais,Expert en Frontend
+643,Nasri,Amira,amira.nasri@gmail.com,20,Master,Fintech,Compétences de base en Fintech,Gafsa,3578,Arabe,Expert en Fintech
+644,Ouali,Emna,emna.ouali@gmail.com,29,Ingénieur,QA,Compétences de base en QA,Sousse,2475,Anglais,Expert en QA
+645,Zouari,Sami,sami.zouari@gmail.com,29,Licence,SRE,Compétences de base en SRE,Sfax,3256,Anglais,Expert en SRE
+646,Jebali,Adel,adel.jebali@gmail.com,26,Bac+2,SRE,Compétences de base en SRE,Sousse,4687,Anglais,Expert en SRE
+647,Ben Ali,Ines,ines.benali@gmail.com,20,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,2222,Français,Expert en Cybersécurité
+648,Chelly,Oussama,oussama.chelly@gmail.com,19,Bac+2,Marketing,Compétences de base en Marketing,Kairouan,4782,Anglais,Expert en Marketing
+649,Chaabane,Karim,karim.chaabane@gmail.com,29,Bac+2,Réseaux,Compétences de base en Réseaux,Sousse,5549,Arabe,Expert en Réseaux
+650,Ben Ali,Rania,rania.benali@gmail.com,30,Master,Full Stack,Compétences de base en Full Stack,Monastir,1775,Anglais,Expert en Full Stack
+651,Dridi,Karim,karim.dridi@gmail.com,21,Licence,Game Development,Compétences de base en Game Development,Tunis,4446,Français,Expert en Game Development
+652,Chaabane,Ahmed,ahmed.chaabane@gmail.com,19,Master,Mobile,Compétences de base en Mobile,Kairouan,4392,Anglais,Expert en Mobile
+653,Jebali,Mohamed,mohamed.jebali@gmail.com,21,Bac+2,DevOps,Compétences de base en DevOps,Sfax,2238,Anglais,Expert en DevOps
+654,Khemiri,Amira,amira.khemiri@gmail.com,23,Master,DevOps,Compétences de base en DevOps,Bizerte,3353,Anglais,Expert en DevOps
+655,Saidi,Amira,amira.saidi@gmail.com,27,Bac+2,Programmation,Compétences de base en Programmation,Bizerte,2933,Arabe,Expert en Programmation
+656,Dridi,Hiba,hiba.dridi@gmail.com,19,Master,MLOps,Compétences de base en MLOps,Gabès,2458,Anglais,Expert en MLOps
+657,Chelly,Ahmed,ahmed.chelly@gmail.com,30,Master,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,4589,Anglais,Expert en Cybersécurité
+658,Ben Youssef,Riad,riad.benyoussef@gmail.com,23,Ingénieur,QA,Compétences de base en QA,Gafsa,1724,Arabe,Expert en QA
+659,Gharbi,Anis,anis.gharbi@gmail.com,24,Licence,Sécurité,Compétences de base en Sécurité,Monastir,4086,Arabe,Expert en Sécurité
+660,Hamdi,Karim,karim.hamdi@gmail.com,18,Master,MLOps,Compétences de base en MLOps,Monastir,3853,Français,Expert en MLOps
+661,Jebali,Adel,adel.jebali@gmail.com,26,Licence,Sécurité,Compétences de base en Sécurité,Gafsa,4071,Arabe,Expert en Sécurité
+662,Saidi,Sonia,sonia.saidi@gmail.com,29,Licence,Mobile,Compétences de base en Mobile,Gafsa,3135,Français,Expert en Mobile
+663,Ben Hassine,Asma,asma.benhassine@gmail.com,21,Licence,Management,Compétences de base en Management,Monastir,3545,Anglais,Expert en Management
+664,Hamdi,Aya,aya.hamdi@gmail.com,19,Bac+2,QA,Compétences de base en QA,Sfax,5535,Anglais,Expert en QA
+665,Ben Ali,Mariem,mariem.benali@gmail.com,25,Master,Data Science,Compétences de base en Data Science,Gabès,5533,Anglais,Expert en Data Science
+666,Mahfoudh,Hichem,hichem.mahfoudh@gmail.com,20,Master,Fintech,Compétences de base en Fintech,Kairouan,3319,Anglais,Expert en Fintech
+667,Bouazizi,Youssef,youssef.bouazizi@gmail.com,30,Ingénieur,VR/AR,Compétences de base en VR/AR,Gafsa,5929,Français,Expert en VR/AR
+668,Dridi,Emna,emna.dridi@gmail.com,28,Licence,Programmation,Compétences de base en Programmation,Gafsa,2486,Anglais,Expert en Programmation
+669,Dridi,Amira,amira.dridi@gmail.com,29,Bac+2,BI,Compétences de base en BI,Tunis,3226,Arabe,Expert en BI
+670,Ouali,Omar,omar.ouali@gmail.com,23,Master,BI,Compétences de base en BI,Sousse,5993,Arabe,Expert en BI
+671,Zouari,Sonia,sonia.zouari@gmail.com,27,Master,Fintech,Compétences de base en Fintech,Gabès,3006,Arabe,Expert en Fintech
+672,Makni,Khaled,khaled.makni@gmail.com,29,Master,Architecture,Compétences de base en Architecture,Gabès,4781,Arabe,Expert en Architecture
+673,Mejri,Farah,farah.mejri@gmail.com,20,Licence,DevOps,Compétences de base en DevOps,Sfax,3711,Français,Expert en DevOps
+674,Ferjani,Ahmed,ahmed.ferjani@gmail.com,21,Licence,Programmation,Compétences de base en Programmation,Sousse,5374,Français,Expert en Programmation
+675,Mansouri,Karim,karim.mansouri@gmail.com,20,Master,Fintech,Compétences de base en Fintech,Gafsa,3957,Arabe,Expert en Fintech
+676,Ferjani,Youssef,youssef.ferjani@gmail.com,19,Licence,Programmation,Compétences de base en Programmation,Tunis,3265,Arabe,Expert en Programmation
+677,Ben Youssef,Omar,omar.benyoussef@gmail.com,29,Master,IoT,Compétences de base en IoT,Bizerte,4457,Arabe,Expert en IoT
+678,Ferjani,Amira,amira.ferjani@gmail.com,22,Master,SRE,Compétences de base en SRE,Tunis,4873,Français,Expert en SRE
+679,Hamdi,Rania,rania.hamdi@gmail.com,27,Licence,DevOps,Compétences de base en DevOps,Bizerte,4409,Arabe,Expert en DevOps
+680,Ben Moussa,Nour,nour.benmoussa@gmail.com,30,Ingénieur,Fintech,Compétences de base en Fintech,Sfax,4621,Anglais,Expert en Fintech
+681,Khemiri,Yassine,yassine.khemiri@gmail.com,20,Licence,Backend,Compétences de base en Backend,Gabès,4955,Anglais,Expert en Backend
+682,Ben Hassen,Mohamed,mohamed.benhassen@gmail.com,19,Licence,Sécurité,Compétences de base en Sécurité,Gabès,3369,Arabe,Expert en Sécurité
+683,Ben Salem,Aymen,aymen.bensalem@gmail.com,22,Ingénieur,Game Development,Compétences de base en Game Development,Bizerte,5144,Arabe,Expert en Game Development
+684,Ben Hassine,Karim,karim.benhassine@gmail.com,24,Licence,IoT,Compétences de base en IoT,Sousse,1689,Français,Expert en IoT
+685,Ben Hassine,Asma,asma.benhassine@gmail.com,22,Bac+2,Full Stack,Compétences de base en Full Stack,Monastir,2867,Arabe,Expert en Full Stack
+686,Gharbi,Omar,omar.gharbi@gmail.com,25,Bac+2,Sécurité,Compétences de base en Sécurité,Tunis,4752,Anglais,Expert en Sécurité
+687,Khelil,Amine,amine.khelil@gmail.com,22,Licence,Cloud Computing,Compétences de base en Cloud Computing,Sfax,4693,Arabe,Expert en Cloud Computing
+688,Zouari,Riad,riad.zouari@gmail.com,22,Ingénieur,Web Development,Compétences de base en Web Development,Sousse,2575,Anglais,Expert en Web Development
+689,Ben Romdhane,Salma,salma.benromdhane@gmail.com,18,Master,Informatique,Compétences de base en Informatique,Gabès,5400,Arabe,Expert en Informatique
+690,Mahfoudh,Mariem,mariem.mahfoudh@gmail.com,26,Ingénieur,Management,Compétences de base en Management,Sousse,5917,Français,Expert en Management
+691,Ouali,Amira,amira.ouali@gmail.com,29,Ingénieur,Backend,Compétences de base en Backend,Bizerte,4344,Arabe,Expert en Backend
+692,Ferjani,Malek,malek.ferjani@gmail.com,19,Ingénieur,SRE,Compétences de base en SRE,Bizerte,4496,Arabe,Expert en SRE
+693,Chelly,Aya,aya.chelly@gmail.com,18,Bac+2,Réseaux,Compétences de base en Réseaux,Sousse,4317,Arabe,Expert en Réseaux
+694,Ben Youssef,Ahmed,ahmed.benyoussef@gmail.com,29,Ingénieur,Informatique,Compétences de base en Informatique,Gafsa,3954,Français,Expert en Informatique
+695,Khelil,Ahmed,ahmed.khelil@gmail.com,22,Licence,SRE,Compétences de base en SRE,Tunis,5990,Arabe,Expert en SRE
+696,Saidi,Aya,aya.saidi@gmail.com,24,Ingénieur,MLOps,Compétences de base en MLOps,Monastir,2837,Anglais,Expert en MLOps
+697,Ben Hassine,Ahmed,ahmed.benhassine@gmail.com,24,Licence,Cybersécurité,Compétences de base en Cybersécurité,Bizerte,2148,Arabe,Expert en Cybersécurité
+698,Chaabane,Asma,asma.chaabane@gmail.com,30,Master,VR/AR,Compétences de base en VR/AR,Bizerte,5857,Arabe,Expert en VR/AR
+699,Makni,Mehdi,mehdi.makni@gmail.com,20,Licence,Sécurité,Compétences de base en Sécurité,Bizerte,2404,Anglais,Expert en Sécurité
+700,Mejri,Sami,sami.mejri@gmail.com,29,Ingénieur,Management,Compétences de base en Management,Monastir,4126,Français,Expert en Management
+701,Bouazizi,Youssef,youssef.bouazizi@gmail.com,18,Licence,MLOps,Compétences de base en MLOps,Sfax,3811,Arabe,Expert en MLOps
+702,Bouazizi,Mariem,mariem.bouazizi@gmail.com,18,Licence,Web Development,Compétences de base en Web Development,Sfax,2734,Français,Expert en Web Development
+703,Ben Youssef,Salma,salma.benyoussef@gmail.com,24,Master,BI,Compétences de base en BI,Gafsa,4542,Arabe,Expert en BI
+704,Ghazouani,Karim,karim.ghazouani@gmail.com,19,Licence,BI,Compétences de base en BI,Tunis,3683,Arabe,Expert en BI
+705,Trabelsi,Mariem,mariem.trabelsi@gmail.com,20,Licence,Fintech,Compétences de base en Fintech,Bizerte,4625,Français,Expert en Fintech
+706,Gharbi,Riad,riad.gharbi@gmail.com,30,Ingénieur,Programmation,Compétences de base en Programmation,Monastir,1774,Français,Expert en Programmation
+707,Mejri,Omar,omar.mejri@gmail.com,28,Licence,VR/AR,Compétences de base en VR/AR,Gafsa,4687,Anglais,Expert en VR/AR
+708,Khemiri,Youssef,youssef.khemiri@gmail.com,28,Bac+2,Mobile,Compétences de base en Mobile,Sfax,3575,Arabe,Expert en Mobile
+709,Chaabane,Manel,manel.chaabane@gmail.com,23,Bac+2,Design,Compétences de base en Design,Monastir,2425,Français,Expert en Design
+710,Chaabane,Ahmed,ahmed.chaabane@gmail.com,18,Licence,BI,Compétences de base en BI,Bizerte,2480,Arabe,Expert en BI
+711,Nasri,Riad,riad.nasri@gmail.com,18,Ingénieur,Informatique,Compétences de base en Informatique,Sousse,4542,Français,Expert en Informatique
+712,Zouari,Chadi,chadi.zouari@gmail.com,19,Master,Fintech,Compétences de base en Fintech,Tunis,1989,Arabe,Expert en Fintech
+713,Chaabane,Aya,aya.chaabane@gmail.com,26,Bac+2,Game Development,Compétences de base en Game Development,Sousse,5496,Français,Expert en Game Development
+714,Ben Salem,Amira,amira.bensalem@gmail.com,28,Master,SRE,Compétences de base en SRE,Gafsa,3080,Français,Expert en SRE
+715,Ghazouani,Sabrine,sabrine.ghazouani@gmail.com,29,Licence,Marketing,Compétences de base en Marketing,Bizerte,1823,Arabe,Expert en Marketing
+716,Ghazouani,Mariem,mariem.ghazouani@gmail.com,22,Ingénieur,MLOps,Compétences de base en MLOps,Monastir,3028,Anglais,Expert en MLOps
+717,Hamdi,Youssef,youssef.hamdi@gmail.com,25,Master,Web Development,Compétences de base en Web Development,Sousse,2064,Anglais,Expert en Web Development
+718,Bouazizi,Sami,sami.bouazizi@gmail.com,22,Master,Réseaux,Compétences de base en Réseaux,Gafsa,1505,Anglais,Expert en Réseaux
+719,Dridi,Sabrine,sabrine.dridi@gmail.com,20,Bac+2,Web Development,Compétences de base en Web Development,Gabès,3456,Arabe,Expert en Web Development
+720,Ben Hassine,Walid,walid.benhassine@gmail.com,26,Ingénieur,Full Stack,Compétences de base en Full Stack,Monastir,5793,Anglais,Expert en Full Stack
+721,Ben Youssef,Sami,sami.benyoussef@gmail.com,27,Master,IA,Compétences de base en IA,Gabès,4857,Anglais,Expert en IA
+722,Ben Salem,Yassine,yassine.bensalem@gmail.com,26,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Tunis,2563,Français,Expert en Cloud Computing
+723,Mahfoudh,Karim,karim.mahfoudh@gmail.com,19,Ingénieur,Design,Compétences de base en Design,Monastir,2308,Français,Expert en Design
+724,Ouali,Ahmed,ahmed.ouali@gmail.com,25,Master,Full Stack,Compétences de base en Full Stack,Tunis,4501,Français,Expert en Full Stack
+725,Ben Hassen,Sarra,sarra.benhassen@gmail.com,21,Ingénieur,Informatique,Compétences de base en Informatique,Sfax,5334,Anglais,Expert en Informatique
+726,Kallel,Nour,nour.kallel@gmail.com,29,Ingénieur,MLOps,Compétences de base en MLOps,Gabès,1977,Anglais,Expert en MLOps
+727,Chelly,Leila,leila.chelly@gmail.com,29,Bac+2,Data Science,Compétences de base en Data Science,Bizerte,2138,Français,Expert en Data Science
+728,Dridi,Omar,omar.dridi@gmail.com,29,Licence,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,3052,Français,Expert en Cloud Computing
+729,Dridi,Riad,riad.dridi@gmail.com,28,Licence,DevOps,Compétences de base en DevOps,Kairouan,2364,Anglais,Expert en DevOps
+730,Ouali,Tarek,tarek.ouali@gmail.com,25,Ingénieur,Full Stack,Compétences de base en Full Stack,Sfax,2866,Français,Expert en Full Stack
+731,Ferjani,Mohamed,mohamed.ferjani@gmail.com,23,Licence,VR/AR,Compétences de base en VR/AR,Gafsa,4386,Arabe,Expert en VR/AR
+732,Ferjani,Youssef,youssef.ferjani@gmail.com,24,Ingénieur,Marketing,Compétences de base en Marketing,Gabès,3471,Anglais,Expert en Marketing
+733,Ferjani,Salma,salma.ferjani@gmail.com,30,Master,Programmation,Compétences de base en Programmation,Gabès,5206,Arabe,Expert en Programmation
+734,Jebali,Ahmed,ahmed.jebali@gmail.com,18,Master,Web Development,Compétences de base en Web Development,Tunis,5740,Français,Expert en Web Development
+735,Ksouri,Manel,manel.ksouri@gmail.com,22,Licence,Informatique,Compétences de base en Informatique,Monastir,4079,Français,Expert en Informatique
+736,Khelil,Hichem,hichem.khelil@gmail.com,26,Licence,MLOps,Compétences de base en MLOps,Sfax,1809,Arabe,Expert en MLOps
+737,Hamdi,Aya,aya.hamdi@gmail.com,22,Master,IA,Compétences de base en IA,Monastir,3408,Arabe,Expert en IA
+738,Nasri,Manel,manel.nasri@gmail.com,27,Ingénieur,Sécurité,Compétences de base en Sécurité,Monastir,2132,Anglais,Expert en Sécurité
+739,Ben Salem,Omar,omar.bensalem@gmail.com,25,Bac+2,Mobile,Compétences de base en Mobile,Bizerte,1806,Anglais,Expert en Mobile
+740,Nasri,Sabrine,sabrine.nasri@gmail.com,30,Bac+2,Sécurité,Compétences de base en Sécurité,Gabès,4350,Arabe,Expert en Sécurité
+741,Makni,Mariem,mariem.makni@gmail.com,21,Bac+2,QA,Compétences de base en QA,Kairouan,1943,Arabe,Expert en QA
+742,Dridi,Leila,leila.dridi@gmail.com,26,Licence,BI,Compétences de base en BI,Gabès,5615,Anglais,Expert en BI
+743,Zouari,Aya,aya.zouari@gmail.com,28,Ingénieur,Data Science,Compétences de base en Data Science,Gafsa,5634,Français,Expert en Data Science
+744,Zouari,Ahmed,ahmed.zouari@gmail.com,30,Ingénieur,Réseaux,Compétences de base en Réseaux,Sousse,2582,Arabe,Expert en Réseaux
+745,Trabelsi,Hiba,hiba.trabelsi@gmail.com,29,Bac+2,DevOps,Compétences de base en DevOps,Kairouan,3650,Français,Expert en DevOps
+746,Jebali,Youssef,youssef.jebali@gmail.com,30,Licence,Architecture,Compétences de base en Architecture,Sousse,5439,Anglais,Expert en Architecture
+747,Saidi,Rania,rania.saidi@gmail.com,28,Licence,Programmation,Compétences de base en Programmation,Monastir,3485,Français,Expert en Programmation
+748,Chelly,Ahmed,ahmed.chelly@gmail.com,28,Bac+2,BI,Compétences de base en BI,Sfax,4888,Arabe,Expert en BI
+749,Hamdi,Emna,emna.hamdi@gmail.com,23,Master,Design,Compétences de base en Design,Tunis,3997,Français,Expert en Design
+750,Hamdi,Mariem,mariem.hamdi@gmail.com,20,Ingénieur,Frontend,Compétences de base en Frontend,Tunis,3412,Français,Expert en Frontend
+751,Ben Moussa,Khaled,khaled.benmoussa@gmail.com,30,Bac+2,IA,Compétences de base en IA,Sfax,1946,Français,Expert en IA
+752,Ben Hassen,Riadh,riadh.benhassen@gmail.com,22,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Gabès,2411,Arabe,Expert en Cybersécurité
+753,Mejri,Hiba,hiba.mejri@gmail.com,23,Licence,Informatique,Compétences de base en Informatique,Monastir,3169,Anglais,Expert en Informatique
+754,Dridi,Anis,anis.dridi@gmail.com,25,Licence,MLOps,Compétences de base en MLOps,Tunis,4585,Anglais,Expert en MLOps
+755,Ksouri,Leila,leila.ksouri@gmail.com,22,Licence,Data Science,Compétences de base en Data Science,Tunis,3826,Français,Expert en Data Science
+756,Nasri,Sonia,sonia.nasri@gmail.com,25,Bac+2,Data Science,Compétences de base en Data Science,Sfax,4683,Anglais,Expert en Data Science
+757,Chelly,Nour,nour.chelly@gmail.com,18,Master,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,3393,Arabe,Expert en Cloud Computing
+758,Dridi,Omar,omar.dridi@gmail.com,25,Bac+2,BI,Compétences de base en BI,Sousse,3129,Anglais,Expert en BI
+759,Mejri,Amira,amira.mejri@gmail.com,18,Bac+2,Game Development,Compétences de base en Game Development,Monastir,5836,Arabe,Expert en Game Development
+760,Ben Salem,Rania,rania.bensalem@gmail.com,29,Licence,Programmation,Compétences de base en Programmation,Tunis,4340,Anglais,Expert en Programmation
+761,Hamdi,Tarek,tarek.hamdi@gmail.com,22,Licence,Backend,Compétences de base en Backend,Bizerte,2007,Anglais,Expert en Backend
+762,Chelly,Ahmed,ahmed.chelly@gmail.com,18,Master,Cybersécurité,Compétences de base en Cybersécurité,Monastir,2742,Arabe,Expert en Cybersécurité
+763,Ksouri,Chaima,chaima.ksouri@gmail.com,20,Bac+2,Full Stack,Compétences de base en Full Stack,Kairouan,5765,Anglais,Expert en Full Stack
+764,Ben Hassen,Malek,malek.benhassen@gmail.com,21,Licence,Architecture,Compétences de base en Architecture,Kairouan,4059,Anglais,Expert en Architecture
+765,Ben Salem,Sami,sami.bensalem@gmail.com,20,Licence,MLOps,Compétences de base en MLOps,Sousse,5934,Anglais,Expert en MLOps
+766,Nasri,Rania,rania.nasri@gmail.com,22,Licence,IA,Compétences de base en IA,Kairouan,2689,Anglais,Expert en IA
+767,Ben Ammar,Chadi,chadi.benammar@gmail.com,19,Bac+2,BI,Compétences de base en BI,Sousse,4101,Français,Expert en BI
+768,Ben Hassine,Amina,amina.benhassine@gmail.com,23,Ingénieur,QA,Compétences de base en QA,Kairouan,3985,Arabe,Expert en QA
+769,Ben Hassine,Hichem,hichem.benhassine@gmail.com,30,Licence,IA,Compétences de base en IA,Sfax,2577,Français,Expert en IA
+770,Ben Ali,Sonia,sonia.benali@gmail.com,27,Licence,Frontend,Compétences de base en Frontend,Monastir,3391,Anglais,Expert en Frontend
+771,Ben Ali,Tarek,tarek.benali@gmail.com,29,Ingénieur,Sécurité,Compétences de base en Sécurité,Sousse,5615,Anglais,Expert en Sécurité
+772,Ben Youssef,Khaled,khaled.benyoussef@gmail.com,24,Ingénieur,Mobile,Compétences de base en Mobile,Gafsa,2626,Français,Expert en Mobile
+773,Saidi,Oussama,oussama.saidi@gmail.com,24,Bac+2,Data Science,Compétences de base en Data Science,Bizerte,4883,Français,Expert en Data Science
+774,Ben Hassine,Rania,rania.benhassine@gmail.com,21,Bac+2,QA,Compétences de base en QA,Sousse,5098,Anglais,Expert en QA
+775,Ben Youssef,Youssef,youssef.benyoussef@gmail.com,21,Ingénieur,IoT,Compétences de base en IoT,Kairouan,1842,Anglais,Expert en IoT
+776,Ben Hassine,Sabrine,sabrine.benhassine@gmail.com,23,Ingénieur,Web Development,Compétences de base en Web Development,Tunis,5765,Français,Expert en Web Development
+777,Mejri,Amira,amira.mejri@gmail.com,18,Licence,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,1821,Anglais,Expert en Cybersécurité
+778,Jebali,Karim,karim.jebali@gmail.com,28,Bac+2,QA,Compétences de base en QA,Monastir,3885,Arabe,Expert en QA
+779,Jebali,Manel,manel.jebali@gmail.com,22,Ingénieur,QA,Compétences de base en QA,Sousse,4960,Arabe,Expert en QA
+780,Ben Hassen,Youssef,youssef.benhassen@gmail.com,26,Licence,Game Development,Compétences de base en Game Development,Gafsa,5200,Français,Expert en Game Development
+781,Ben Hassine,Youssef,youssef.benhassine@gmail.com,20,Licence,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,4887,Arabe,Expert en Cloud Computing
+782,Mejri,Amina,amina.mejri@gmail.com,25,Licence,Mobile,Compétences de base en Mobile,Gafsa,2238,Arabe,Expert en Mobile
+783,Ben Salem,Chadi,chadi.bensalem@gmail.com,29,Bac+2,Game Development,Compétences de base en Game Development,Sfax,2435,Anglais,Expert en Game Development
+784,Mejri,Nour,nour.mejri@gmail.com,26,Ingénieur,Sécurité,Compétences de base en Sécurité,Sousse,4602,Anglais,Expert en Sécurité
+785,Jebali,Leila,leila.jebali@gmail.com,20,Master,QA,Compétences de base en QA,Sousse,2828,Français,Expert en QA
+786,Mansouri,Youssef,youssef.mansouri@gmail.com,22,Master,Architecture,Compétences de base en Architecture,Gafsa,3865,Anglais,Expert en Architecture
+787,Mansouri,Mariem,mariem.mansouri@gmail.com,21,Bac+2,IA,Compétences de base en IA,Bizerte,1600,Arabe,Expert en IA
+788,Ben Youssef,Walid,walid.benyoussef@gmail.com,30,Bac+2,MLOps,Compétences de base en MLOps,Gafsa,3448,Français,Expert en MLOps
+789,Ouali,Hiba,hiba.ouali@gmail.com,24,Ingénieur,IoT,Compétences de base en IoT,Sfax,1553,Français,Expert en IoT
+790,Ksouri,Sami,sami.ksouri@gmail.com,27,Licence,Management,Compétences de base en Management,Tunis,3014,Français,Expert en Management
+791,Kallel,Emna,emna.kallel@gmail.com,20,Bac+2,Data Science,Compétences de base en Data Science,Bizerte,4212,Français,Expert en Data Science
+792,Kallel,Hiba,hiba.kallel@gmail.com,20,Licence,Architecture,Compétences de base en Architecture,Bizerte,2953,Arabe,Expert en Architecture
+793,Ben Hassine,Nour,nour.benhassine@gmail.com,19,Master,Data Science,Compétences de base en Data Science,Gabès,4519,Arabe,Expert en Data Science
+794,Ben Romdhane,Walid,walid.benromdhane@gmail.com,24,Bac+2,QA,Compétences de base en QA,Bizerte,5356,Français,Expert en QA
+795,Gharbi,Hichem,hichem.gharbi@gmail.com,26,Ingénieur,BI,Compétences de base en BI,Monastir,3212,Anglais,Expert en BI
+796,Kallel,Hiba,hiba.kallel@gmail.com,29,Bac+2,DevOps,Compétences de base en DevOps,Gafsa,3852,Arabe,Expert en DevOps
+797,Ben Hassen,Chiraz,chiraz.benhassen@gmail.com,26,Master,Management,Compétences de base en Management,Sousse,5566,Anglais,Expert en Management
+798,Ben Hassine,Walid,walid.benhassine@gmail.com,30,Licence,Fintech,Compétences de base en Fintech,Monastir,3879,Français,Expert en Fintech
+799,Ben Ali,Mariem,mariem.benali@gmail.com,25,Bac+2,Informatique,Compétences de base en Informatique,Monastir,4896,Arabe,Expert en Informatique
+800,Kallel,Rim,rim.kallel@gmail.com,26,Licence,Marketing,Compétences de base en Marketing,Tunis,3148,Anglais,Expert en Marketing
+801,Khemiri,Yosra,yosra.khemiri@gmail.com,19,Master,SRE,Compétences de base en SRE,Bizerte,5650,Anglais,Expert en SRE
+802,Ben Salem,Ahmed,ahmed.bensalem@gmail.com,28,Master,Cloud Computing,Compétences de base en Cloud Computing,Gabès,4744,Anglais,Expert en Cloud Computing
+803,Ouali,Amina,amina.ouali@gmail.com,20,Licence,Cybersécurité,Compétences de base en Cybersécurité,Gabès,4268,Anglais,Expert en Cybersécurité
+804,Ben Youssef,Hiba,hiba.benyoussef@gmail.com,18,Licence,SRE,Compétences de base en SRE,Gafsa,2772,Anglais,Expert en SRE
+805,Mejri,Ahmed,ahmed.mejri@gmail.com,25,Ingénieur,BI,Compétences de base en BI,Tunis,5768,Arabe,Expert en BI
+806,Ouali,Chiraz,chiraz.ouali@gmail.com,26,Bac+2,MLOps,Compétences de base en MLOps,Monastir,4217,Arabe,Expert en MLOps
+807,Trabelsi,Aya,aya.trabelsi@gmail.com,18,Master,Management,Compétences de base en Management,Kairouan,5876,Français,Expert en Management
+808,Ouali,Ahmed,ahmed.ouali@gmail.com,27,Bac+2,Mobile,Compétences de base en Mobile,Bizerte,4076,Anglais,Expert en Mobile
+809,Kallel,Sonia,sonia.kallel@gmail.com,19,Ingénieur,Architecture,Compétences de base en Architecture,Monastir,4544,Arabe,Expert en Architecture
+810,Ben Romdhane,Manel,manel.benromdhane@gmail.com,26,Master,Design,Compétences de base en Design,Sousse,2419,Arabe,Expert en Design
+811,Nasri,Karim,karim.nasri@gmail.com,21,Bac+2,QA,Compétences de base en QA,Gafsa,5645,Français,Expert en QA
+812,Nasri,Omar,omar.nasri@gmail.com,20,Licence,VR/AR,Compétences de base en VR/AR,Gabès,5460,Anglais,Expert en VR/AR
+813,Mahfoudh,Leila,leila.mahfoudh@gmail.com,30,Master,Réseaux,Compétences de base en Réseaux,Sousse,2304,Anglais,Expert en Réseaux
+814,Ben Moussa,Tarek,tarek.benmoussa@gmail.com,29,Bac+2,Design,Compétences de base en Design,Gafsa,4675,Anglais,Expert en Design
+815,Mahfoudh,Karim,karim.mahfoudh@gmail.com,18,Master,Cloud Computing,Compétences de base en Cloud Computing,Tunis,2213,Arabe,Expert en Cloud Computing
+816,Mejri,Leila,leila.mejri@gmail.com,26,Master,Cloud Computing,Compétences de base en Cloud Computing,Tunis,4057,Anglais,Expert en Cloud Computing
+817,Ksouri,Khaled,khaled.ksouri@gmail.com,21,Licence,BI,Compétences de base en BI,Bizerte,3766,Anglais,Expert en BI
+818,Ben Salem,Mariem,mariem.bensalem@gmail.com,19,Master,Full Stack,Compétences de base en Full Stack,Sousse,2790,Arabe,Expert en Full Stack
+819,Gharbi,Fatma,fatma.gharbi@gmail.com,26,Bac+2,Frontend,Compétences de base en Frontend,Monastir,5944,Arabe,Expert en Frontend
+820,Ferjani,Chiraz,chiraz.ferjani@gmail.com,20,Master,Management,Compétences de base en Management,Monastir,2903,Français,Expert en Management
+821,Khemiri,Adel,adel.khemiri@gmail.com,25,Bac+2,MLOps,Compétences de base en MLOps,Sousse,1737,Arabe,Expert en MLOps
+822,Ksouri,Youssef,youssef.ksouri@gmail.com,24,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Sfax,4993,Arabe,Expert en Cloud Computing
+823,Mansouri,Sami,sami.mansouri@gmail.com,23,Master,Frontend,Compétences de base en Frontend,Gabès,3123,Anglais,Expert en Frontend
+824,Khelil,Ahmed,ahmed.khelil@gmail.com,30,Ingénieur,Sécurité,Compétences de base en Sécurité,Sousse,2261,Anglais,Expert en Sécurité
+825,Mejri,Omar,omar.mejri@gmail.com,22,Ingénieur,IoT,Compétences de base en IoT,Gafsa,3398,Français,Expert en IoT
+826,Bouazizi,Anis,anis.bouazizi@gmail.com,24,Licence,Marketing,Compétences de base en Marketing,Gabès,4160,Arabe,Expert en Marketing
+827,Ben Youssef,Amina,amina.benyoussef@gmail.com,25,Bac+2,Sécurité,Compétences de base en Sécurité,Gabès,5421,Arabe,Expert en Sécurité
+828,Mahfoudh,Salma,salma.mahfoudh@gmail.com,30,Master,Réseaux,Compétences de base en Réseaux,Sousse,5661,Français,Expert en Réseaux
+829,Jebali,Hiba,hiba.jebali@gmail.com,26,Bac+2,BI,Compétences de base en BI,Bizerte,5864,Arabe,Expert en BI
+830,Jebali,Aya,aya.jebali@gmail.com,27,Licence,Blockchain,Compétences de base en Blockchain,Sousse,5451,Arabe,Expert en Blockchain
+831,Trabelsi,Adel,adel.trabelsi@gmail.com,29,Ingénieur,Design,Compétences de base en Design,Kairouan,4303,Anglais,Expert en Design
+832,Ghazouani,Asma,asma.ghazouani@gmail.com,28,Bac+2,Mobile,Compétences de base en Mobile,Gafsa,2436,Anglais,Expert en Mobile
+833,Ben Hassen,Yassine,yassine.benhassen@gmail.com,26,Bac+2,BI,Compétences de base en BI,Gafsa,2943,Arabe,Expert en BI
+834,Jebali,Walid,walid.jebali@gmail.com,19,Ingénieur,Frontend,Compétences de base en Frontend,Gabès,5549,Anglais,Expert en Frontend
+835,Ben Moussa,Nesrine,nesrine.benmoussa@gmail.com,21,Licence,Sécurité,Compétences de base en Sécurité,Tunis,2701,Anglais,Expert en Sécurité
+836,Bouazizi,Sami,sami.bouazizi@gmail.com,22,Ingénieur,MLOps,Compétences de base en MLOps,Gafsa,3102,Français,Expert en MLOps
+837,Ben Moussa,Chiraz,chiraz.benmoussa@gmail.com,27,Master,Réseaux,Compétences de base en Réseaux,Kairouan,4320,Français,Expert en Réseaux
+838,Ouali,Fatma,fatma.ouali@gmail.com,26,Ingénieur,Frontend,Compétences de base en Frontend,Sousse,3909,Français,Expert en Frontend
+839,Hamdi,Sami,sami.hamdi@gmail.com,18,Master,Data Science,Compétences de base en Data Science,Sfax,3811,Français,Expert en Data Science
+840,Zouari,Ahmed,ahmed.zouari@gmail.com,27,Ingénieur,Game Development,Compétences de base en Game Development,Gabès,4635,Arabe,Expert en Game Development
+841,Jebali,Ahmed,ahmed.jebali@gmail.com,21,Licence,MLOps,Compétences de base en MLOps,Gafsa,2639,Français,Expert en MLOps
+842,Ferjani,Ahmed,ahmed.ferjani@gmail.com,23,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Sousse,3863,Anglais,Expert en Cybersécurité
+843,Bouazizi,Nour,nour.bouazizi@gmail.com,19,Bac+2,Informatique,Compétences de base en Informatique,Sousse,5487,Anglais,Expert en Informatique
+844,Makni,Nour,nour.makni@gmail.com,20,Ingénieur,Sécurité,Compétences de base en Sécurité,Gafsa,4987,Anglais,Expert en Sécurité
+845,Mansouri,Amira,amira.mansouri@gmail.com,24,Ingénieur,VR/AR,Compétences de base en VR/AR,Kairouan,4410,Français,Expert en VR/AR
+846,Mansouri,Leila,leila.mansouri@gmail.com,18,Ingénieur,Frontend,Compétences de base en Frontend,Monastir,5610,Arabe,Expert en Frontend
+847,Makni,Mariem,mariem.makni@gmail.com,23,Bac+2,DevOps,Compétences de base en DevOps,Tunis,5458,Anglais,Expert en DevOps
+848,Hamdi,Yassine,yassine.hamdi@gmail.com,25,Bac+2,DevOps,Compétences de base en DevOps,Sousse,5812,Arabe,Expert en DevOps
+849,Mejri,Karim,karim.mejri@gmail.com,26,Bac+2,Sécurité,Compétences de base en Sécurité,Monastir,5370,Anglais,Expert en Sécurité
+850,Ben Hassine,Sarra,sarra.benhassine@gmail.com,28,Master,Full Stack,Compétences de base en Full Stack,Tunis,4314,Anglais,Expert en Full Stack
+851,Khelil,Fatma,fatma.khelil@gmail.com,25,Ingénieur,Fintech,Compétences de base en Fintech,Gabès,4948,Arabe,Expert en Fintech
+852,Nasri,Aymen,aymen.nasri@gmail.com,20,Bac+2,Réseaux,Compétences de base en Réseaux,Bizerte,3633,Français,Expert en Réseaux
+853,Chaabane,Hiba,hiba.chaabane@gmail.com,20,Bac+2,DevOps,Compétences de base en DevOps,Bizerte,1723,Arabe,Expert en DevOps
+854,Ben Youssef,Amine,amine.benyoussef@gmail.com,26,Bac+2,IA,Compétences de base en IA,Bizerte,3564,Français,Expert en IA
+855,Ben Hassen,Hichem,hichem.benhassen@gmail.com,22,Bac+2,Management,Compétences de base en Management,Sfax,2930,Anglais,Expert en Management
+856,Ben Hassine,Aya,aya.benhassine@gmail.com,25,Master,Full Stack,Compétences de base en Full Stack,Sousse,3640,Anglais,Expert en Full Stack
+857,Zouari,Rania,rania.zouari@gmail.com,30,Bac+2,Mobile,Compétences de base en Mobile,Gabès,2191,Français,Expert en Mobile
+858,Ben Hassen,Aya,aya.benhassen@gmail.com,25,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,3449,Anglais,Expert en Cybersécurité
+859,Mejri,Salma,salma.mejri@gmail.com,27,Master,Design,Compétences de base en Design,Tunis,3665,Français,Expert en Design
+860,Kallel,Salma,salma.kallel@gmail.com,24,Ingénieur,IoT,Compétences de base en IoT,Bizerte,5401,Anglais,Expert en IoT
+861,Khelil,Ahmed,ahmed.khelil@gmail.com,24,Ingénieur,Blockchain,Compétences de base en Blockchain,Gafsa,3651,Français,Expert en Blockchain
+862,Dridi,Ahmed,ahmed.dridi@gmail.com,22,Ingénieur,Informatique,Compétences de base en Informatique,Kairouan,4086,Anglais,Expert en Informatique
+863,Ben Moussa,Leila,leila.benmoussa@gmail.com,26,Master,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,3733,Arabe,Expert en Cloud Computing
+864,Chelly,Sonia,sonia.chelly@gmail.com,19,Master,SRE,Compétences de base en SRE,Kairouan,5277,Anglais,Expert en SRE
+865,Ben Hassine,Asma,asma.benhassine@gmail.com,28,Licence,Web Development,Compétences de base en Web Development,Gabès,2973,Arabe,Expert en Web Development
+866,Ferjani,Fatma,fatma.ferjani@gmail.com,18,Bac+2,Full Stack,Compétences de base en Full Stack,Tunis,4868,Français,Expert en Full Stack
+867,Dridi,Hiba,hiba.dridi@gmail.com,25,Master,Full Stack,Compétences de base en Full Stack,Monastir,3820,Arabe,Expert en Full Stack
+868,Saidi,Karim,karim.saidi@gmail.com,27,Bac+2,Informatique,Compétences de base en Informatique,Tunis,3276,Anglais,Expert en Informatique
+869,Chaabane,Mariem,mariem.chaabane@gmail.com,19,Bac+2,Game Development,Compétences de base en Game Development,Sousse,4579,Anglais,Expert en Game Development
+870,Khelil,Farah,farah.khelil@gmail.com,29,Licence,Cloud Computing,Compétences de base en Cloud Computing,Bizerte,3913,Arabe,Expert en Cloud Computing
+871,Ben Moussa,Sarra,sarra.benmoussa@gmail.com,25,Master,Backend,Compétences de base en Backend,Kairouan,4149,Arabe,Expert en Backend
+872,Mansouri,Sarra,sarra.mansouri@gmail.com,30,Bac+2,Management,Compétences de base en Management,Kairouan,4683,Arabe,Expert en Management
+873,Kallel,Anis,anis.kallel@gmail.com,22,Licence,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,2068,Arabe,Expert en Cybersécurité
+874,Ben Ammar,Rania,rania.benammar@gmail.com,24,Licence,Frontend,Compétences de base en Frontend,Gafsa,2388,Français,Expert en Frontend
+875,Ferjani,Ahmed,ahmed.ferjani@gmail.com,27,Bac+2,Design,Compétences de base en Design,Gafsa,3621,Français,Expert en Design
+876,Kallel,Sarra,sarra.kallel@gmail.com,27,Master,Sécurité,Compétences de base en Sécurité,Gafsa,1653,Arabe,Expert en Sécurité
+877,Bouazizi,Ahmed,ahmed.bouazizi@gmail.com,28,Ingénieur,Data Science,Compétences de base en Data Science,Bizerte,2741,Anglais,Expert en Data Science
+878,Ben Salem,Chaima,chaima.bensalem@gmail.com,18,Ingénieur,DevOps,Compétences de base en DevOps,Gafsa,5072,Arabe,Expert en DevOps
+879,Mahfoudh,Walid,walid.mahfoudh@gmail.com,21,Bac+2,MLOps,Compétences de base en MLOps,Kairouan,5449,Français,Expert en MLOps
+880,Ouali,Ahmed,ahmed.ouali@gmail.com,23,Master,Marketing,Compétences de base en Marketing,Kairouan,1952,Anglais,Expert en Marketing
+881,Chaabane,Ines,ines.chaabane@gmail.com,26,Master,Marketing,Compétences de base en Marketing,Sfax,5265,Arabe,Expert en Marketing
+882,Chaabane,Rania,rania.chaabane@gmail.com,26,Bac+2,Mobile,Compétences de base en Mobile,Kairouan,3064,Arabe,Expert en Mobile
+883,Ghazouani,Ahmed,ahmed.ghazouani@gmail.com,28,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,2195,Anglais,Expert en Cloud Computing
+884,Mejri,Mehdi,mehdi.mejri@gmail.com,18,Licence,IA,Compétences de base en IA,Tunis,3453,Arabe,Expert en IA
+885,Jebali,Walid,walid.jebali@gmail.com,26,Master,SRE,Compétences de base en SRE,Gafsa,5874,Arabe,Expert en SRE
+886,Ben Ali,Karim,karim.benali@gmail.com,18,Master,BI,Compétences de base en BI,Tunis,4821,Français,Expert en BI
+887,Saidi,Karim,karim.saidi@gmail.com,28,Licence,IoT,Compétences de base en IoT,Monastir,2090,Français,Expert en IoT
+888,Ben Hassine,Riadh,riadh.benhassine@gmail.com,28,Bac+2,Fintech,Compétences de base en Fintech,Gafsa,1875,Français,Expert en Fintech
+889,Ghazouani,Tarek,tarek.ghazouani@gmail.com,20,Bac+2,Informatique,Compétences de base en Informatique,Bizerte,2297,Arabe,Expert en Informatique
+890,Ben Hassen,Salma,salma.benhassen@gmail.com,27,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Sfax,2435,Arabe,Expert en Cybersécurité
+891,Ben Hassen,Oussama,oussama.benhassen@gmail.com,30,Licence,Sécurité,Compétences de base en Sécurité,Kairouan,4263,Anglais,Expert en Sécurité
+892,Ben Moussa,Mohamed,mohamed.benmoussa@gmail.com,19,Licence,BI,Compétences de base en BI,Gabès,3246,Français,Expert en BI
+893,Ouali,Hamza,hamza.ouali@gmail.com,19,Bac+2,BI,Compétences de base en BI,Bizerte,2657,Arabe,Expert en BI
+894,Mansouri,Khaled,khaled.mansouri@gmail.com,20,Ingénieur,MLOps,Compétences de base en MLOps,Monastir,1833,Français,Expert en MLOps
+895,Gharbi,Sabrine,sabrine.gharbi@gmail.com,20,Bac+2,QA,Compétences de base en QA,Gafsa,2161,Français,Expert en QA
+896,Ben Ali,Hamza,hamza.benali@gmail.com,29,Master,Sécurité,Compétences de base en Sécurité,Kairouan,5399,Anglais,Expert en Sécurité
+897,Bouazizi,Khaled,khaled.bouazizi@gmail.com,28,Master,IA,Compétences de base en IA,Gafsa,4875,Français,Expert en IA
+898,Mansouri,Karim,karim.mansouri@gmail.com,20,Ingénieur,Frontend,Compétences de base en Frontend,Sfax,3967,Arabe,Expert en Frontend
+899,Makni,Ahmed,ahmed.makni@gmail.com,21,Licence,MLOps,Compétences de base en MLOps,Sfax,5843,Français,Expert en MLOps
+900,Ben Hassen,Nour,nour.benhassen@gmail.com,26,Licence,QA,Compétences de base en QA,Gafsa,3204,Arabe,Expert en QA
+901,Kallel,Mehdi,mehdi.kallel@gmail.com,30,Licence,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,5575,Français,Expert en Cloud Computing
+902,Mansouri,Leila,leila.mansouri@gmail.com,28,Master,Data Science,Compétences de base en Data Science,Bizerte,3216,Arabe,Expert en Data Science
+903,Chelly,Rim,rim.chelly@gmail.com,30,Ingénieur,Frontend,Compétences de base en Frontend,Tunis,2355,Anglais,Expert en Frontend
+904,Kallel,Ahmed,ahmed.kallel@gmail.com,20,Bac+2,Mobile,Compétences de base en Mobile,Gafsa,5718,Français,Expert en Mobile
+905,Trabelsi,Asma,asma.trabelsi@gmail.com,25,Master,Web Development,Compétences de base en Web Development,Kairouan,3128,Anglais,Expert en Web Development
+906,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,30,Bac+2,Blockchain,Compétences de base en Blockchain,Gabès,3365,Français,Expert en Blockchain
+907,Zouari,Aya,aya.zouari@gmail.com,24,Licence,Design,Compétences de base en Design,Sfax,5358,Anglais,Expert en Design
+908,Ben Youssef,Youssef,youssef.benyoussef@gmail.com,20,Licence,Architecture,Compétences de base en Architecture,Gafsa,2958,Arabe,Expert en Architecture
+909,Hamdi,Nour,nour.hamdi@gmail.com,29,Licence,IoT,Compétences de base en IoT,Gabès,3709,Français,Expert en IoT
+910,Ben Salem,Tarek,tarek.bensalem@gmail.com,29,Bac+2,Data Science,Compétences de base en Data Science,Bizerte,2618,Français,Expert en Data Science
+911,Mahfoudh,Yassine,yassine.mahfoudh@gmail.com,24,Licence,IoT,Compétences de base en IoT,Gabès,3301,Arabe,Expert en IoT
+912,Ben Hassen,Chadi,chadi.benhassen@gmail.com,30,Licence,SRE,Compétences de base en SRE,Monastir,2208,Arabe,Expert en SRE
+913,Mahfoudh,Karim,karim.mahfoudh@gmail.com,21,Ingénieur,Fintech,Compétences de base en Fintech,Gafsa,3786,Français,Expert en Fintech
+914,Ben Hassine,Leila,leila.benhassine@gmail.com,21,Licence,Web Development,Compétences de base en Web Development,Gabès,5057,Anglais,Expert en Web Development
+915,Zouari,Aya,aya.zouari@gmail.com,18,Ingénieur,DevOps,Compétences de base en DevOps,Tunis,1828,Arabe,Expert en DevOps
+916,Ben Hassine,Youssef,youssef.benhassine@gmail.com,24,Ingénieur,Data Science,Compétences de base en Data Science,Gafsa,2302,Arabe,Expert en Data Science
+917,Ben Youssef,Asma,asma.benyoussef@gmail.com,26,Bac+2,Sécurité,Compétences de base en Sécurité,Kairouan,3285,Français,Expert en Sécurité
+918,Hamdi,Aymen,aymen.hamdi@gmail.com,28,Bac+2,Blockchain,Compétences de base en Blockchain,Tunis,5430,Anglais,Expert en Blockchain
+919,Khemiri,Chadi,chadi.khemiri@gmail.com,25,Bac+2,Game Development,Compétences de base en Game Development,Gafsa,5299,Français,Expert en Game Development
+920,Mahfoudh,Mohamed,mohamed.mahfoudh@gmail.com,30,Master,Mobile,Compétences de base en Mobile,Gafsa,1511,Anglais,Expert en Mobile
+921,Trabelsi,Ahmed,ahmed.trabelsi@gmail.com,23,Bac+2,Game Development,Compétences de base en Game Development,Bizerte,4988,Arabe,Expert en Game Development
+922,Ghazouani,Mariem,mariem.ghazouani@gmail.com,30,Licence,DevOps,Compétences de base en DevOps,Sfax,4250,Anglais,Expert en DevOps
+923,Ben Ammar,Nesrine,nesrine.benammar@gmail.com,28,Master,VR/AR,Compétences de base en VR/AR,Tunis,2409,Arabe,Expert en VR/AR
+924,Hamdi,Yassine,yassine.hamdi@gmail.com,18,Master,Frontend,Compétences de base en Frontend,Gabès,2935,Anglais,Expert en Frontend
+925,Ferjani,Walid,walid.ferjani@gmail.com,29,Licence,MLOps,Compétences de base en MLOps,Sousse,4243,Français,Expert en MLOps
+926,Ferjani,Yassine,yassine.ferjani@gmail.com,25,Licence,Backend,Compétences de base en Backend,Monastir,4125,Arabe,Expert en Backend
+927,Ksouri,Sonia,sonia.ksouri@gmail.com,28,Ingénieur,VR/AR,Compétences de base en VR/AR,Bizerte,1946,Français,Expert en VR/AR
+928,Hamdi,Emna,emna.hamdi@gmail.com,25,Bac+2,IoT,Compétences de base en IoT,Gafsa,5857,Anglais,Expert en IoT
+929,Ben Romdhane,Ahmed,ahmed.benromdhane@gmail.com,25,Master,Réseaux,Compétences de base en Réseaux,Sfax,3042,Arabe,Expert en Réseaux
+930,Trabelsi,Amine,amine.trabelsi@gmail.com,20,Master,Programmation,Compétences de base en Programmation,Sfax,2395,Français,Expert en Programmation
+931,Chelly,Yassine,yassine.chelly@gmail.com,20,Ingénieur,Game Development,Compétences de base en Game Development,Sousse,3173,Anglais,Expert en Game Development
+932,Chaabane,Mohamed,mohamed.chaabane@gmail.com,24,Licence,Réseaux,Compétences de base en Réseaux,Gafsa,4340,Arabe,Expert en Réseaux
+933,Mejri,Mohamed,mohamed.mejri@gmail.com,21,Bac+2,Réseaux,Compétences de base en Réseaux,Tunis,3403,Anglais,Expert en Réseaux
+934,Chaabane,Rim,rim.chaabane@gmail.com,27,Master,Architecture,Compétences de base en Architecture,Gabès,5482,Anglais,Expert en Architecture
+935,Ben Moussa,Leila,leila.benmoussa@gmail.com,26,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,3991,Anglais,Expert en Cybersécurité
+936,Bouazizi,Aziz,aziz.bouazizi@gmail.com,30,Master,Mobile,Compétences de base en Mobile,Monastir,5466,Arabe,Expert en Mobile
+937,Khemiri,Youssef,youssef.khemiri@gmail.com,23,Master,IA,Compétences de base en IA,Gafsa,2862,Anglais,Expert en IA
+938,Ben Ammar,Chadi,chadi.benammar@gmail.com,26,Master,Game Development,Compétences de base en Game Development,Sousse,2936,Anglais,Expert en Game Development
+939,Ghazouani,Aya,aya.ghazouani@gmail.com,21,Bac+2,Mobile,Compétences de base en Mobile,Tunis,4093,Anglais,Expert en Mobile
+940,Bouazizi,Mariem,mariem.bouazizi@gmail.com,23,Licence,Management,Compétences de base en Management,Monastir,1784,Anglais,Expert en Management
+941,Ben Salem,Emna,emna.bensalem@gmail.com,23,Ingénieur,IA,Compétences de base en IA,Sousse,5871,Arabe,Expert en IA
+942,Gharbi,Amina,amina.gharbi@gmail.com,25,Licence,Programmation,Compétences de base en Programmation,Gafsa,4123,Français,Expert en Programmation
+943,Ben Ali,Mariem,mariem.benali@gmail.com,23,Master,VR/AR,Compétences de base en VR/AR,Gafsa,3874,Anglais,Expert en VR/AR
+944,Ben Moussa,Riadh,riadh.benmoussa@gmail.com,27,Ingénieur,SRE,Compétences de base en SRE,Gabès,2420,Anglais,Expert en SRE
+945,Ben Youssef,Leila,leila.benyoussef@gmail.com,28,Bac+2,IA,Compétences de base en IA,Bizerte,1703,Arabe,Expert en IA
+946,Ben Hassen,Oussama,oussama.benhassen@gmail.com,23,Bac+2,IoT,Compétences de base en IoT,Gabès,1950,Anglais,Expert en IoT
+947,Chaabane,Mehdi,mehdi.chaabane@gmail.com,26,Licence,DevOps,Compétences de base en DevOps,Bizerte,3103,Français,Expert en DevOps
+948,Trabelsi,Ahmed,ahmed.trabelsi@gmail.com,28,Bac+2,IoT,Compétences de base en IoT,Kairouan,3092,Arabe,Expert en IoT
+949,Ben Salem,Nour,nour.bensalem@gmail.com,28,Master,Data Science,Compétences de base en Data Science,Kairouan,2711,Anglais,Expert en Data Science
+950,Mahfoudh,Leila,leila.mahfoudh@gmail.com,24,Master,Marketing,Compétences de base en Marketing,Tunis,3831,Arabe,Expert en Marketing
+951,Hamdi,Aziz,aziz.hamdi@gmail.com,26,Bac+2,IoT,Compétences de base en IoT,Monastir,5139,Anglais,Expert en IoT
+952,Makni,Mariem,mariem.makni@gmail.com,20,Ingénieur,Réseaux,Compétences de base en Réseaux,Kairouan,2643,Anglais,Expert en Réseaux
+953,Ben Hassen,Ines,ines.benhassen@gmail.com,21,Master,IA,Compétences de base en IA,Gafsa,5803,Arabe,Expert en IA
+954,Trabelsi,Sabrine,sabrine.trabelsi@gmail.com,18,Ingénieur,Sécurité,Compétences de base en Sécurité,Bizerte,4895,Français,Expert en Sécurité
+955,Ferjani,Yassine,yassine.ferjani@gmail.com,27,Licence,Game Development,Compétences de base en Game Development,Monastir,3023,Arabe,Expert en Game Development
+956,Khemiri,Sami,sami.khemiri@gmail.com,18,Master,Fintech,Compétences de base en Fintech,Bizerte,5547,Anglais,Expert en Fintech
+957,Ben Hassine,Yassine,yassine.benhassine@gmail.com,18,Bac+2,Blockchain,Compétences de base en Blockchain,Sousse,3651,Arabe,Expert en Blockchain
+958,Chaabane,Hiba,hiba.chaabane@gmail.com,28,Master,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,2969,Arabe,Expert en Cloud Computing
+959,Ben Ammar,Riad,riad.benammar@gmail.com,19,Master,Informatique,Compétences de base en Informatique,Gafsa,2046,Anglais,Expert en Informatique
+960,Ben Hassine,Nour,nour.benhassine@gmail.com,25,Ingénieur,DevOps,Compétences de base en DevOps,Bizerte,5399,Anglais,Expert en DevOps
+961,Ben Romdhane,Mariem,mariem.benromdhane@gmail.com,26,Bac+2,Marketing,Compétences de base en Marketing,Bizerte,2834,Anglais,Expert en Marketing
+962,Kallel,Riadh,riadh.kallel@gmail.com,25,Licence,BI,Compétences de base en BI,Gabès,2837,Français,Expert en BI
+963,Chelly,Nour,nour.chelly@gmail.com,28,Master,Architecture,Compétences de base en Architecture,Tunis,3874,Arabe,Expert en Architecture
+964,Dridi,Sarra,sarra.dridi@gmail.com,21,Licence,VR/AR,Compétences de base en VR/AR,Sfax,2869,Anglais,Expert en VR/AR
+965,Ben Salem,Chiraz,chiraz.bensalem@gmail.com,28,Master,Cybersécurité,Compétences de base en Cybersécurité,Bizerte,4469,Français,Expert en Cybersécurité
+966,Ferjani,Tarek,tarek.ferjani@gmail.com,20,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Sousse,5744,Arabe,Expert en Cybersécurité
+967,Hamdi,Rania,rania.hamdi@gmail.com,23,Licence,Architecture,Compétences de base en Architecture,Sfax,3284,Français,Expert en Architecture
+968,Dridi,Oussama,oussama.dridi@gmail.com,21,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,5272,Français,Expert en Cybersécurité
+969,Gharbi,Tarek,tarek.gharbi@gmail.com,25,Master,Informatique,Compétences de base en Informatique,Bizerte,4470,Français,Expert en Informatique
+970,Ben Romdhane,Mariem,mariem.benromdhane@gmail.com,26,Master,Frontend,Compétences de base en Frontend,Sousse,3995,Français,Expert en Frontend
+971,Ben Hassine,Mariem,mariem.benhassine@gmail.com,20,Licence,Blockchain,Compétences de base en Blockchain,Monastir,4018,Français,Expert en Blockchain
+972,Saidi,Tarek,tarek.saidi@gmail.com,24,Bac+2,Sécurité,Compétences de base en Sécurité,Sfax,1654,Arabe,Expert en Sécurité
+973,Khelil,Ahmed,ahmed.khelil@gmail.com,21,Bac+2,Data Science,Compétences de base en Data Science,Tunis,5706,Anglais,Expert en Data Science
+974,Kallel,Hiba,hiba.kallel@gmail.com,22,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Sfax,3971,Anglais,Expert en Cloud Computing
+975,Ben Ali,Omar,omar.benali@gmail.com,19,Licence,SRE,Compétences de base en SRE,Monastir,3013,Anglais,Expert en SRE
+976,Hamdi,Amina,amina.hamdi@gmail.com,20,Master,Sécurité,Compétences de base en Sécurité,Gabès,4385,Français,Expert en Sécurité
+977,Mahfoudh,Youssef,youssef.mahfoudh@gmail.com,29,Licence,QA,Compétences de base en QA,Sfax,2311,Anglais,Expert en QA
+978,Khelil,Fatma,fatma.khelil@gmail.com,21,Licence,VR/AR,Compétences de base en VR/AR,Bizerte,2907,Anglais,Expert en VR/AR
+979,Ben Ali,Omar,omar.benali@gmail.com,26,Ingénieur,Design,Compétences de base en Design,Gabès,3016,Arabe,Expert en Design
+980,Ben Moussa,Hiba,hiba.benmoussa@gmail.com,23,Ingénieur,Mobile,Compétences de base en Mobile,Kairouan,3255,Anglais,Expert en Mobile
+981,Zouari,Aya,aya.zouari@gmail.com,30,Master,Cloud Computing,Compétences de base en Cloud Computing,Sfax,5316,Français,Expert en Cloud Computing
+982,Dridi,Nour,nour.dridi@gmail.com,30,Master,Fintech,Compétences de base en Fintech,Bizerte,1832,Français,Expert en Fintech
+983,Ben Salem,Walid,walid.bensalem@gmail.com,24,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,4055,Anglais,Expert en Cloud Computing
+984,Ben Romdhane,Mariem,mariem.benromdhane@gmail.com,26,Ingénieur,Blockchain,Compétences de base en Blockchain,Bizerte,5005,Français,Expert en Blockchain
+985,Mahfoudh,Walid,walid.mahfoudh@gmail.com,30,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gabès,2968,Français,Expert en Cybersécurité
+986,Ben Moussa,Rania,rania.benmoussa@gmail.com,19,Ingénieur,Full Stack,Compétences de base en Full Stack,Gafsa,5781,Anglais,Expert en Full Stack
+987,Ben Moussa,Amine,amine.benmoussa@gmail.com,20,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,2333,Anglais,Expert en Cloud Computing
+988,Ben Ammar,Salma,salma.benammar@gmail.com,23,Licence,Sécurité,Compétences de base en Sécurité,Gabès,3140,Anglais,Expert en Sécurité
+989,Mahfoudh,Mohamed,mohamed.mahfoudh@gmail.com,21,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,3781,Anglais,Expert en Cloud Computing
+990,Khelil,Sonia,sonia.khelil@gmail.com,30,Ingénieur,QA,Compétences de base en QA,Gabès,5397,Anglais,Expert en QA
+991,Ben Hassen,Mohamed,mohamed.benhassen@gmail.com,26,Master,Fintech,Compétences de base en Fintech,Sousse,5224,Français,Expert en Fintech
+992,Gharbi,Yosra,yosra.gharbi@gmail.com,25,Licence,Fintech,Compétences de base en Fintech,Sousse,1743,Français,Expert en Fintech
+993,Ben Hassine,Youssef,youssef.benhassine@gmail.com,19,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Tunis,2967,Arabe,Expert en Cybersécurité
+994,Ben Hassen,Youssef,youssef.benhassen@gmail.com,22,Bac+2,IA,Compétences de base en IA,Sfax,5759,Arabe,Expert en IA
+995,Nasri,Yassine,yassine.nasri@gmail.com,22,Ingénieur,Design,Compétences de base en Design,Gafsa,5635,Arabe,Expert en Design
+996,Ferjani,Adel,adel.ferjani@gmail.com,26,Bac+2,SRE,Compétences de base en SRE,Tunis,5025,Français,Expert en SRE
+997,Jebali,Sami,sami.jebali@gmail.com,24,Ingénieur,BI,Compétences de base en BI,Gafsa,1794,Français,Expert en BI
+998,Mansouri,Amira,amira.mansouri@gmail.com,30,Master,Full Stack,Compétences de base en Full Stack,Sousse,5526,Arabe,Expert en Full Stack
+999,Bouazizi,Aziz,aziz.bouazizi@gmail.com,24,Ingénieur,Game Development,Compétences de base en Game Development,Sfax,5518,Anglais,Expert en Game Development
+1000,Ferjani,Mariem,mariem.ferjani@gmail.com,25,Ingénieur,DevOps,Compétences de base en DevOps,Sousse,5650,Français,Expert en DevOps
+1001,Jebali,Anis,anis.jebali@gmail.com,27,Ingénieur,Fintech,Compétences de base en Fintech,Gabès,3830,Arabe,Expert en Fintech
+1002,Kallel,Amina,amina.kallel@gmail.com,18,Licence,DevOps,Compétences de base en DevOps,Gabès,4357,Anglais,Expert en DevOps
+1003,Ouali,Amina,amina.ouali@gmail.com,28,Master,QA,Compétences de base en QA,Kairouan,2297,Arabe,Expert en QA
+1004,Hamdi,Tarek,tarek.hamdi@gmail.com,23,Bac+2,Architecture,Compétences de base en Architecture,Monastir,3528,Français,Expert en Architecture
+1005,Chaabane,Aziz,aziz.chaabane@gmail.com,19,Bac+2,DevOps,Compétences de base en DevOps,Bizerte,2437,Arabe,Expert en DevOps
+1006,Mansouri,Mohamed,mohamed.mansouri@gmail.com,23,Bac+2,MLOps,Compétences de base en MLOps,Gafsa,4960,Anglais,Expert en MLOps
+1007,Dridi,Karim,karim.dridi@gmail.com,18,Ingénieur,Management,Compétences de base en Management,Tunis,4092,Arabe,Expert en Management
+1008,Ouali,Ahmed,ahmed.ouali@gmail.com,27,Bac+2,BI,Compétences de base en BI,Gafsa,2319,Anglais,Expert en BI
+1009,Ben Moussa,Khaled,khaled.benmoussa@gmail.com,25,Master,BI,Compétences de base en BI,Sousse,3953,Arabe,Expert en BI
+1010,Makni,Rania,rania.makni@gmail.com,28,Bac+2,Fintech,Compétences de base en Fintech,Monastir,3854,Arabe,Expert en Fintech
+1011,Kallel,Manel,manel.kallel@gmail.com,24,Licence,DevOps,Compétences de base en DevOps,Sfax,2276,Anglais,Expert en DevOps
+1012,Ben Salem,Sonia,sonia.bensalem@gmail.com,27,Ingénieur,Sécurité,Compétences de base en Sécurité,Kairouan,3218,Arabe,Expert en Sécurité
+1013,Nasri,Sarra,sarra.nasri@gmail.com,22,Master,Backend,Compétences de base en Backend,Kairouan,5923,Arabe,Expert en Backend
+1014,Saidi,Karim,karim.saidi@gmail.com,22,Ingénieur,Programmation,Compétences de base en Programmation,Sousse,1652,Anglais,Expert en Programmation
+1015,Ghazouani,Karim,karim.ghazouani@gmail.com,27,Ingénieur,Mobile,Compétences de base en Mobile,Monastir,5328,Arabe,Expert en Mobile
+1016,Ben Ammar,Ahmed,ahmed.benammar@gmail.com,27,Ingénieur,SRE,Compétences de base en SRE,Tunis,5778,Français,Expert en SRE
+1017,Hamdi,Yassine,yassine.hamdi@gmail.com,21,Licence,IA,Compétences de base en IA,Bizerte,5066,Arabe,Expert en IA
+1018,Ben Salem,Walid,walid.bensalem@gmail.com,21,Ingénieur,Backend,Compétences de base en Backend,Bizerte,3851,Anglais,Expert en Backend
+1019,Mansouri,Yosra,yosra.mansouri@gmail.com,27,Licence,Full Stack,Compétences de base en Full Stack,Kairouan,3453,Français,Expert en Full Stack
+1020,Bouazizi,Mehdi,mehdi.bouazizi@gmail.com,21,Master,Informatique,Compétences de base en Informatique,Gafsa,5476,Anglais,Expert en Informatique
+1021,Makni,Leila,leila.makni@gmail.com,18,Licence,Backend,Compétences de base en Backend,Sousse,3734,Français,Expert en Backend
+1022,Ben Ali,Anis,anis.benali@gmail.com,30,Master,SRE,Compétences de base en SRE,Sousse,1845,Anglais,Expert en SRE
+1023,Ben Youssef,Mohamed,mohamed.benyoussef@gmail.com,19,Master,Data Science,Compétences de base en Data Science,Bizerte,2020,Arabe,Expert en Data Science
+1024,Ksouri,Nour,nour.ksouri@gmail.com,28,Bac+2,Full Stack,Compétences de base en Full Stack,Kairouan,2651,Français,Expert en Full Stack
+1025,Gharbi,Youssef,youssef.gharbi@gmail.com,26,Master,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,2239,Français,Expert en Cloud Computing
+1026,Ben Hassen,Mariem,mariem.benhassen@gmail.com,30,Master,QA,Compétences de base en QA,Gabès,4694,Anglais,Expert en QA
+1027,Ben Hassine,Asma,asma.benhassine@gmail.com,21,Licence,Architecture,Compétences de base en Architecture,Sfax,2934,Français,Expert en Architecture
+1028,Chelly,Mariem,mariem.chelly@gmail.com,22,Bac+2,Architecture,Compétences de base en Architecture,Gafsa,5870,Arabe,Expert en Architecture
+1029,Ghazouani,Yassine,yassine.ghazouani@gmail.com,26,Ingénieur,BI,Compétences de base en BI,Gafsa,3518,Arabe,Expert en BI
+1030,Ksouri,Riadh,riadh.ksouri@gmail.com,25,Master,Marketing,Compétences de base en Marketing,Bizerte,1672,Anglais,Expert en Marketing
+1031,Ksouri,Karim,karim.ksouri@gmail.com,29,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Monastir,3572,Anglais,Expert en Cybersécurité
+1032,Jebali,Aziz,aziz.jebali@gmail.com,29,Master,Backend,Compétences de base en Backend,Sfax,5881,Français,Expert en Backend
+1033,Mahfoudh,Mariem,mariem.mahfoudh@gmail.com,18,Ingénieur,Programmation,Compétences de base en Programmation,Bizerte,3964,Français,Expert en Programmation
+1034,Ben Ammar,Asma,asma.benammar@gmail.com,21,Licence,Réseaux,Compétences de base en Réseaux,Gafsa,4098,Anglais,Expert en Réseaux
+1035,Makni,Karim,karim.makni@gmail.com,19,Ingénieur,Management,Compétences de base en Management,Gafsa,4882,Arabe,Expert en Management
+1036,Ghazouani,Leila,leila.ghazouani@gmail.com,19,Licence,Cybersécurité,Compétences de base en Cybersécurité,Bizerte,5647,Français,Expert en Cybersécurité
+1037,Hamdi,Karim,karim.hamdi@gmail.com,29,Master,Frontend,Compétences de base en Frontend,Gafsa,1724,Français,Expert en Frontend
+1038,Chaabane,Farah,farah.chaabane@gmail.com,25,Licence,Backend,Compétences de base en Backend,Tunis,4782,Français,Expert en Backend
+1039,Chaabane,Aziz,aziz.chaabane@gmail.com,27,Bac+2,BI,Compétences de base en BI,Sfax,2792,Français,Expert en BI
+1040,Dridi,Tarek,tarek.dridi@gmail.com,28,Ingénieur,Frontend,Compétences de base en Frontend,Gabès,5198,Arabe,Expert en Frontend
+1041,Mahfoudh,Nour,nour.mahfoudh@gmail.com,20,Master,Management,Compétences de base en Management,Bizerte,3127,Français,Expert en Management
+1042,Makni,Khaled,khaled.makni@gmail.com,24,Ingénieur,Mobile,Compétences de base en Mobile,Monastir,1669,Français,Expert en Mobile
+1043,Ben Ammar,Amira,amira.benammar@gmail.com,27,Licence,Backend,Compétences de base en Backend,Sfax,5288,Français,Expert en Backend
+1044,Chelly,Salma,salma.chelly@gmail.com,24,Ingénieur,Data Science,Compétences de base en Data Science,Bizerte,2722,Français,Expert en Data Science
+1045,Hamdi,Salma,salma.hamdi@gmail.com,19,Bac+2,DevOps,Compétences de base en DevOps,Kairouan,5216,Anglais,Expert en DevOps
+1046,Ben Youssef,Mariem,mariem.benyoussef@gmail.com,29,Licence,Blockchain,Compétences de base en Blockchain,Monastir,3680,Arabe,Expert en Blockchain
+1047,Ben Hassine,Walid,walid.benhassine@gmail.com,20,Ingénieur,Programmation,Compétences de base en Programmation,Monastir,3265,Arabe,Expert en Programmation
+1048,Ben Hassine,Mehdi,mehdi.benhassine@gmail.com,20,Ingénieur,Architecture,Compétences de base en Architecture,Sousse,1735,Arabe,Expert en Architecture
+1049,Chelly,Asma,asma.chelly@gmail.com,25,Licence,Frontend,Compétences de base en Frontend,Gabès,5253,Français,Expert en Frontend
+1050,Ben Ali,Hiba,hiba.benali@gmail.com,23,Ingénieur,IA,Compétences de base en IA,Monastir,4641,Anglais,Expert en IA
+1051,Makni,Yosra,yosra.makni@gmail.com,19,Bac+2,Sécurité,Compétences de base en Sécurité,Tunis,4226,Français,Expert en Sécurité
+1052,Ben Youssef,Tarek,tarek.benyoussef@gmail.com,28,Bac+2,Frontend,Compétences de base en Frontend,Tunis,3577,Anglais,Expert en Frontend
+1053,Ben Hassen,Sabrine,sabrine.benhassen@gmail.com,24,Master,Réseaux,Compétences de base en Réseaux,Sousse,1836,Anglais,Expert en Réseaux
+1054,Mansouri,Anis,anis.mansouri@gmail.com,26,Ingénieur,Mobile,Compétences de base en Mobile,Gabès,5334,Français,Expert en Mobile
+1055,Trabelsi,Chiraz,chiraz.trabelsi@gmail.com,26,Ingénieur,Game Development,Compétences de base en Game Development,Sousse,3633,Français,Expert en Game Development
+1056,Ben Salem,Leila,leila.bensalem@gmail.com,25,Master,IA,Compétences de base en IA,Gabès,5023,Arabe,Expert en IA
+1057,Ksouri,Anis,anis.ksouri@gmail.com,30,Master,Frontend,Compétences de base en Frontend,Gabès,5069,Français,Expert en Frontend
+1058,Ben Salem,Rania,rania.bensalem@gmail.com,20,Ingénieur,QA,Compétences de base en QA,Tunis,3047,Français,Expert en QA
+1059,Kallel,Malek,malek.kallel@gmail.com,18,Ingénieur,Mobile,Compétences de base en Mobile,Bizerte,2839,Anglais,Expert en Mobile
+1060,Mejri,Ahmed,ahmed.mejri@gmail.com,25,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,4420,Anglais,Expert en Cloud Computing
+1061,Ferjani,Rania,rania.ferjani@gmail.com,25,Bac+2,IoT,Compétences de base en IoT,Sousse,2512,Arabe,Expert en IoT
+1062,Trabelsi,Khaled,khaled.trabelsi@gmail.com,20,Licence,Réseaux,Compétences de base en Réseaux,Bizerte,3239,Anglais,Expert en Réseaux
+1063,Ben Ali,Leila,leila.benali@gmail.com,27,Licence,QA,Compétences de base en QA,Kairouan,2129,Français,Expert en QA
+1064,Khelil,Walid,walid.khelil@gmail.com,19,Master,Full Stack,Compétences de base en Full Stack,Tunis,3828,Anglais,Expert en Full Stack
+1065,Ben Moussa,Mariem,mariem.benmoussa@gmail.com,23,Bac+2,Programmation,Compétences de base en Programmation,Gabès,2759,Français,Expert en Programmation
+1066,Trabelsi,Amira,amira.trabelsi@gmail.com,29,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,3706,Anglais,Expert en Cybersécurité
+1067,Ben Moussa,Ahmed,ahmed.benmoussa@gmail.com,18,Ingénieur,BI,Compétences de base en BI,Gabès,2559,Français,Expert en BI
+1068,Mahfoudh,Youssef,youssef.mahfoudh@gmail.com,28,Master,SRE,Compétences de base en SRE,Gabès,1954,Anglais,Expert en SRE
+1069,Trabelsi,Sami,sami.trabelsi@gmail.com,24,Bac+2,Frontend,Compétences de base en Frontend,Kairouan,3590,Français,Expert en Frontend
+1070,Zouari,Mohamed,mohamed.zouari@gmail.com,18,Licence,Sécurité,Compétences de base en Sécurité,Sousse,4682,Arabe,Expert en Sécurité
+1071,Khemiri,Aya,aya.khemiri@gmail.com,22,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,4040,Anglais,Expert en Cloud Computing
+1072,Ben Hassen,Tarek,tarek.benhassen@gmail.com,28,Bac+2,Marketing,Compétences de base en Marketing,Gabès,5699,Français,Expert en Marketing
+1073,Ben Youssef,Sami,sami.benyoussef@gmail.com,25,Master,Programmation,Compétences de base en Programmation,Kairouan,2239,Arabe,Expert en Programmation
+1074,Nasri,Khaled,khaled.nasri@gmail.com,20,Ingénieur,Frontend,Compétences de base en Frontend,Kairouan,2261,Français,Expert en Frontend
+1075,Dridi,Adel,adel.dridi@gmail.com,28,Licence,IoT,Compétences de base en IoT,Sousse,5557,Anglais,Expert en IoT
+1076,Chaabane,Leila,leila.chaabane@gmail.com,22,Ingénieur,Sécurité,Compétences de base en Sécurité,Kairouan,2148,Arabe,Expert en Sécurité
+1077,Khemiri,Aya,aya.khemiri@gmail.com,28,Master,IA,Compétences de base en IA,Monastir,5785,Arabe,Expert en IA
+1078,Khemiri,Youssef,youssef.khemiri@gmail.com,19,Bac+2,MLOps,Compétences de base en MLOps,Sfax,5683,Arabe,Expert en MLOps
+1079,Makni,Omar,omar.makni@gmail.com,28,Master,IoT,Compétences de base en IoT,Gabès,3587,Anglais,Expert en IoT
+1080,Trabelsi,Youssef,youssef.trabelsi@gmail.com,19,Ingénieur,Informatique,Compétences de base en Informatique,Sousse,2992,Arabe,Expert en Informatique
+1081,Kallel,Amine,amine.kallel@gmail.com,29,Master,Architecture,Compétences de base en Architecture,Gabès,5227,Anglais,Expert en Architecture
+1082,Mejri,Anis,anis.mejri@gmail.com,30,Licence,BI,Compétences de base en BI,Monastir,3016,Français,Expert en BI
+1083,Ben Hassine,Anis,anis.benhassine@gmail.com,19,Ingénieur,Full Stack,Compétences de base en Full Stack,Tunis,1547,Arabe,Expert en Full Stack
+1084,Gharbi,Fatma,fatma.gharbi@gmail.com,28,Ingénieur,Mobile,Compétences de base en Mobile,Gafsa,4818,Anglais,Expert en Mobile
+1085,Ben Hassine,Rania,rania.benhassine@gmail.com,27,Master,Réseaux,Compétences de base en Réseaux,Kairouan,3979,Français,Expert en Réseaux
+1086,Bouazizi,Nour,nour.bouazizi@gmail.com,21,Bac+2,Informatique,Compétences de base en Informatique,Tunis,3041,Français,Expert en Informatique
+1087,Saidi,Omar,omar.saidi@gmail.com,20,Licence,Backend,Compétences de base en Backend,Kairouan,5912,Français,Expert en Backend
+1088,Trabelsi,Manel,manel.trabelsi@gmail.com,25,Licence,QA,Compétences de base en QA,Gafsa,4956,Français,Expert en QA
+1089,Gharbi,Salma,salma.gharbi@gmail.com,29,Ingénieur,IA,Compétences de base en IA,Gafsa,5362,Français,Expert en IA
+1090,Mahfoudh,Sami,sami.mahfoudh@gmail.com,21,Licence,DevOps,Compétences de base en DevOps,Bizerte,4709,Français,Expert en DevOps
+1091,Ben Salem,Fatma,fatma.bensalem@gmail.com,28,Ingénieur,Cloud Computing,Compétences de base en Cloud Computing,Kairouan,5560,Anglais,Expert en Cloud Computing
+1092,Ouali,Sami,sami.ouali@gmail.com,18,Ingénieur,Réseaux,Compétences de base en Réseaux,Kairouan,5482,Anglais,Expert en Réseaux
+1093,Ouali,Rania,rania.ouali@gmail.com,29,Bac+2,Blockchain,Compétences de base en Blockchain,Tunis,4957,Anglais,Expert en Blockchain
+1094,Ben Salem,Sami,sami.bensalem@gmail.com,22,Ingénieur,Sécurité,Compétences de base en Sécurité,Gafsa,2457,Arabe,Expert en Sécurité
+1095,Ben Hassen,Emna,emna.benhassen@gmail.com,29,Ingénieur,IoT,Compétences de base en IoT,Tunis,2821,Arabe,Expert en IoT
+1096,Ben Hassine,Mehdi,mehdi.benhassine@gmail.com,23,Ingénieur,Fintech,Compétences de base en Fintech,Monastir,5658,Français,Expert en Fintech
+1097,Ouali,Adel,adel.ouali@gmail.com,29,Ingénieur,Frontend,Compétences de base en Frontend,Sousse,3903,Anglais,Expert en Frontend
+1098,Ghazouani,Ahmed,ahmed.ghazouani@gmail.com,28,Master,Architecture,Compétences de base en Architecture,Gafsa,2827,Anglais,Expert en Architecture
+1099,Saidi,Dorrah,dorrah.saidi@gmail.com,29,Bac+2,Game Development,Compétences de base en Game Development,Gafsa,2557,Français,Expert en Game Development
+1100,Saidi,Chadi,chadi.saidi@gmail.com,25,Bac+2,Frontend,Compétences de base en Frontend,Kairouan,5544,Arabe,Expert en Frontend
+1101,Zouari,Khaled,khaled.zouari@gmail.com,18,Bac+2,MLOps,Compétences de base en MLOps,Gabès,3636,Arabe,Expert en MLOps
+1102,Ben Moussa,Chadi,chadi.benmoussa@gmail.com,26,Bac+2,Mobile,Compétences de base en Mobile,Sfax,4266,Arabe,Expert en Mobile
+1103,Gharbi,Malek,malek.gharbi@gmail.com,26,Licence,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,3612,Arabe,Expert en Cloud Computing
+1104,Nasri,Tarek,tarek.nasri@gmail.com,18,Master,QA,Compétences de base en QA,Sousse,5722,Anglais,Expert en QA
+1105,Ben Moussa,Hiba,hiba.benmoussa@gmail.com,18,Ingénieur,Game Development,Compétences de base en Game Development,Gafsa,2408,Français,Expert en Game Development
+1106,Nasri,Hiba,hiba.nasri@gmail.com,26,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Sfax,2868,Anglais,Expert en Cybersécurité
+1107,Gharbi,Khaled,khaled.gharbi@gmail.com,20,Master,Marketing,Compétences de base en Marketing,Gafsa,5644,Arabe,Expert en Marketing
+1108,Ben Hassine,Omar,omar.benhassine@gmail.com,28,Master,IA,Compétences de base en IA,Gabès,2628,Français,Expert en IA
+1109,Mahfoudh,Rania,rania.mahfoudh@gmail.com,24,Bac+2,IoT,Compétences de base en IoT,Monastir,5380,Arabe,Expert en IoT
+1110,Khemiri,Youssef,youssef.khemiri@gmail.com,19,Master,Mobile,Compétences de base en Mobile,Gabès,4899,Arabe,Expert en Mobile
+1111,Chaabane,Riad,riad.chaabane@gmail.com,30,Ingénieur,IA,Compétences de base en IA,Monastir,2630,Arabe,Expert en IA
+1112,Makni,Aya,aya.makni@gmail.com,26,Master,IoT,Compétences de base en IoT,Tunis,5125,Français,Expert en IoT
+1113,Khelil,Fatma,fatma.khelil@gmail.com,30,Bac+2,Game Development,Compétences de base en Game Development,Sfax,4271,Arabe,Expert en Game Development
+1114,Jebali,Salma,salma.jebali@gmail.com,18,Ingénieur,Architecture,Compétences de base en Architecture,Tunis,2736,Anglais,Expert en Architecture
+1115,Kallel,Karim,karim.kallel@gmail.com,24,Ingénieur,Réseaux,Compétences de base en Réseaux,Bizerte,4069,Arabe,Expert en Réseaux
+1116,Ben Ali,Hichem,hichem.benali@gmail.com,27,Licence,VR/AR,Compétences de base en VR/AR,Kairouan,5155,Anglais,Expert en VR/AR
+1117,Saidi,Mariem,mariem.saidi@gmail.com,30,Ingénieur,Frontend,Compétences de base en Frontend,Gabès,4813,Français,Expert en Frontend
+1118,Ksouri,Manel,manel.ksouri@gmail.com,18,Master,Sécurité,Compétences de base en Sécurité,Kairouan,2532,Anglais,Expert en Sécurité
+1119,Ferjani,Dorrah,dorrah.ferjani@gmail.com,19,Master,Design,Compétences de base en Design,Gabès,2810,Français,Expert en Design
+1120,Ben Ali,Mariem,mariem.benali@gmail.com,22,Licence,DevOps,Compétences de base en DevOps,Bizerte,4963,Anglais,Expert en DevOps
+1121,Gharbi,Nesrine,nesrine.gharbi@gmail.com,23,Master,Cybersécurité,Compétences de base en Cybersécurité,Gabès,2514,Français,Expert en Cybersécurité
+1122,Khelil,Mariem,mariem.khelil@gmail.com,22,Bac+2,IoT,Compétences de base en IoT,Gafsa,4276,Français,Expert en IoT
+1123,Nasri,Ahmed,ahmed.nasri@gmail.com,21,Master,Frontend,Compétences de base en Frontend,Bizerte,3830,Anglais,Expert en Frontend
+1124,Nasri,Nour,nour.nasri@gmail.com,24,Licence,Game Development,Compétences de base en Game Development,Sfax,4185,Anglais,Expert en Game Development
+1125,Ouali,Mehdi,mehdi.ouali@gmail.com,30,Master,Cybersécurité,Compétences de base en Cybersécurité,Gafsa,2302,Français,Expert en Cybersécurité
+1126,Ghazouani,Leila,leila.ghazouani@gmail.com,24,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Sfax,2009,Arabe,Expert en Cybersécurité
+1127,Ksouri,Tarek,tarek.ksouri@gmail.com,21,Ingénieur,Fintech,Compétences de base en Fintech,Sfax,4525,Anglais,Expert en Fintech
+1128,Dridi,Mohamed,mohamed.dridi@gmail.com,26,Ingénieur,DevOps,Compétences de base en DevOps,Bizerte,5586,Anglais,Expert en DevOps
+1129,Makni,Mariem,mariem.makni@gmail.com,25,Ingénieur,Game Development,Compétences de base en Game Development,Sousse,2682,Anglais,Expert en Game Development
+1130,Bouazizi,Rania,rania.bouazizi@gmail.com,25,Licence,Game Development,Compétences de base en Game Development,Sfax,3241,Arabe,Expert en Game Development
+1131,Ben Youssef,Karim,karim.benyoussef@gmail.com,20,Master,Web Development,Compétences de base en Web Development,Sfax,4847,Français,Expert en Web Development
+1132,Gharbi,Khaled,khaled.gharbi@gmail.com,22,Bac+2,DevOps,Compétences de base en DevOps,Sousse,2464,Arabe,Expert en DevOps
+1133,Khemiri,Khaled,khaled.khemiri@gmail.com,22,Ingénieur,Réseaux,Compétences de base en Réseaux,Tunis,2670,Français,Expert en Réseaux
+1134,Nasri,Karim,karim.nasri@gmail.com,22,Master,Data Science,Compétences de base en Data Science,Monastir,2999,Anglais,Expert en Data Science
+1135,Ben Youssef,Ahmed,ahmed.benyoussef@gmail.com,26,Master,Cloud Computing,Compétences de base en Cloud Computing,Sfax,1866,Arabe,Expert en Cloud Computing
+1136,Ben Youssef,Aziz,aziz.benyoussef@gmail.com,25,Master,DevOps,Compétences de base en DevOps,Kairouan,5393,Anglais,Expert en DevOps
+1137,Ben Romdhane,Tarek,tarek.benromdhane@gmail.com,20,Ingénieur,QA,Compétences de base en QA,Gafsa,5178,Français,Expert en QA
+1138,Mahfoudh,Youssef,youssef.mahfoudh@gmail.com,30,Ingénieur,Sécurité,Compétences de base en Sécurité,Kairouan,3407,Arabe,Expert en Sécurité
+1139,Ben Salem,Mariem,mariem.bensalem@gmail.com,28,Ingénieur,Data Science,Compétences de base en Data Science,Bizerte,2225,Français,Expert en Data Science
+1140,Ghazouani,Amina,amina.ghazouani@gmail.com,28,Master,DevOps,Compétences de base en DevOps,Sfax,2197,Français,Expert en DevOps
+1141,Ben Hassen,Mariem,mariem.benhassen@gmail.com,30,Bac+2,DevOps,Compétences de base en DevOps,Monastir,5398,Anglais,Expert en DevOps
+1142,Ksouri,Mohamed,mohamed.ksouri@gmail.com,28,Licence,Cloud Computing,Compétences de base en Cloud Computing,Tunis,3752,Français,Expert en Cloud Computing
+1143,Zouari,Mariem,mariem.zouari@gmail.com,30,Master,Sécurité,Compétences de base en Sécurité,Kairouan,1868,Arabe,Expert en Sécurité
+1144,Mahfoudh,Mohamed,mohamed.mahfoudh@gmail.com,24,Licence,BI,Compétences de base en BI,Kairouan,1697,Anglais,Expert en BI
+1145,Ben Salem,Sabrine,sabrine.bensalem@gmail.com,19,Bac+2,Management,Compétences de base en Management,Sfax,5938,Français,Expert en Management
+1146,Khemiri,Riadh,riadh.khemiri@gmail.com,22,Bac+2,Mobile,Compétences de base en Mobile,Sousse,4013,Arabe,Expert en Mobile
+1147,Ben Moussa,Salma,salma.benmoussa@gmail.com,27,Master,Data Science,Compétences de base en Data Science,Sousse,1722,Anglais,Expert en Data Science
+1148,Kallel,Manel,manel.kallel@gmail.com,19,Master,Programmation,Compétences de base en Programmation,Sousse,4881,Arabe,Expert en Programmation
+1149,Chelly,Sabrine,sabrine.chelly@gmail.com,19,Bac+2,Cybersécurité,Compétences de base en Cybersécurité,Monastir,3462,Anglais,Expert en Cybersécurité
+1150,Ouali,Asma,asma.ouali@gmail.com,26,Ingénieur,Fintech,Compétences de base en Fintech,Sfax,3706,Français,Expert en Fintech
+1151,Ben Salem,Yassine,yassine.bensalem@gmail.com,24,Bac+2,MLOps,Compétences de base en MLOps,Gafsa,1736,Arabe,Expert en MLOps
+1152,Chaabane,Malek,malek.chaabane@gmail.com,22,Bac+2,Informatique,Compétences de base en Informatique,Monastir,2528,Arabe,Expert en Informatique
+1153,Ouali,Aya,aya.ouali@gmail.com,19,Licence,IoT,Compétences de base en IoT,Sousse,4558,Anglais,Expert en IoT
+1154,Mansouri,Riad,riad.mansouri@gmail.com,24,Ingénieur,MLOps,Compétences de base en MLOps,Tunis,1508,Arabe,Expert en MLOps
+1155,Ben Romdhane,Aymen,aymen.benromdhane@gmail.com,20,Bac+2,Backend,Compétences de base en Backend,Tunis,5450,Arabe,Expert en Backend
+1156,Ben Hassen,Yosra,yosra.benhassen@gmail.com,28,Ingénieur,Cybersécurité,Compétences de base en Cybersécurité,Gabès,3242,Anglais,Expert en Cybersécurité
+1157,Ben Romdhane,Nour,nour.benromdhane@gmail.com,18,Licence,Réseaux,Compétences de base en Réseaux,Sfax,3962,Français,Expert en Réseaux
+1158,Jebali,Mariem,mariem.jebali@gmail.com,20,Master,Cybersécurité,Compétences de base en Cybersécurité,Kairouan,3227,Anglais,Expert en Cybersécurité
+1159,Dridi,Chiraz,chiraz.dridi@gmail.com,23,Master,Full Stack,Compétences de base en Full Stack,Gafsa,3736,Français,Expert en Full Stack
+1160,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,21,Ingénieur,BI,Compétences de base en BI,Gabès,1630,Anglais,Expert en BI
+1161,Bouazizi,Ahmed,ahmed.bouazizi@gmail.com,25,Bac+2,Frontend,Compétences de base en Frontend,Tunis,2921,Arabe,Expert en Frontend
+1162,Ferjani,Rania,rania.ferjani@gmail.com,24,Bac+2,QA,Compétences de base en QA,Sfax,5912,Français,Expert en QA
+1163,Ksouri,Mariem,mariem.ksouri@gmail.com,19,Master,Full Stack,Compétences de base en Full Stack,Kairouan,4432,Arabe,Expert en Full Stack
+1164,Mansouri,Fatma,fatma.mansouri@gmail.com,25,Master,Cloud Computing,Compétences de base en Cloud Computing,Monastir,5141,Français,Expert en Cloud Computing
+1165,Zouari,Mohamed,mohamed.zouari@gmail.com,22,Master,QA,Compétences de base en QA,Monastir,2237,Anglais,Expert en QA
+1166,Chaabane,Manel,manel.chaabane@gmail.com,29,Licence,SRE,Compétences de base en SRE,Monastir,5545,Arabe,Expert en SRE
+1167,Kallel,Hichem,hichem.kallel@gmail.com,29,Licence,Fintech,Compétences de base en Fintech,Tunis,3106,Anglais,Expert en Fintech
+1168,Jebali,Yassine,yassine.jebali@gmail.com,27,Ingénieur,Management,Compétences de base en Management,Sousse,3087,Anglais,Expert en Management
+1169,Ben Hassine,Hamza,hamza.benhassine@gmail.com,27,Licence,Sécurité,Compétences de base en Sécurité,Sfax,2543,Arabe,Expert en Sécurité
+1170,Ben Ammar,Malek,malek.benammar@gmail.com,29,Master,VR/AR,Compétences de base en VR/AR,Monastir,1689,Anglais,Expert en VR/AR
+1171,Ben Moussa,Ahmed,ahmed.benmoussa@gmail.com,22,Ingénieur,Frontend,Compétences de base en Frontend,Tunis,4998,Anglais,Expert en Frontend
+1172,Ben Moussa,Youssef,youssef.benmoussa@gmail.com,24,Ingénieur,BI,Compétences de base en BI,Bizerte,2497,Anglais,Expert en BI
+1173,Dridi,Yassine,yassine.dridi@gmail.com,23,Bac+2,Fintech,Compétences de base en Fintech,Monastir,1884,Arabe,Expert en Fintech
+1174,Ben Ammar,Karim,karim.benammar@gmail.com,25,Master,MLOps,Compétences de base en MLOps,Tunis,4710,Français,Expert en MLOps
+1175,Ben Salem,Amine,amine.bensalem@gmail.com,30,Bac+2,DevOps,Compétences de base en DevOps,Monastir,4971,Français,Expert en DevOps
+1176,Ben Ammar,Riad,riad.benammar@gmail.com,20,Master,Design,Compétences de base en Design,Bizerte,2014,Anglais,Expert en Design
+1177,Chaabane,Omar,omar.chaabane@gmail.com,25,Ingénieur,Informatique,Compétences de base en Informatique,Tunis,4238,Arabe,Expert en Informatique
+1178,Zouari,Hiba,hiba.zouari@gmail.com,21,Master,Fintech,Compétences de base en Fintech,Tunis,4232,Anglais,Expert en Fintech
+1179,Nasri,Asma,asma.nasri@gmail.com,30,Ingénieur,Sécurité,Compétences de base en Sécurité,Sfax,5157,Anglais,Expert en Sécurité
+1180,Gharbi,Amine,amine.gharbi@gmail.com,18,Ingénieur,Data Science,Compétences de base en Data Science,Gabès,2032,Français,Expert en Data Science
+1181,Kallel,Mariem,mariem.kallel@gmail.com,22,Ingénieur,Data Science,Compétences de base en Data Science,Sfax,2334,Anglais,Expert en Data Science
+1182,Kallel,Amira,amira.kallel@gmail.com,22,Ingénieur,Data Science,Compétences de base en Data Science,Kairouan,2285,Anglais,Expert en Data Science
+1183,Khelil,Aya,aya.khelil@gmail.com,27,Bac+2,Blockchain,Compétences de base en Blockchain,Gafsa,4645,Arabe,Expert en Blockchain
+1184,Nasri,Leila,leila.nasri@gmail.com,27,Bac+2,Frontend,Compétences de base en Frontend,Gabès,1712,Arabe,Expert en Frontend
+1185,Dridi,Rim,rim.dridi@gmail.com,21,Bac+2,DevOps,Compétences de base en DevOps,Sfax,1600,Anglais,Expert en DevOps
+1186,Ghazouani,Walid,walid.ghazouani@gmail.com,30,Licence,DevOps,Compétences de base en DevOps,Sousse,5668,Arabe,Expert en DevOps
+1187,Hamdi,Karim,karim.hamdi@gmail.com,29,Ingénieur,Fintech,Compétences de base en Fintech,Sousse,3491,Français,Expert en Fintech
+1188,Nasri,Leila,leila.nasri@gmail.com,20,Master,Data Science,Compétences de base en Data Science,Kairouan,5703,Anglais,Expert en Data Science
+1189,Khelil,Tarek,tarek.khelil@gmail.com,27,Licence,Réseaux,Compétences de base en Réseaux,Sousse,5346,Arabe,Expert en Réseaux
+1190,Ben Hassen,Adel,adel.benhassen@gmail.com,23,Bac+2,Réseaux,Compétences de base en Réseaux,Sousse,1969,Français,Expert en Réseaux
+1191,Dridi,Amira,amira.dridi@gmail.com,24,Master,Data Science,Compétences de base en Data Science,Monastir,3141,Anglais,Expert en Data Science
+1192,Ben Ammar,Rania,rania.benammar@gmail.com,19,Master,SRE,Compétences de base en SRE,Monastir,5397,Anglais,Expert en SRE
+1193,Ghazouani,Yassine,yassine.ghazouani@gmail.com,29,Master,Frontend,Compétences de base en Frontend,Gabès,3954,Arabe,Expert en Frontend
+1194,Ben Salem,Chadi,chadi.bensalem@gmail.com,25,Bac+2,Cloud Computing,Compétences de base en Cloud Computing,Gafsa,3297,Français,Expert en Cloud Computing
+1195,Chaabane,Oussama,oussama.chaabane@gmail.com,21,Ingénieur,Game Development,Compétences de base en Game Development,Monastir,3458,Arabe,Expert en Game Development
+1196,Ben Hassine,Rim,rim.benhassine@gmail.com,29,Ingénieur,SRE,Compétences de base en SRE,Monastir,4779,Français,Expert en SRE
+1197,Ben Romdhane,Ahmed,ahmed.benromdhane@gmail.com,18,Bac+2,Marketing,Compétences de base en Marketing,Gabès,1745,Anglais,Expert en Marketing
+1198,Gharbi,Riadh,riadh.gharbi@gmail.com,25,Licence,Réseaux,Compétences de base en Réseaux,Gabès,1859,Français,Expert en Réseaux
+1199,Saidi,Rania,rania.saidi@gmail.com,20,Licence,Réseaux,Compétences de base en Réseaux,Bizerte,2927,Arabe,Expert en Réseaux
+1200,Mahfoudh,Sami,sami.mahfoudh@gmail.com,20,Licence,Blockchain,Compétences de base en Blockchain,Tunis,2942,Arabe,Expert en Blockchain
